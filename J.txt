@@ -1,0 +1,16000 @@
+NB. Auto-generated J script
+
+min =. </
+iynj =. 11 3 15 14 17
+gnxc =. i. 6
+NB. HACK: siy
+kvlv =: 3 : 0
+   x * y
+)
+NB. FIXME: slq
+lija =. 18
+ejio =. 7 8 12
+jmdv =. 72
+count =. #
+yxej =: 3 : 0
+   x % y
+)
+NB. TODO: xvm
+kwcm =. 80
+kmnv =: 3 : 0
+   x * y
+)
+gkhv =. 39
+uyrn =. 18 16 20 4
+sum =. +/
+mflh =. i. 10
+NB. FIXME: ouvdpv
+count =. #
+savb =. i. 8
+wvyn =. i. 4
+qhfa =. 64
+max =. >/
+qdhm =. i. 3
+count =. #
+fbkc =: 3 : 0
+   x % y
+)
+mean =. +/ % #
+gzku =: 3 : 0
+   x % y
+)
+prod =. */
+oclz =. 17 4 15
+hlow =. i. 9
+telv =: 3 : 0
+   x % y
+)
+cbch =. i. 8
+prod =. */
+gqhn =: 3 : 0
+   x % y
+)
+pwlu =: 3 : 0
+   x - y
+)
+ndnq =: 3 : 0
+   x * y
+)
+min =. </
+esjc =. i. 8
+kgqk =. 74
+zizz =. 83
+xzxb =. i. 4
+ygeg =: 3 : 0
+   x * y
+)
+min =. </
+cffn =. 16
+ppsi =. i. 7
+easp =: 3 : 0
+   x + y
+)
+qqew =. 18
+lkvy =. 5 14 3 2
+rlms =. 0 0 7
+akuw =. i. 4
+zsvh =: 3 : 0
+   x % y
+)
+nybq =: 3 : 0
+   x - y
+)
+ddmk =: 3 : 0
+   x * y
+)
+qvrz =. i. 6
+skds =: 3 : 0
+   x - y
+)
+whpj =. i. 4
+ntiy =. 38
+agup =: 3 : 0
+   x * y
+)
+djfk =. 32
+prod =. */
+dlrf =: 3 : 0
+   x - y
+)
+tnby =. 81
+max =. >/
+wyar =: 3 : 0
+   x + y
+)
+vxzt =. i. 4
+wfos =. 82
+gfwz =. 7 6
+txra =: 3 : 0
+   x + y
+)
+ymdc =. 2 20
+max =. >/
+sum =. +/
+ryaj =: 3 : 0
+   x + y
+)
+ztqo =: 3 : 0
+   x * y
+)
+jevs =: 3 : 0
+   x + y
+)
+tjpt =. 79
+min =. </
+vgpy =: 3 : 0
+   x + y
+)
+rsgv =: 3 : 0
+   x % y
+)
+sum =. +/
+dcwk =: 3 : 0
+   x - y
+)
+mean =. +/ % #
+NB. HACK: vjme
+jayb =: 3 : 0
+   x % y
+)
+gbyz =: 3 : 0
+   x * y
+)
+oklc =: 3 : 0
+   x - y
+)
+NB. NOTE: yxpf
+jdqi =. 12
+zdky =. 12 13 5 6
+icdc =. 14 1 11
+qrhi =. 8 14 19
+sum =. +/
+qiqq =. 24
+fwvq =: 3 : 0
+   x * y
+)
+NB. TODO: lhifjs
+prod =. */
+mean =. +/ % #
+dkzz =: 3 : 0
+   x % y
+)
+ejqw =. 18 8 18
+pxxl =. i. 3
+eqja =. 13 16
+kbzl =. 18 17
+etad =. 15 19 6 13 5
+prod =. */
+NB. HACK: awksvo
+uqql =. i. 10
+eldv =. 11 16 8
+mean =. +/ % #
+NB. FIXME: rmeesb
+ntuh =. 4 11 14 8
+tylf =. 16 6 17
+zsrf =. 79
+prod =. */
+xsup =. i. 9
+whga =: 3 : 0
+   x % y
+)
+tedo =: 3 : 0
+   x % y
+)
+lgzi =. i. 7
+mean =. +/ % #
+sum =. +/
+wxox =. 88
+rhra =: 3 : 0
+   x - y
+)
+hxwf =: 3 : 0
+   x - y
+)
+NB. FIXME: jsakz
+max =. >/
+pwil =: 3 : 0
+   x % y
+)
+mjyq =: 3 : 0
+   x - y
+)
+nlag =: 3 : 0
+   x * y
+)
+fjmi =. i. 10
+tzls =. i. 5
+cghr =: 3 : 0
+   x - y
+)
+akge =: 3 : 0
+   x % y
+)
+mean =. +/ % #
+NB. NOTE: cfibi
+ngzo =. i. 8
+vvjb =. i. 5
+yrqi =: 3 : 0
+   x + y
+)
+qigl =: 3 : 0
+   x * y
+)
+ounh =. 75
+count =. #
+sum =. +/
+adsc =. 0 2 3 4 1
+qwhz =: 3 : 0
+   x + y
+)
+prod =. */
+fxjd =. 49
+jrru =. i. 5
+edvf =. 17 16 13 11
+vfkm =. 17 3 11
+mean =. +/ % #
+pnci =: 3 : 0
+   x + y
+)
+mxuk =. i. 5
+gjoe =. i. 9
+mean =. +/ % #
+max =. >/
+hrdm =: 3 : 0
+   x % y
+)
+getg =: 3 : 0
+   x + y
+)
+xauv =: 3 : 0
+   x + y
+)
+vyem =. 20 19 14
+pfsj =: 3 : 0
+   x - y
+)
+lyba =. 11 17
+sum =. +/
+nodv =. i. 7
+sum =. +/
+ziwa =. 99
+NB. TODO: ljfn
+zvec =. 4
+rsyi =. i. 7
+sum =. +/
+min =. </
+prod =. */
+NB. TODO: qzsc
+count =. #
+acls =. i. 5
+llqw =. i. 6
+eeyp =. 6
+bbgz =. i. 3
+xtsb =. 7 19 8
+qbvn =. i. 3
+glbh =: 3 : 0
+   x * y
+)
+prod =. */
+iouc =. i. 4
+tuuq =. 92
+vvhg =. i. 4
+nknn =: 3 : 0
+   x * y
+)
+wkgu =. 8
+svno =. i. 6
+aetr =. i. 4
+count =. #
+ldwz =. 82
+lgza =: 3 : 0
+   x * y
+)
+eiye =: 3 : 0
+   x - y
+)
+gxqr =: 3 : 0
+   x % y
+)
+ycte =. 79
+mean =. +/ % #
+dipt =: 3 : 0
+   x * y
+)
+prod =. */
+mnrl =. 16 19
+hfeg =. 68
+mkot =: 3 : 0
+   x % y
+)
+NB. NOTE: synwgoz
+tjfe =. 54
+count =. #
+min =. </
+yhgw =. i. 7
+ocvx =. i. 6
+ykys =. 18
+count =. #
+rkun =. 52
+jokq =: 3 : 0
+   x % y
+)
+mtyw =. 87
+kibh =. i. 4
+lftj =. 11 0 18 13 6
+umuw =. 19
+nzwq =. 53
+nuax =: 3 : 0
+   x + y
+)
+prod =. */
+qwxr =. i. 8
+cwtx =: 3 : 0
+   x - y
+)
+dahq =. i. 7
+yyip =: 3 : 0
+   x * y
+)
+msqj =. 24
+buon =: 3 : 0
+   x % y
+)
+mean =. +/ % #
+mean =. +/ % #
+vswl =: 3 : 0
+   x + y
+)
+acqf =. 53
+waso =. i. 5
+vvzi =. i. 10
+tidl =: 3 : 0
+   x % y
+)
+NB. FIXME: gfsab
+dauc =. i. 6
+zbwa =. 57
+tfgl =. 93
+max =. >/
+aotv =. i. 5
+dyls =. 53
+min =. </
+min =. </
+znsr =. 16 14 1 13 11
+qjvq =: 3 : 0
+   x - y
+)
+mean =. +/ % #
+gcoj =: 3 : 0
+   x + y
+)
+bubj =: 3 : 0
+   x - y
+)
+lpac =. i. 6
+trzr =: 3 : 0
+   x % y
+)
+yynq =. i. 6
+mean =. +/ % #
+NB. HACK: ulpi
+prod =. */
+mlux =. 8 9 3
+NB. NOTE: egqphbf
+NB. HACK: psud
+bqpl =: 3 : 0
+   x % y
+)
+pwnl =. i. 6
+ffrk =: 3 : 0
+   x % y
+)
+lvtk =. 59
+frkl =. i. 6
+NB. FIXME: moqfl
+dluv =: 3 : 0
+   x + y
+)
+rywl =. i. 3
+mean =. +/ % #
+wzzo =: 3 : 0
+   x % y
+)
+oppp =: 3 : 0
+   x + y
+)
+prod =. */
+kykm =: 3 : 0
+   x - y
+)
+ycdy =. 6 19 5 15 16
+count =. #
+max =. >/
+mllf =. 18 10
+lslo =. 7 11 17
+eslf =. 15 0 18
+qxtd =. 21
+rmsq =. 7 5 19 14
+ojkd =. 63
+anjx =. i. 8
+izwp =. 9 15 10
+NB. NOTE: ldsvxb
+NB. NOTE: madqpor
+unob =: 3 : 0
+   x + y
+)
+erzi =. i. 9
+ozpv =. i. 4
+count =. #
+qxet =. 11 11
+prod =. */
+mean =. +/ % #
+pqsn =. i. 4
+count =. #
+mean =. +/ % #
+hklv =. i. 10
+upbg =. 15 9 1
+bmgi =. i. 6
+vhrr =. 0 15 20 9 11
+min =. </
+prod =. */
+egor =. 1 8 10 5
+lukj =. 9 17 20 9
+uvfg =. 14 7
+ztil =. 5
+qiay =. 8 10 12
+count =. #
+zcej =. 3 18 5 16 12
+mkec =. i. 5
+sum =. +/
+ceak =: 3 : 0
+   x + y
+)
+mzbf =: 3 : 0
+   x + y
+)
+xgpn =. 90
+count =. #
+urdi =: 3 : 0
+   x % y
+)
+ziqh =. 8 12 2
+agix =. 1 3 18 20 3
+jdsr =: 3 : 0
+   x * y
+)
+nuhy =. 62
+count =. #
+kudz =. i. 4
+kijh =. i. 7
+hvnx =. i. 7
+rjzy =. i. 8
+min =. </
+ddof =: 3 : 0
+   x % y
+)
+count =. #
+omcp =. i. 4
+NB. NOTE: ymqknrr
+dell =. 10 12 1 5 16
+iuqn =. 95
+istf =. 37
+nigx =. i. 5
+lbvq =: 3 : 0
+   x - y
+)
+nnkk =: 3 : 0
+   x % y
+)
+xisp =. i. 7
+ipiv =. 48
+gcfa =: 3 : 0
+   x + y
+)
+uwqg =. i. 6
+NB. TODO: qfbs
+zexa =. i. 5
+tdxz =. 19 6 6 0 6
+ybey =. i. 6
+phdu =. i. 6
+fqvl =: 3 : 0
+   x - y
+)
+bghu =. 5
+zpvr =: 3 : 0
+   x % y
+)
+max =. >/
+gbnf =. i. 6
+qidq =. i. 5
+rlgw =: 3 : 0
+   x * y
+)
+xhek =: 3 : 0
+   x * y
+)
+count =. #
+wpoc =. 49
+fjqs =. 2
+count =. #
+xbhz =. i. 3
+NB. TODO: szqik
+bues =: 3 : 0
+   x % y
+)
+sum =. +/
+NB. TODO: wgrav
+srqd =. 11 0 15 14
+sum =. +/
+count =. #
+count =. #
+NB. HACK: xfh
+usaw =. i. 4
+tark =. 2
+min =. </
+wyyg =. 98
+tszs =. i. 9
+NB. TODO: szc
+mean =. +/ % #
+count =. #
+mfcv =. i. 9
+axml =. 58
+max =. >/
+xxsy =. 14
+fbkg =. 13 14 6 18
+nkvm =: 3 : 0
+   x - y
+)
+bxvq =: 3 : 0
+   x + y
+)
+xbcz =: 3 : 0
+   x * y
+)
+dwje =. i. 9
+lamp =. 9 10 0
+qpzd =: 3 : 0
+   x + y
+)
+jnzs =. 11 17 9
+mean =. +/ % #
+min =. </
+udvi =. 18 10 9 4
+NB. NOTE: ojsby
+dczv =: 3 : 0
+   x + y
+)
+cwwe =. 14 5
+lcmr =. i. 3
+jvbd =. 34
+ubqz =. 91
+gdio =. 17 18 2 5 6
+brvj =. 50
+liet =. i. 8
+NB. FIXME: odkk
+uatv =: 3 : 0
+   x + y
+)
+wnzn =: 3 : 0
+   x - y
+)
+xtot =. 16 13 3 4 5
+qlup =: 3 : 0
+   x * y
+)
+czom =: 3 : 0
+   x - y
+)
+aefc =. 6 15 10 10 2
+gztt =. 16
+NB. TODO: nvgkb
+klqv =. 78
+imvw =. 13 13
+wcec =. 79
+cpkc =. 91
+bbli =. 31
+uegz =. 41
+NB. HACK: vjyxdnl
+xokh =. i. 4
+vgpq =: 3 : 0
+   x * y
+)
+mjed =: 3 : 0
+   x % y
+)
+max =. >/
+sum =. +/
+aiwr =. 10 14 10
+fxab =. 23
+ybqz =. 27
+bles =: 3 : 0
+   x - y
+)
+bxrq =. 9 10
+mean =. +/ % #
+oozp =: 3 : 0
+   x + y
+)
+max =. >/
+mean =. +/ % #
+fpbs =. i. 6
+opdl =. 50
+rubq =. i. 9
+min =. </
+oxgu =. 19 17 14 6 19
+count =. #
+gevj =: 3 : 0
+   x % y
+)
+njdp =. 43
+ohjy =: 3 : 0
+   x - y
+)
+lqcj =: 3 : 0
+   x + y
+)
+NB. HACK: rlx
+min =. </
+wvjm =. 20 17 17
+mvut =. i. 8
+rrgl =: 3 : 0
+   x - y
+)
+NB. NOTE: two
+uily =: 3 : 0
+   x - y
+)
+sum =. +/
+mean =. +/ % #
+pybb =. 20 19 13
+xqei =. 12 0 17 4 8
+count =. #
+gvqd =: 3 : 0
+   x + y
+)
+mean =. +/ % #
+wyrr =: 3 : 0
+   x % y
+)
+tvzr =. 18 6 4 12
+aqfd =: 3 : 0
+   x % y
+)
+xost =. i. 3
+jncs =: 3 : 0
+   x - y
+)
+mean =. +/ % #
+jpql =. i. 6
+mrhf =. 61
+koig =. i. 4
+xenl =. 10 11 13
+slyb =: 3 : 0
+   x * y
+)
+max =. >/
+sum =. +/
+opiv =. 2 8
+buli =. i. 5
+nfsr =. 24
+NB. FIXME: vyquhtu
+eojt =. 60
+dqgl =. i. 7
+lhhi =. 47
+axmy =: 3 : 0
+   x + y
+)
+pkip =. 42
+ukeg =. 89
+NB. HACK: ceo
+samv =. i. 9
+pcft =. 4 20
+ynvb =. i. 9
+cxpd =. i. 3
+qgjz =: 3 : 0
+   x - y
+)
+vqnv =. i. 10
+NB. FIXME: iaso
+elob =: 3 : 0
+   x - y
+)
+etxh =: 3 : 0
+   x + y
+)
+min =. </
+uklc =. 4 15 18 15 14
+loon =. 1 15 11 0
+prod =. */
+sepo =: 3 : 0
+   x - y
+)
+ymef =: 3 : 0
+   x % y
+)
+prod =. */
+ythg =. 20 9 13
+prod =. */
+jslj =: 3 : 0
+   x + y
+)
+stfv =. 40
+vcip =. 86
+prod =. */
+fulb =. 62
+ipuj =: 3 : 0
+   x + y
+)
+pjip =. 47
+ijhv =: 3 : 0
+   x * y
+)
+dqzt =. 68
+dwqb =. 14 8 6 5 11
+zqlh =. i. 9
+xokl =. 10 2 5 1
+dvkk =. i. 4
+sum =. +/
+prod =. */
+xhhk =. 37
+prod =. */
+kteo =: 3 : 0
+   x * y
+)
+jatu =. i. 7
+xhnt =: 3 : 0
+   x * y
+)
+NB. NOTE: ergxv
+uhdw =: 3 : 0
+   x * y
+)
+count =. #
+prod =. */
+efrj =. i. 9
+min =. </
+kghv =. 2 18 16 5 5
+dprk =. 44
+vuak =. 33
+tzfo =: 3 : 0
+   x * y
+)
+adps =. 77
+veol =. i. 9
+xtky =. i. 9
+min =. </
+uwfn =: 3 : 0
+   x % y
+)
+mean =. +/ % #
+max =. >/
+max =. >/
+min =. </
+rdov =. i. 4
+NB. FIXME: zeyxxq
+trhh =: 3 : 0
+   x + y
+)
+ctqa =. i. 8
+bzft =. i. 4
+qpkg =. 8
+jigb =: 3 : 0
+   x - y
+)
+min =. </
+jahg =. i. 6
+xdnx =. 28
+count =. #
+yzkh =. 9
+gxba =: 3 : 0
+   x * y
+)
+kohp =: 3 : 0
+   x + y
+)
+sum =. +/
+fuaa =. 13 11 1
+NB. NOTE: fuplnjb
+yxhs =. 80
+min =. </
+min =. </
+jciz =: 3 : 0
+   x + y
+)
+zrkp =. 17 3 1
+usdb =. 81
+vuqa =: 3 : 0
+   x + y
+)
+isyv =: 3 : 0
+   x * y
+)
+NB. FIXME: gmd
+sum =. +/
+NB. FIXME: htzgjhd
+NB. NOTE: ghign
+adoo =: 3 : 0
+   x + y
+)
+NB. NOTE: rlx
+innd =. i. 5
+yovb =: 3 : 0
+   x * y
+)
+sum =. +/
+olgt =: 3 : 0
+   x - y
+)
+prod =. */
+count =. #
+kaln =. i. 6
+NB. TODO: avrzrj
+mean =. +/ % #
+min =. </
+udzq =. i. 5
+nezp =: 3 : 0
+   x * y
+)
+NB. NOTE: zckkxx
+NB. HACK: fpfgvd
+ixvr =. 5 11 2 5 18
+wfph =. 15
+uxzd =. 95
+mcde =. 9 20 14 5 5
+oeog =. 10 19
+mean =. +/ % #
+NB. FIXME: fmxx
+sum =. +/
+qjek =. 4 3 14 18 15
+pgsq =. 48
+yonz =: 3 : 0
+   x * y
+)
+vwkk =: 3 : 0
+   x * y
+)
+nmvv =. 14 13 0 7
+min =. </
+ozkl =. 14 13 11 18
+aziz =. 7 15 6 9 9
+wwbi =. 17 1
+hsfz =. i. 7
+gzkn =. i. 3
+scos =: 3 : 0
+   x * y
+)
+jvyd =: 3 : 0
+   x % y
+)
+sum =. +/
+wwwl =. 0 15 18 11 6
+frzg =. 6 5
+eokh =. 97
+mean =. +/ % #
+NB. HACK: ayja
+vlqz =. i. 4
+fpnd =. 64
+max =. >/
+oguo =. i. 9
+gtru =: 3 : 0
+   x + y
+)
+cdxi =: 3 : 0
+   x - y
+)
+sum =. +/
+nuhr =. 24
+onof =: 3 : 0
+   x % y
+)
+bwlq =. 11 15 18
+wxoh =: 3 : 0
+   x + y
+)
+lvys =: 3 : 0
+   x % y
+)
+mean =. +/ % #
+uuan =: 3 : 0
+   x - y
+)
+max =. >/
+yjvt =. i. 5
+mean =. +/ % #
+vdwi =. i. 6
+wazz =. 5 19 11 1 4
+mtog =: 3 : 0
+   x % y
+)
+min =. </
+jnzq =. 79
+orig =: 3 : 0
+   x - y
+)
+NB. NOTE: cipm
+NB. FIXME: nyk
+mean =. +/ % #
+tuze =: 3 : 0
+   x + y
+)
+xxbr =: 3 : 0
+   x - y
+)
+ygvf =. 5 1
+min =. </
+NB. FIXME: gvvmmhi
+blik =. 1 6 8
+jkck =: 3 : 0
+   x % y
+)
+max =. >/
+vnql =: 3 : 0
+   x % y
+)
+jcih =: 3 : 0
+   x - y
+)
+uget =. i. 7
+cdji =. i. 6
+xpyh =. 9 18
+mvub =. 1
+givr =: 3 : 0
+   x * y
+)
+ekvg =: 3 : 0
+   x + y
+)
+clbf =. 45
+min =. </
+kzhe =. i. 6
+nmte =: 3 : 0
+   x % y
+)
+NB. TODO: ufz
+dtfa =. 79
+jlbb =: 3 : 0
+   x * y
+)
+qcah =. 9 8
+min =. </
+hajw =. i. 10
+min =. </
+fmct =: 3 : 0
+   x % y
+)
+sum =. +/
+NB. TODO: nnmw
+NB. FIXME: gkb
+wllv =: 3 : 0
+   x - y
+)
+sum =. +/
+bjet =. i. 8
+prod =. */
+NB. FIXME: rdisl
+iyqk =. 49
+kvsf =. i. 10
+dcyv =. 89
+bxwl =: 3 : 0
+   x - y
+)
+bray =. 20 6
+trfm =. i. 5
+eczu =. 42
+feoh =. 18
+hhaq =. 40
+min =. </
+whwa =. i. 4
+count =. #
+NB. TODO: wivllo
+sum =. +/
+vvmg =. i. 9
+ahmb =. i. 5
+ncwe =. i. 3
+mowc =: 3 : 0
+   x % y
+)
+pmaq =. 6 15 14 3 7
+NB. FIXME: iawpc
+oaxk =: 3 : 0
+   x % y
+)
+jqak =. 7 13
+count =. #
+zvwk =: 3 : 0
+   x % y
+)
+fxoa =. 16 17 18
+klmc =. i. 10
+miln =. 46
+min =. </
+opzy =. 6 10 13
+mean =. +/ % #
+prod =. */
+xnkl =. 90
+ucwo =. 18 17 2
+emge =: 3 : 0
+   x + y
+)
+ufqh =. i. 6
+atls =. 18
+mdzf =. 24
+yzlw =. 69
+pjsz =. i. 8
+fhsg =. 5 14 2 0
+gkto =. 17 11 6 20 14
+kyke =. 15 0 12 20
+zhsr =. i. 7
+vkpx =: 3 : 0
+   x - y
+)
+tmla =. 87
+prod =. */
+sum =. +/
+ygui =. i. 7
+ohhq =: 3 : 0
+   x % y
+)
+uqcf =. 93
+fkdh =. i. 5
+NB. FIXME: ovbi
+jaau =. 12 1 16
+count =. #
+NB. TODO: axb
+NB. NOTE: etnhyf
+ooff =. i. 5
+mean =. +/ % #
+NB. FIXME: becv
+pwbp =: 3 : 0
+   x * y
+)
+NB. NOTE: ukmw
+vcer =: 3 : 0
+   x - y
+)
+jofm =. 4 6 9
+xujo =. 15 9
+vyrr =. i. 7
+rgcx =: 3 : 0
+   x * y
+)
+wgpv =. 16 1 8
+vqvr =. i. 4
+sonj =. 20 12 3 5 9
+vton =. 55
+prod =. */
+prod =. */
+mssg =: 3 : 0
+   x % y
+)
+lsin =. 3 2 7 8
+acza =. 93
+roun =. 0
+NB. HACK: kry
+sum =. +/
+pmqv =: 3 : 0
+   x + y
+)
+heqh =. i. 4
+ubsm =: 3 : 0
+   x - y
+)
+mean =. +/ % #
+hrap =. i. 8
+mean =. +/ % #
+mvxi =. 98
+opys =. 8 8
+ymzh =. 2 6 18
+ecir =. 3 18 3 1
+mean =. +/ % #
+oyju =. 17 9 18 17
+NB. HACK: kbvvei
+avka =: 3 : 0
+   x + y
+)
+bylt =. 6
+xbkj =. 19 0 6 9
+wqmo =. 3 6 18 5 5
+ikfi =. 66
+rxng =: 3 : 0
+   x - y
+)
+fwqd =. 20 5
+NB. NOTE: ddplv
+sum =. +/
+djyy =: 3 : 0
+   x - y
+)
+unbc =. i. 8
+yzcs =. i. 8
+nouh =: 3 : 0
+   x - y
+)
+uarb =. 4 4
+NB. FIXME: iol
+qkbt =: 3 : 0
+   x + y
+)
+ouwh =: 3 : 0
+   x - y
+)
+ctpv =: 3 : 0
+   x - y
+)
+sum =. +/
+pqks =. 1 20
+lxiq =. i. 5
+sum =. +/
+mvub =. 19 6 18 14 11
+ymaq =: 3 : 0
+   x - y
+)
+gkbt =. 32
+dhsf =. i. 6
+max =. >/
+hmri =. i. 9
+mean =. +/ % #
+fcxn =. 23
+tuga =: 3 : 0
+   x - y
+)
+jmgk =. i. 7
+NB. HACK: zmlr
+hkoj =. 45
+ozpd =: 3 : 0
+   x % y
+)
+ntbi =. 91
+jndf =: 3 : 0
+   x % y
+)
+NB. TODO: eum
+dpcb =. 73
+ixgl =. i. 9
+dagp =. 19 14
+NB. HACK: lfrlad
+xopq =. 6 4 9 2
+prod =. */
+mwbl =: 3 : 0
+   x * y
+)
+min =. </
+izeo =: 3 : 0
+   x * y
+)
+vuqn =: 3 : 0
+   x - y
+)
+mean =. +/ % #
+cgfi =. i. 4
+ysth =. i. 6
+qoxs =. i. 6
+ikrk =: 3 : 0
+   x + y
+)
+min =. </
+mean =. +/ % #
+vqqh =. i. 7
+rytd =. i. 7
+pure =. 13 4 5 1 3
+ygvf =: 3 : 0
+   x % y
+)
+mswt =. 39
+aygx =. 15 1 11 16
+aiet =: 3 : 0
+   x - y
+)
+mean =. +/ % #
+osud =. i. 9
+rypl =. 6 10 2 20 1
+max =. >/
+bins =: 3 : 0
+   x * y
+)
+gkrc =: 3 : 0
+   x - y
+)
+prod =. */
+count =. #
+gggh =. i. 7
+hdog =. 86
+yzmb =. 19 12 2
+count =. #
+ldqx =. 20 0 8 4 15
+bjrt =. 0
+NB. HACK: qahi
+kagp =. i. 10
+kotq =. 0 0 2 14 18
+max =. >/
+sum =. +/
+ilhu =. 1 19 1
+prod =. */
+vqmz =. 15
+wvjx =. 71
+NB. TODO: umhpmvm
+hoii =. i. 5
+skdq =. 12
+ljyz =. 47
+utxa =. i. 6
+eejb =: 3 : 0
+   x % y
+)
+maug =: 3 : 0
+   x - y
+)
+sum =. +/
+aoeg =: 3 : 0
+   x + y
+)
+dvox =. 11 20 11
+max =. >/
+ebqw =: 3 : 0
+   x - y
+)
+elml =. i. 3
+max =. >/
+rleb =: 3 : 0
+   x + y
+)
+NB. FIXME: wkhr
+ntbw =. i. 6
+wjny =: 3 : 0
+   x * y
+)
+gunk =. 50
+pcvk =. 88
+rwqo =. 1 9 8 12 7
+qtzj =. 20 7
+mean =. +/ % #
+prod =. */
+vtnj =. i. 8
+nkkd =. 4
+drbd =. i. 4
+ccjp =. 9 4 15
+dcbh =: 3 : 0
+   x + y
+)
+jqhf =. 91
+slzj =. 61
+mean =. +/ % #
+ujwy =. i. 3
+NB. FIXME: kbhhad
+NB. HACK: haqiib
+fqrg =: 3 : 0
+   x - y
+)
+vaik =. i. 3
+upig =. 2 9 9 2
+lgfv =. i. 8
+rlpn =: 3 : 0
+   x % y
+)
+osfk =: 3 : 0
+   x - y
+)
+intv =. i. 7
+tpsd =. i. 8
+NB. FIXME: drlkn
+jtjp =. i. 6
+mean =. +/ % #
+rwkl =: 3 : 0
+   x * y
+)
+yrpz =. i. 4
+tjed =. 9
+laix =. 48
+fklt =. 62
+zeym =: 3 : 0
+   x - y
+)
+rrah =. 84
+rpug =. i. 3
+ombl =. i. 4
+jswt =. 17
+etjb =. 10 16 10 15 8
+blio =: 3 : 0
+   x + y
+)
+prod =. */
+vqrr =. i. 4
+dpgj =: 3 : 0
+   x - y
+)
+NB. FIXME: kpxy
+ozjy =. 17 6 14
+min =. </
+mgtq =. 10
+kage =. i. 8
+xanh =. i. 3
+sjar =. 1 9 7
+bdsi =. 17
+fhui =. 36
+rdkd =. 64
+kihm =. i. 9
+hwux =: 3 : 0
+   x + y
+)
+ranu =. i. 9
+NB. TODO: ososbz
+txmk =. 19 12 16 3
+xknj =. i. 9
+hapm =. i. 4
+aixw =: 3 : 0
+   x * y
+)
+count =. #
+pjqg =. 7
+NB. FIXME: qmee
+njci =. 61
+NB. FIXME: vmuavet
+azsh =: 3 : 0
+   x - y
+)
+rgwu =. i. 5
+bgca =. i. 4
+ybwh =. i. 4
+paod =. i. 3
+kifg =. i. 3
+min =. </
+ccul =. i. 6
+bthy =. 11
+muqn =. 77
+ewib =. 3 13 2 1
+NB. TODO: pspo
+mean =. +/ % #
+NB. HACK: nnmj
+dyjo =: 3 : 0
+   x - y
+)
+uglw =. 15 16 7
+ghzr =: 3 : 0
+   x + y
+)
+NB. TODO: zjmijj
+xnzy =. 15 4 5 7 11
+mean =. +/ % #
+epxy =. 15
+ilzx =. i. 5
+NB. TODO: aare
+slhu =. i. 7
+tgpu =. 58
+ngyb =: 3 : 0
+   x + y
+)
+prod =. */
+qdpa =. 62
+atwf =. i. 8
+jatf =. i. 3
+sgfi =. 5 6 19
+olgf =: 3 : 0
+   x - y
+)
+rqal =. 59
+xqyo =: 3 : 0
+   x - y
+)
+NB. HACK: kpxk
+bkac =. i. 10
+gkuv =: 3 : 0
+   x % y
+)
+uxwq =. i. 9
+bumx =: 3 : 0
+   x % y
+)
+ugkw =: 3 : 0
+   x + y
+)
+zpid =: 3 : 0
+   x % y
+)
+sum =. +/
+mhge =: 3 : 0
+   x * y
+)
+gbjl =. 19 19 7
+uazh =: 3 : 0
+   x % y
+)
+goup =. 57
+min =. </
+muhn =: 3 : 0
+   x * y
+)
+max =. >/
+xric =. 14
+qafv =: 3 : 0
+   x + y
+)
+otrr =. i. 3
+NB. HACK: xmqgkwm
+qypn =. 71
+sryj =: 3 : 0
+   x - y
+)
+mean =. +/ % #
+xmlx =. 2 0 7 13
+ynru =: 3 : 0
+   x % y
+)
+dwjb =. i. 10
+prqo =: 3 : 0
+   x - y
+)
+uaar =. 3 13 13 19 20
+wzfr =. 3 17 20
+xxwz =: 3 : 0
+   x * y
+)
+boxo =: 3 : 0
+   x + y
+)
+mptu =. 8 16 11 4 8
+prod =. */
+indu =: 3 : 0
+   x % y
+)
+ydxe =. i. 3
+sum =. +/
+count =. #
+esjw =. 64
+mean =. +/ % #
+obxs =. i. 4
+lhwj =. i. 7
+fbvc =. 11 1 6 18 2
+ucwn =: 3 : 0
+   x % y
+)
+wshy =. 52
+yqxq =. 29
+jllh =. 98
+ruab =. i. 8
+sitj =: 3 : 0
+   x + y
+)
+ckar =. i. 10
+max =. >/
+mean =. +/ % #
+rfhl =: 3 : 0
+   x + y
+)
+wejo =. 6 10
+fcbw =. 12 15
+pgzj =. i. 7
+mpzs =. i. 7
+iyrw =. i. 5
+min =. </
+xdet =. i. 6
+iuvp =. i. 4
+pzgg =. i. 6
+lcbm =. 55
+max =. >/
+eatw =: 3 : 0
+   x - y
+)
+afij =. 93
+enwa =. 38
+NB. FIXME: kyb
+sum =. +/
+prod =. */
+NB. NOTE: qkypagw
+aexp =. 4 1 8
+count =. #
+NB. HACK: xrx
+zaet =: 3 : 0
+   x * y
+)
+NB. TODO: duutlzk
+ghtv =. i. 8
+prod =. */
+sum =. +/
+voug =. 60
+sum =. +/
+mlhg =: 3 : 0
+   x * y
+)
+gydt =. 17 17 4 6 6
+tbfh =. 66
+lnmw =. 9 16 7
+NB. FIXME: cdidolm
+nqrv =. i. 10
+kqhj =. i. 8
+sum =. +/
+wmnm =. i. 8
+count =. #
+sum =. +/
+spbb =. 0 18
+gixm =: 3 : 0
+   x - y
+)
+wfod =: 3 : 0
+   x * y
+)
+sum =. +/
+mean =. +/ % #
+xrmv =. 71
+jklo =. 16 1 0 9 10
+count =. #
+ermg =. 1 19 4
+sum =. +/
+brzf =. 52
+lbrv =: 3 : 0
+   x + y
+)
+sstj =. 46
+max =. >/
+ikim =. i. 4
+pvoi =. 69
+kgua =. i. 10
+max =. >/
+rhhf =. i. 5
+xopt =. 83
+nnsh =. 89
+dlwv =. i. 5
+mean =. +/ % #
+iupy =. i. 4
+rnis =. 1 4
+eiml =: 3 : 0
+   x % y
+)
+count =. #
+bomv =. i. 5
+kwpk =. i. 5
+nlax =. i. 6
+mwsh =. i. 10
+hdxz =. 12 20 5 4 6
+kldz =. 7
+count =. #
+sum =. +/
+iqzf =. 12 5 5
+gvaw =. i. 4
+prod =. */
+tubm =. i. 4
+ffvj =: 3 : 0
+   x + y
+)
+lbye =: 3 : 0
+   x % y
+)
+max =. >/
+alen =. 7 17 11
+sum =. +/
+kubq =. i. 5
+snhn =. i. 8
+sefn =: 3 : 0
+   x + y
+)
+ppvk =. 74
+pizc =. 96
+count =. #
+pvfp =. 9 2
+count =. #
+count =. #
+max =. >/
+max =. >/
+mean =. +/ % #
+xzuc =. 70
+itsn =. 0 17 13 0
+uvbb =. i. 3
+NB. TODO: heyy
+tiro =. i. 4
+elty =. 8 19 10 13
+ozqn =. i. 8
+mbhf =. i. 5
+yubc =: 3 : 0
+   x % y
+)
+yrbk =: 3 : 0
+   x * y
+)
+odng =. 14 19 8
+pjzr =. i. 10
+max =. >/
+crsr =: 3 : 0
+   x * y
+)
+wckj =. i. 7
+max =. >/
+ntod =. 11 12
+qkkz =: 3 : 0
+   x + y
+)
+vkcz =. 19 12
+pjmq =. i. 7
+wwdf =. i. 9
+NB. FIXME: gvyxrff
+sijc =: 3 : 0
+   x + y
+)
+qgea =. i. 5
+hupq =. 53
+evef =. 65
+xyln =: 3 : 0
+   x * y
+)
+reyc =. 27
+oihx =. 9 15 4 17
+NB. TODO: grh
+dccb =: 3 : 0
+   x - y
+)
+min =. </
+fznn =. 51
+qxew =: 3 : 0
+   x - y
+)
+jcds =: 3 : 0
+   x % y
+)
+ncoq =. 11
+NB. TODO: xbu
+uaft =: 3 : 0
+   x - y
+)
+min =. </
+xfey =: 3 : 0
+   x * y
+)
+flqx =. i. 5
+sum =. +/
+NB. NOTE: mpt
+tzdg =. 42
+prod =. */
+min =. </
+NB. TODO: bjuaguh
+min =. </
+miru =. 16 11 1 13
+min =. </
+zwll =: 3 : 0
+   x - y
+)
+prod =. */
+dvbb =: 3 : 0
+   x % y
+)
+gwcj =. i. 7
+zjic =. 25
+lxrv =. 86
+mqzr =. i. 5
+gmji =. 52
+zvex =: 3 : 0
+   x - y
+)
+yjrv =. 53
+mzxx =. i. 8
+NB. HACK: yupb
+guho =. i. 7
+wqgj =. 22
+jfzi =: 3 : 0
+   x + y
+)
+count =. #
+lbsq =. 72
+oxxf =. 7 18 17
+diei =. i. 3
+wuxr =: 3 : 0
+   x - y
+)
+ubfs =: 3 : 0
+   x * y
+)
+bluy =. 91
+prod =. */
+nrqx =: 3 : 0
+   x % y
+)
+gvdr =: 3 : 0
+   x + y
+)
+ltee =: 3 : 0
+   x - y
+)
+ytov =. 13 10 14 6
+nqfl =. 8 7 5
+ldjf =: 3 : 0
+   x + y
+)
+plsv =. 18 5
+eaqk =: 3 : 0
+   x - y
+)
+NB. TODO: bjgz
+NB. TODO: kqli
+sum =. +/
+yuci =: 3 : 0
+   x * y
+)
+shjb =. 1 20
+vgep =: 3 : 0
+   x * y
+)
+qfrl =. 0 4 3
+max =. >/
+naiv =. 15 20 3
+qxdr =. i. 3
+cqxg =. i. 6
+NB. TODO: abs
+jrcg =. i. 9
+beeg =: 3 : 0
+   x * y
+)
+ugzh =. 11
+rtra =. 53
+fidx =. 35
+rqfb =: 3 : 0
+   x + y
+)
+ebkr =: 3 : 0
+   x % y
+)
+eucm =. 72
+prod =. */
+wamu =: 3 : 0
+   x % y
+)
+vaoa =. 76
+rnah =. i. 9
+min =. </
+zqgn =. 38
+opai =: 3 : 0
+   x - y
+)
+rvyk =. 35
+bvua =. i. 7
+max =. >/
+mwtv =: 3 : 0
+   x - y
+)
+jzuu =. 36
+min =. </
+ckye =: 3 : 0
+   x + y
+)
+rkqp =: 3 : 0
+   x + y
+)
+wcut =: 3 : 0
+   x - y
+)
+max =. >/
+min =. </
+sjam =: 3 : 0
+   x * y
+)
+mean =. +/ % #
+xshs =. 36
+min =. </
+evoj =. i. 6
+mlzm =. 93
+NB. TODO: nrx
+anql =: 3 : 0
+   x + y
+)
+qzdv =. 62
+baqp =: 3 : 0
+   x * y
+)
+uuuz =. 41
+prec =. i. 9
+wfrz =. 10 20 19
+qxjk =. 11
+uxwr =: 3 : 0
+   x * y
+)
+NB. FIXME: llha
+tpfu =. i. 7
+count =. #
+mean =. +/ % #
+mean =. +/ % #
+max =. >/
+NB. TODO: arkrp
+wjvl =. i. 6
+odzh =: 3 : 0
+   x % y
+)
+xslb =. i. 6
+min =. </
+chxl =. 12 12 20 6
+htpb =: 3 : 0
+   x - y
+)
+fylo =. 31
+fhdq =. 36
+kbsf =. i. 9
+poxf =. i. 4
+zvbm =. i. 6
+swxo =. 5 7
+fpxd =. 6 10 4
+tbmv =. 4 16 18 16 16
+vzmw =. 6 12 4 14
+lkvs =. 15 17 19 17
+kype =. 0 1 16 14 17
+cklp =: 3 : 0
+   x % y
+)
+wtud =: 3 : 0
+   x + y
+)
+max =. >/
+prod =. */
+prod =. */
+ljqv =: 3 : 0
+   x % y
+)
+mean =. +/ % #
+jljw =. i. 3
+lrpa =: 3 : 0
+   x + y
+)
+max =. >/
+ewfs =. 14 19
+trba =. 6
+count =. #
+mean =. +/ % #
+NB. HACK: jwwi
+ukpj =. 86
+vbwt =. 17
+max =. >/
+zoxf =. 0 5 14
+capy =. i. 8
+lprh =. i. 8
+dkxp =. i. 4
+xppv =: 3 : 0
+   x - y
+)
+xvai =. i. 7
+prod =. */
+gsbw =. 69
+mean =. +/ % #
+max =. >/
+wxui =: 3 : 0
+   x % y
+)
+xwwz =: 3 : 0
+   x + y
+)
+prod =. */
+agtn =. i. 7
+xajj =. 36
+max =. >/
+NB. TODO: iyxfh
+hxqv =. 15 14 10 10
+sum =. +/
+ttbl =: 3 : 0
+   x - y
+)
+tmgu =: 3 : 0
+   x - y
+)
+bmhd =. i. 8
+cwld =. 79
+count =. #
+min =. </
+vcyk =. i. 7
+hjak =: 3 : 0
+   x + y
+)
+vgff =: 3 : 0
+   x % y
+)
+qtzt =: 3 : 0
+   x * y
+)
+xzjo =: 3 : 0
+   x * y
+)
+NB. FIXME: tyir
+itpk =. 11
+uubi =: 3 : 0
+   x - y
+)
+asmf =. 12
+NB. TODO: jshbzuu
+NB. NOTE: qgslc
+NB. HACK: iapk
+ekyd =. i. 6
+ught =. 80
+hgrn =. 75
+NB. FIXME: wodir
+sum =. +/
+NB. TODO: npf
+ipxm =: 3 : 0
+   x % y
+)
+niea =. 8 5
+NB. TODO: vezhf
+hcag =: 3 : 0
+   x + y
+)
+iwxy =. i. 6
+max =. >/
+xlju =. 65
+rxpy =. 57
+wjiw =. 97
+NB. TODO: cos
+prdv =. i. 5
+pzcc =: 3 : 0
+   x + y
+)
+oukb =. 46
+min =. </
+fxtw =. i. 5
+min =. </
+min =. </
+jbyg =. i. 8
+sum =. +/
+wfke =: 3 : 0
+   x - y
+)
+NB. FIXME: vxhrp
+prod =. */
+prod =. */
+axim =: 3 : 0
+   x * y
+)
+prod =. */
+daxz =: 3 : 0
+   x * y
+)
+min =. </
+avfp =. 6 1 14 6 20
+shdk =. 61
+orgn =: 3 : 0
+   x + y
+)
+efog =: 3 : 0
+   x * y
+)
+ljom =: 3 : 0
+   x * y
+)
+pggv =: 3 : 0
+   x * y
+)
+eadv =. 7 17 15 5 17
+prod =. */
+NB. FIXME: uzn
+qlar =. 1 6 9 18 1
+knau =. i. 3
+xrog =. 2 12 5 15 9
+sum =. +/
+sum =. +/
+sum =. +/
+fmkc =. 38
+vmuu =. i. 6
+jvan =. i. 3
+NB. NOTE: torwdi
+vkeg =. i. 6
+rmnk =: 3 : 0
+   x + y
+)
+NB. HACK: glcpw
+mfcq =. i. 7
+max =. >/
+wdpt =. i. 9
+weld =. i. 10
+prod =. */
+jrio =. 16 10 5 17
+prod =. */
+mean =. +/ % #
+mceq =. 19 20 19
+axmt =. 68
+umno =: 3 : 0
+   x % y
+)
+mljl =. 16
+sgmi =. 3
+uaoc =. i. 10
+pvtj =. 18 17
+min =. </
+NB. TODO: ulodfkv
+hdko =: 3 : 0
+   x + y
+)
+ydoz =. 4 20 6 4
+dwft =: 3 : 0
+   x % y
+)
+rabb =. i. 5
+kehm =. i. 7
+kdqm =. 92
+wwug =. 77
+byyr =. 11 20 5 2
+aerh =. i. 10
+zgnf =. 61
+hoij =: 3 : 0
+   x + y
+)
+nfrq =. i. 3
+wisj =. 20 0 6 15 11
+NB. HACK: dvcv
+kxas =. i. 4
+NB. HACK: rxt
+heaw =. i. 9
+ayby =. 16 4 16 10
+count =. #
+mapa =. i. 9
+gijl =: 3 : 0
+   x + y
+)
+NB. TODO: qccuop
+xqsw =. i. 4
+NB. HACK: dcwtdsm
+NB. NOTE: wawpgm
+ixgo =: 3 : 0
+   x * y
+)
+zkqo =: 3 : 0
+   x - y
+)
+vecq =. 82
+whxu =. i. 3
+pfod =. 52
+aacb =. i. 9
+NB. TODO: ymw
+hchi =. 4 12 7 15 20
+hybb =: 3 : 0
+   x % y
+)
+max =. >/
+wvbo =. i. 7
+wmay =. i. 9
+dxnf =. 16 8 9 19
+hrhe =. i. 3
+prod =. */
+gfcw =: 3 : 0
+   x - y
+)
+nuhd =: 3 : 0
+   x - y
+)
+wfdq =. 19 5 11 20
+mean =. +/ % #
+usmj =: 3 : 0
+   x - y
+)
+hzna =. 5 20 17 13
+rprc =. 10 4
+hqle =. 12 17
+debz =. i. 9
+ypiz =. 47
+nzdy =. i. 6
+rxog =. 19 6 19 15
+lgzk =: 3 : 0
+   x % y
+)
+schf =. 18 2 7 6 0
+tgfs =: 3 : 0
+   x * y
+)
+zphs =: 3 : 0
+   x + y
+)
+kleo =. 98
+NB. HACK: npwfxbu
+bvvr =. i. 3
+mean =. +/ % #
+rzcw =. i. 9
+xlct =. 17 19 13 19
+ykpt =. 6 15 12 3
+lbai =. 5 3
+xeoo =. 20 0
+aazn =. i. 10
+wqic =: 3 : 0
+   x % y
+)
+count =. #
+glpv =. i. 6
+mhde =. 14
+vldo =. 6 11 14
+uvkz =. i. 5
+ioug =. 0 6
+sum =. +/
+zgrl =: 3 : 0
+   x * y
+)
+kyaa =. i. 9
+wets =. i. 10
+udlm =. i. 9
+ubzu =. 12 7 5 19 18
+gzdi =. 26
+orsn =: 3 : 0
+   x % y
+)
+mqdw =. 57
+ukyl =. 16 10
+ufzh =: 3 : 0
+   x + y
+)
+bxcr =: 3 : 0
+   x + y
+)
+aewa =. 8 3 20 9 14
+tvou =. 63
+xlzi =: 3 : 0
+   x % y
+)
+max =. >/
+kpsh =: 3 : 0
+   x + y
+)
+egok =: 3 : 0
+   x % y
+)
+mcpi =: 3 : 0
+   x + y
+)
+modr =. 4 5 13 20
+NB. TODO: ophhb
+uxzk =. 81
+mean =. +/ % #
+nuhd =. 11 8
+tmlh =. i. 8
+prod =. */
+npjc =. 9 13 11 3
+sum =. +/
+wtyv =. i. 4
+iror =: 3 : 0
+   x % y
+)
+ylhr =. i. 3
+NB. NOTE: iekkbhq
+yhzx =. 0 8 17 3
+rtoh =: 3 : 0
+   x % y
+)
+opka =. i. 5
+dcdb =: 3 : 0
+   x * y
+)
+jrjm =. 16 20 12
+puzj =: 3 : 0
+   x % y
+)
+gavh =: 3 : 0
+   x % y
+)
+yzzp =. 72
+prod =. */
+sum =. +/
+ymmi =. 2 14 0 8
+NB. FIXME: hxnnlc
+zzac =. 1 2 18 19
+sum =. +/
+prod =. */
+txvd =. 50
+anva =. i. 4
+vczw =. i. 9
+NB. FIXME: owda
+count =. #
+tpcr =. 2 13 15 2
+flxj =. i. 10
+iuco =. i. 10
+pshh =. 5 7 7 18
+count =. #
+NB. FIXME: osajvfl
+ipzd =. 3 11 0 20
+zdyn =: 3 : 0
+   x * y
+)
+wxuu =: 3 : 0
+   x - y
+)
+divs =. 85
+ugan =. 12 11 17
+NB. FIXME: ncg
+nats =: 3 : 0
+   x % y
+)
+yjzx =: 3 : 0
+   x - y
+)
+mihk =: 3 : 0
+   x * y
+)
+sxid =: 3 : 0
+   x - y
+)
+btmu =. i. 8
+gvxs =. 74
+sum =. +/
+dfri =. i. 4
+prod =. */
+wbxf =: 3 : 0
+   x + y
+)
+NB. NOTE: mphnzw
+adot =: 3 : 0
+   x * y
+)
+min =. </
+min =. </
+trok =. i. 6
+snnw =. 18 1 16 10
+mwub =. 99
+pece =: 3 : 0
+   x - y
+)
+qbol =. i. 8
+bsay =: 3 : 0
+   x * y
+)
+rzyv =. 1 20 2
+csji =: 3 : 0
+   x % y
+)
+jjzi =. 89
+odip =: 3 : 0
+   x % y
+)
+eqyh =. 8 15
+khqc =: 3 : 0
+   x - y
+)
+count =. #
+prod =. */
+max =. >/
+ynyd =. i. 9
+count =. #
+kfmo =. 56
+fpil =. 0
+max =. >/
+oyov =. 1
+NB. TODO: fij
+cmgc =. i. 5
+wmje =: 3 : 0
+   x % y
+)
+ezxz =. i. 8
+zcrl =. 20
+NB. NOTE: kwraow
+oyyt =: 3 : 0
+   x + y
+)
+zbsf =. 3 12 16 9 14
+mean =. +/ % #
+thlk =. 14
+eeiq =: 3 : 0
+   x % y
+)
+fbux =: 3 : 0
+   x - y
+)
+qsff =: 3 : 0
+   x + y
+)
+mvay =. 3
+mkej =: 3 : 0
+   x + y
+)
+excw =: 3 : 0
+   x % y
+)
+spez =: 3 : 0
+   x * y
+)
+jugi =. i. 9
+trug =: 3 : 0
+   x - y
+)
+aoui =. 10 13 19 2 4
+ycws =. 20 2
+gmer =. 79
+dufy =. 6 9 15
+wywi =. i. 7
+focs =. i. 3
+fzfc =. i. 7
+kwnc =: 3 : 0
+   x % y
+)
+rkch =: 3 : 0
+   x - y
+)
+wdlk =. i. 3
+vnmt =. i. 3
+NB. HACK: rzzv
+NB. HACK: klrecpk
+sefl =. 1 8 6 17 0
+ffbz =. i. 7
+cspy =. 95
+wqss =. i. 8
+etgg =: 3 : 0
+   x * y
+)
+min =. </
+coig =: 3 : 0
+   x + y
+)
+NB. NOTE: rheqq
+aged =: 3 : 0
+   x * y
+)
+count =. #
+cece =. 10 9 11 6
+sum =. +/
+vvgn =. i. 9
+max =. >/
+uxly =. 12 11 18
+iogf =. 8 7
+sgou =. i. 7
+dbdu =: 3 : 0
+   x - y
+)
+min =. </
+qkgz =: 3 : 0
+   x + y
+)
+prod =. */
+evju =. 94
+xtea =: 3 : 0
+   x % y
+)
+exuu =. 4 19 6 13
+sum =. +/
+yhvh =: 3 : 0
+   x - y
+)
+wjfu =: 3 : 0
+   x - y
+)
+pepv =: 3 : 0
+   x - y
+)
+jccs =. i. 10
+xhds =. 47
+rarn =: 3 : 0
+   x % y
+)
+min =. </
+gwfq =. 96
+NB. FIXME: yae
+NB. TODO: nkty
+fwyd =: 3 : 0
+   x % y
+)
+qmuu =. 4 0
+prod =. */
+sum =. +/
+iqqw =. 1
+NB. FIXME: qmmyg
+NB. FIXME: kxvvosd
+mhtv =. 20 16
+mqhf =. 100
+ngno =. i. 8
+gwlo =. i. 7
+NB. NOTE: eia
+hhke =: 3 : 0
+   x % y
+)
+max =. >/
+vtmg =: 3 : 0
+   x % y
+)
+count =. #
+riel =. 7
+ihuf =: 3 : 0
+   x + y
+)
+mean =. +/ % #
+iarq =: 3 : 0
+   x * y
+)
+xhxv =. i. 3
+count =. #
+NB. NOTE: wqhth
+gyok =. i. 6
+prod =. */
+NB. FIXME: cgtugh
+urju =. i. 9
+azve =. i. 7
+qyzj =: 3 : 0
+   x * y
+)
+count =. #
+mean =. +/ % #
+min =. </
+xcia =. i. 7
+uhfl =. 16 5
+vapv =. 60
+tpmq =: 3 : 0
+   x % y
+)
+xgvh =: 3 : 0
+   x % y
+)
+zspi =. i. 7
+hbyf =. 37
+mean =. +/ % #
+NB. FIXME: tsucbgt
+kyfw =. i. 5
+njkj =. 9 19 17 7 11
+prod =. */
+sum =. +/
+count =. #
+rbfq =. 29
+NB. HACK: imgzb
+qkuy =: 3 : 0
+   x + y
+)
+prod =. */
+sqhf =: 3 : 0
+   x + y
+)
+dqqa =. i. 4
+inqx =. i. 7
+wisg =. 83
+zbyw =: 3 : 0
+   x % y
+)
+eidl =. 7 11 7 16 17
+ewuy =: 3 : 0
+   x - y
+)
+exqi =. i. 10
+zncx =. 63
+tumw =: 3 : 0
+   x * y
+)
+NB. TODO: gtvbd
+prod =. */
+min =. </
+tald =. i. 7
+euax =: 3 : 0
+   x - y
+)
+dczk =. 8 4 7 10
+mean =. +/ % #
+NB. NOTE: tsv
+mean =. +/ % #
+NB. TODO: oxpu
+mean =. +/ % #
+yemy =: 3 : 0
+   x - y
+)
+mean =. +/ % #
+qhrr =: 3 : 0
+   x % y
+)
+amta =. 76
+wyea =. 13
+qpkk =. i. 4
+izwf =. 43
+vowl =. 9 12 14 19 16
+uasx =. 1 4 4
+krii =. i. 9
+dcvp =. 16 18 0 10 1
+qkgr =. 14 13
+NB. HACK: avky
+mean =. +/ % #
+mean =. +/ % #
+ynlm =: 3 : 0
+   x * y
+)
+mgvb =: 3 : 0
+   x * y
+)
+oxmy =. 19 5 5 6
+min =. </
+wxix =: 3 : 0
+   x * y
+)
+NB. FIXME: fqsvb
+tmzs =. i. 4
+drox =. 8 19
+NB. FIXME: lzwfqpt
+prod =. */
+uykj =. 20 18 13 2
+msio =. 39
+tura =: 3 : 0
+   x - y
+)
+gshs =. i. 8
+qjht =. 11 4 8
+min =. </
+ltkz =. 32
+pgyd =: 3 : 0
+   x - y
+)
+NB. HACK: ppjcq
+frcs =. i. 6
+NB. HACK: cuq
+txgj =: 3 : 0
+   x + y
+)
+yxex =. 2 18
+sum =. +/
+NB. HACK: waldman
+unsj =: 3 : 0
+   x * y
+)
+bhnw =. i. 5
+pmel =. i. 9
+prod =. */
+ysqi =: 3 : 0
+   x + y
+)
+ifux =. 98
+wocg =: 3 : 0
+   x - y
+)
+gqea =. i. 9
+count =. #
+icem =. i. 4
+zpsj =. 36
+gqwp =: 3 : 0
+   x % y
+)
+grvy =. i. 10
+hwdl =. 1 16 4 20
+max =. >/
+aifs =. 42
+puta =. i. 7
+mean =. +/ % #
+adpx =. 15 14 9 17 6
+slnn =: 3 : 0
+   x + y
+)
+egez =. 64
+krtr =. 17 18 4 0
+tnti =. 5 12 6 0 13
+txuy =: 3 : 0
+   x - y
+)
+xbff =. i. 4
+ijhq =. 2 12 3 3
+NB. HACK: rqtqcnb
+txdx =. 13 14 20 14
+xhbc =. i. 3
+pngw =. 10 11 10 19 12
+jljj =. i. 9
+dtgz =. i. 10
+wbie =. 49
+sum =. +/
+mrgz =: 3 : 0
+   x * y
+)
+NB. NOTE: bnj
+NB. NOTE: jrndwo
+fanf =: 3 : 0
+   x - y
+)
+mean =. +/ % #
+pzoy =. 76
+pavo =. 18
+xpwa =. 2 0 5 14
+mean =. +/ % #
+snkx =: 3 : 0
+   x % y
+)
+yuhv =: 3 : 0
+   x + y
+)
+jxni =. 78
+min =. </
+jest =. 9 14 6 13
+mygo =: 3 : 0
+   x - y
+)
+kbik =: 3 : 0
+   x % y
+)
+exhz =. 47
+bekf =. 0 8 6 3
+tehx =. 18 10 17 19
+xviq =. i. 6
+NB. FIXME: tdkuymq
+ieyr =. 7
+tuon =. 8 10 14 17
+count =. #
+tyxz =. i. 7
+choz =. i. 5
+pscy =. i. 8
+nqvz =. 13 5 4 11
+aheo =. i. 9
+cndz =: 3 : 0
+   x - y
+)
+NB. TODO: syto
+count =. #
+akyd =: 3 : 0
+   x * y
+)
+jxha =. i. 8
+aenb =. i. 4
+wuzr =. i. 10
+mean =. +/ % #
+wipe =. 5 8 8 7 7
+NB. HACK: lqlp
+qiei =. 97
+icmk =: 3 : 0
+   x + y
+)
+jstv =. i. 6
+fmck =. 73
+gvqq =. i. 6
+cspx =: 3 : 0
+   x + y
+)
+ipfg =. 5
+cbqt =. 19 13 4 13
+hzgh =: 3 : 0
+   x - y
+)
+orly =: 3 : 0
+   x % y
+)
+nxor =: 3 : 0
+   x % y
+)
+count =. #
+count =. #
+vspb =: 3 : 0
+   x % y
+)
+frkp =. 7 14 9 6 18
+prod =. */
+qamj =. 10 14 13
+vckr =. 3 6 17
+vpjv =. 19 5 4 0 7
+count =. #
+NB. NOTE: wvc
+vbwd =: 3 : 0
+   x - y
+)
+sum =. +/
+tuct =: 3 : 0
+   x % y
+)
+mnyv =. i. 7
+max =. >/
+rchq =: 3 : 0
+   x % y
+)
+NB. HACK: rxifrh
+cfkh =: 3 : 0
+   x * y
+)
+byii =. i. 7
+mmbb =: 3 : 0
+   x % y
+)
+NB. FIXME: lzrp
+sum =. +/
+kwby =. i. 5
+bxdu =: 3 : 0
+   x + y
+)
+mybv =. i. 8
+bmue =. i. 5
+NB. TODO: aoehabg
+mean =. +/ % #
+count =. #
+xgsr =. 70
+NB. TODO: jcmyvr
+max =. >/
+owzn =. 77
+zyzq =. i. 6
+fytc =: 3 : 0
+   x - y
+)
+max =. >/
+meao =: 3 : 0
+   x + y
+)
+max =. >/
+rvjk =. 0 0 6 18
+hnrt =. 4 18 13 8
+kbmd =: 3 : 0
+   x + y
+)
+gigr =: 3 : 0
+   x - y
+)
+max =. >/
+min =. </
+fvww =. i. 6
+zejb =. 55
+count =. #
+fpex =: 3 : 0
+   x * y
+)
+coyd =. 20 10 20
+NB. TODO: hxfb
+lhxh =. 2 19 9 1 3
+copx =. 22
+gvpb =. 8 1
+dtru =. 13 14 20 7
+jhlf =: 3 : 0
+   x - y
+)
+klit =. i. 7
+kiiv =. 19 6 20 2 2
+wxyx =. i. 9
+weba =. 9 8 7 0
+vbsv =. 37
+ovgo =: 3 : 0
+   x % y
+)
+mirk =. i. 9
+NB. NOTE: yky
+bzah =: 3 : 0
+   x % y
+)
+rdpf =. i. 7
+mzha =. 54
+NB. NOTE: ujky
+NB. NOTE: num
+hrag =. i. 8
+bwim =. 47
+qwzj =. i. 4
+ixxs =. 84
+qqbd =. 11 18
+xyiy =: 3 : 0
+   x % y
+)
+tdte =: 3 : 0
+   x * y
+)
+agny =. 17 5 18 15 6
+bwan =. i. 8
+derp =. 15 20 19 16
+mswg =: 3 : 0
+   x - y
+)
+qlns =. i. 10
+feuy =. 15 4 19
+kmse =: 3 : 0
+   x - y
+)
+biom =. i. 5
+NB. NOTE: sntivpy
+fubp =. 11 10 14
+bxiw =: 3 : 0
+   x - y
+)
+NB. HACK: rvd
+rwcy =. 1 4 9
+ugxg =. i. 5
+zrwv =. 11 15 19 9 11
+nrfj =. 71
+iqsy =: 3 : 0
+   x - y
+)
+rlsw =. 93
+meev =: 3 : 0
+   x - y
+)
+xrmm =. 9 15
+urit =. 16 20
+min =. </
+mean =. +/ % #
+fsma =: 3 : 0
+   x % y
+)
+count =. #
+wlrx =. 6 1 3 1
+vfds =. i. 4
+ynbe =. 38
+vuzz =. i. 6
+kphn =. i. 8
+ssrz =. 6 14
+NB. TODO: ifz
+grft =: 3 : 0
+   x * y
+)
+sum =. +/
+gzwt =: 3 : 0
+   x % y
+)
+tnyp =. 0 16
+wahn =. 39
+lhiv =. i. 6
+max =. >/
+omnl =: 3 : 0
+   x * y
+)
+hykz =: 3 : 0
+   x + y
+)
+owmo =: 3 : 0
+   x * y
+)
+NB. NOTE: ealtyog
+vvho =: 3 : 0
+   x % y
+)
+nrjp =. 15 1 13 18
+NB. FIXME: fue
+hvrm =. i. 6
+mmtz =: 3 : 0
+   x + y
+)
+bdyg =. 11 12 16 10
+cxni =: 3 : 0
+   x - y
+)
+NB. TODO: bagbwig
+yzmm =. i. 5
+bjfz =. i. 6
+mean =. +/ % #
+xjpb =. 90
+aypl =. 9 10 8 4
+ujdp =. 21
+osmn =: 3 : 0
+   x % y
+)
+mean =. +/ % #
+prod =. */
+sum =. +/
+afms =. 16 12 0 8
+NB. HACK: pwxg
+tfks =. 87
+pekz =. i. 5
+min =. </
+risr =. i. 6
+fmbp =. i. 6
+sowl =: 3 : 0
+   x + y
+)
+exuc =. i. 8
+max =. >/
+xrwf =. 80
+wasg =. i. 7
+sum =. +/
+max =. >/
+wvnq =. 10 3 11 13 20
+ewnx =. 12 14
+ejud =: 3 : 0
+   x - y
+)
+wvvw =. 10 8 15 8
+nqid =. i. 7
+count =. #
+edmo =: 3 : 0
+   x - y
+)
+svha =. 6 6 20 5
+mopt =. i. 3
+max =. >/
+count =. #
+max =. >/
+pzzr =. i. 8
+gasu =. 23
+fhap =: 3 : 0
+   x - y
+)
+efjr =. i. 10
+uver =. 20 7 3 15 11
+ioef =. i. 8
+NB. FIXME: xlql
+prod =. */
+nugu =: 3 : 0
+   x % y
+)
+xphx =: 3 : 0
+   x * y
+)
+atth =: 3 : 0
+   x % y
+)
+min =. </
+mean =. +/ % #
+prod =. */
+drzo =. i. 5
+NB. FIXME: dbhwah
+mean =. +/ % #
+spbz =. 4 15 10
+tbel =. 8 2
+znuk =. i. 10
+mean =. +/ % #
+pvls =. i. 5
+count =. #
+lykd =. 9 18 19 1 11
+dobs =. i. 10
+jtbf =. i. 8
+tdhf =. 14 20 15
+fmub =. 14 0 11
+gvxd =: 3 : 0
+   x * y
+)
+count =. #
+dwth =: 3 : 0
+   x - y
+)
+xljz =. i. 10
+pfyu =. 20 14
+xpit =. 2 16 18
+pgsk =. i. 8
+plbo =. 19 9 8
+mean =. +/ % #
+xpds =. i. 6
+auck =: 3 : 0
+   x * y
+)
+jkzp =: 3 : 0
+   x - y
+)
+NB. FIXME: iwv
+bgbl =. 0 13
+rjwh =. i. 9
+tfjw =. 1 7 0
+zipi =: 3 : 0
+   x + y
+)
+hxmj =. 2 6 18 20 16
+NB. FIXME: zvyb
+dccy =. i. 8
+yuyu =. 16 15 9
+sjxm =: 3 : 0
+   x * y
+)
+tdmj =. 13 5
+mean =. +/ % #
+shfc =: 3 : 0
+   x + y
+)
+mean =. +/ % #
+sum =. +/
+ekyv =. 10 10 7 16
+tpvx =. i. 7
+count =. #
+kptq =. 14 9 15 18
+rrck =: 3 : 0
+   x - y
+)
+max =. >/
+min =. </
+sum =. +/
+wick =. 44
+defu =. 63
+mecr =: 3 : 0
+   x + y
+)
+lbzt =. i. 6
+hcuk =. 6 15 16 2 9
+hcxx =. i. 5
+NB. FIXME: zqqacw
+sum =. +/
+nlul =. i. 6
+nqev =. 1 9
+mean =. +/ % #
+NB. HACK: zpjy
+qvrv =. 99
+zqsw =: 3 : 0
+   x + y
+)
+jeyt =: 3 : 0
+   x * y
+)
+ycum =. 24
+kdyc =: 3 : 0
+   x * y
+)
+ngca =. 2 1
+sum =. +/
+pwlp =. 67
+max =. >/
+sjuy =. 5
+didg =. i. 9
+max =. >/
+becy =. i. 4
+mean =. +/ % #
+xbdr =: 3 : 0
+   x * y
+)
+fyrh =. i. 9
+min =. </
+prod =. */
+poaw =. i. 9
+min =. </
+wwon =. 1 10 18 11
+mxit =. i. 4
+yvnz =. 99
+uuis =. i. 7
+count =. #
+sum =. +/
+cfgt =. 42
+gtsp =. 4 9 5 10
+abbo =. i. 8
+NB. FIXME: nmw
+jrxw =. i. 9
+wgvx =. i. 9
+ybgg =: 3 : 0
+   x * y
+)
+logn =. 7 2 17 14 8
+mean =. +/ % #
+min =. </
+mfky =. i. 8
+ydyj =. i. 4
+ydsb =. i. 9
+mutx =: 3 : 0
+   x + y
+)
+ckgh =. i. 7
+hsed =. 64
+min =. </
+cweq =. i. 7
+drbs =: 3 : 0
+   x + y
+)
+NB. TODO: boqf
+lkvj =. 91
+opym =: 3 : 0
+   x % y
+)
+qizq =: 3 : 0
+   x - y
+)
+ihpo =. 46
+jvpr =. i. 6
+sum =. +/
+tqzk =. 17 7
+xyoj =. 9 11 15 12 4
+qvbi =. 17 9 17 4
+sum =. +/
+kera =. 5 2 19 0 8
+epvs =: 3 : 0
+   x + y
+)
+count =. #
+NB. TODO: ygut
+ndyn =. 16 2
+pbdn =. 99
+sum =. +/
+aued =: 3 : 0
+   x % y
+)
+domw =: 3 : 0
+   x % y
+)
+mrip =. i. 9
+iqyx =. 17 18
+NB. TODO: ile
+elim =. 15 15 19 5
+wnpc =. i. 4
+hjwv =. 16 17
+ncqs =. i. 3
+jgwx =. 15
+max =. >/
+jfnk =. i. 8
+xndf =: 3 : 0
+   x * y
+)
+umka =. i. 10
+vkat =. 63
+zlor =. 12 13 7
+min =. </
+ykde =. i. 3
+NB. TODO: ukn
+biuz =: 3 : 0
+   x * y
+)
+min =. </
+syia =: 3 : 0
+   x + y
+)
+NB. TODO: fuqna
+count =. #
+mean =. +/ % #
+NB. TODO: ceoi
+tkcc =. i. 10
+qnwf =: 3 : 0
+   x % y
+)
+koll =. 70
+lycx =. i. 5
+NB. NOTE: vsxloa
+csrp =. 77
+tqdc =. 3 2 9
+mild =: 3 : 0
+   x + y
+)
+NB. HACK: ivz
+count =. #
+lqrq =. 73
+NB. FIXME: igaajb
+prod =. */
+min =. </
+mvxv =. i. 10
+rrxu =. i. 4
+mpjh =. i. 5
+gkuo =. i. 10
+wxwl =. i. 7
+luwx =. 11 5 12 7
+ymag =. i. 3
+ujdb =. i. 10
+ingp =. i. 7
+xenj =. 13 8 17
+ozko =. i. 5
+ugyz =. 16 9 13 10
+kgpj =: 3 : 0
+   x * y
+)
+nhij =. 67
+irtq =. 48
+xqgu =: 3 : 0
+   x + y
+)
+vakk =. i. 3
+nlwf =. 3
+oivw =: 3 : 0
+   x * y
+)
+qhcz =. i. 7
+iiah =. i. 7
+xlqh =. 3 9 17 5 10
+NB. TODO: vzvzqjh
+max =. >/
+xguq =. 6 6 14
+count =. #
+ykcl =. 0 19 5 11 10
+iavw =: 3 : 0
+   x * y
+)
+auna =: 3 : 0
+   x - y
+)
+yfmp =: 3 : 0
+   x - y
+)
+lccl =. i. 8
+skst =: 3 : 0
+   x + y
+)
+min =. </
+dqlb =. i. 8
+pknk =. i. 3
+xatu =: 3 : 0
+   x + y
+)
+bacw =: 3 : 0
+   x * y
+)
+pnek =. 14 20 15
+okvo =. i. 10
+btyg =. 16 17 9
+spoi =. i. 10
+mean =. +/ % #
+hruj =. 19 19 18 7 5
+max =. >/
+moph =. 77
+ceiw =. 9 8 10
+wbsd =. 79
+jtbm =. i. 8
+jzpw =: 3 : 0
+   x * y
+)
+vbin =. 0 20 16 16
+palb =. i. 5
+efbf =: 3 : 0
+   x + y
+)
+NB. HACK: gcbd
+flak =: 3 : 0
+   x * y
+)
+min =. </
+prod =. */
+devx =. i. 6
+rqjd =. i. 7
+bhxj =. 15 17 2 2 13
+okfs =. 20 10 12 15
+sum =. +/
+vosj =. i. 5
+lhlh =. i. 7
+eifj =. i. 3
+gpec =. 85
+kvoh =: 3 : 0
+   x * y
+)
+max =. >/
+enli =: 3 : 0
+   x * y
+)
+min =. </
+vefr =: 3 : 0
+   x + y
+)
+lqar =. 14 0 16 4
+zokb =. 7 19 16 14
+NB. FIXME: wyuc
+rjzz =. 2 13 15 14
+ozsr =. i. 4
+ukmg =. 67
+nftv =. i. 6
+kvsx =. 16 1 10
+osdl =: 3 : 0
+   x + y
+)
+haut =. 52
+max =. >/
+tird =. i. 4
+min =. </
+mean =. +/ % #
+NB. FIXME: lhs
+abbz =. i. 3
+min =. </
+tywa =: 3 : 0
+   x + y
+)
+mean =. +/ % #
+uokr =. 43
+min =. </
+NB. HACK: gpnci
+nkjy =: 3 : 0
+   x % y
+)
+NB. TODO: gkqrx
+sskm =: 3 : 0
+   x * y
+)
+amgb =. 4 7 18
+lwrd =. i. 6
+ghfi =. 10 15 0 10 6
+sfff =. 18 3 5
+yhfr =. 82
+qjcy =. 72
+NB. TODO: mhc
+NB. TODO: orltiam
+reep =. i. 3
+mean =. +/ % #
+zfln =. 18 9 20 17 3
+bjwv =. 73
+ysaa =. 2 9
+kdqf =. 19 19 8
+NB. FIXME: gstf
+NB. HACK: coxonp
+eozn =: 3 : 0
+   x % y
+)
+NB. FIXME: mypwlgp
+xgcs =. 100
+max =. >/
+zdgu =. 16 5 8 1
+qzzc =. 8 7 9 19
+wvpj =: 3 : 0
+   x * y
+)
+sum =. +/
+max =. >/
+count =. #
+uxso =. 17 14 8
+NB. FIXME: xmpku
+imur =. 4 7 3
+NB. NOTE: jkgdonc
+max =. >/
+mean =. +/ % #
+sum =. +/
+fgmw =: 3 : 0
+   x % y
+)
+hkda =. 44
+count =. #
+min =. </
+fslx =. 2
+min =. </
+pixb =. 10
+NB. HACK: thbrz
+cfxz =. 11 12 15 8
+fswv =: 3 : 0
+   x - y
+)
+NB. NOTE: zkgyu
+fdsd =. 5 16 11
+cdja =. i. 4
+dyyo =. 8 5 18
+ahar =: 3 : 0
+   x * y
+)
+fugu =: 3 : 0
+   x * y
+)
+rfol =: 3 : 0
+   x * y
+)
+qzuu =: 3 : 0
+   x - y
+)
+cmcf =: 3 : 0
+   x + y
+)
+zumx =. 20 19 16 14
+axrj =: 3 : 0
+   x - y
+)
+yvmf =. i. 10
+bgmd =. 93
+bioq =. i. 10
+sjno =. 40
+xpeo =. i. 3
+lgdt =. i. 5
+NB. FIXME: iwm
+diiu =. 60
+upkp =: 3 : 0
+   x * y
+)
+itzz =. 2 4 15 20 18
+max =. >/
+krbz =. 6 14 13 0 2
+kzoi =. i. 5
+gcnx =. 11 11 15 0 0
+NB. NOTE: qpfsmmm
+ayer =: 3 : 0
+   x + y
+)
+vymh =: 3 : 0
+   x * y
+)
+jbqh =: 3 : 0
+   x + y
+)
+koux =: 3 : 0
+   x + y
+)
+dvxf =. i. 9
+amwk =. 96
+zhtz =. 96
+max =. >/
+stsk =. i. 6
+NB. TODO: kfhwz
+xuwf =: 3 : 0
+   x + y
+)
+NB. FIXME: hrnvt
+wnqn =. 67
+NB. TODO: zvwo
+max =. >/
+tnhd =: 3 : 0
+   x % y
+)
+nxwv =. i. 5
+uols =. i. 10
+NB. FIXME: gfshsa
+oena =. 13 12 15 16 2
+sum =. +/
+mean =. +/ % #
+dthn =. 62
+jrow =: 3 : 0
+   x - y
+)
+xfod =. 9
+max =. >/
+oqmo =: 3 : 0
+   x * y
+)
+lzpb =. 65
+uhom =. i. 9
+tnnf =. i. 9
+NB. FIXME: ilubcq
+NB. HACK: map
+mnbz =: 3 : 0
+   x - y
+)
+wyhs =. i. 6
+crwl =: 3 : 0
+   x * y
+)
+isfd =. 20 13 10
+zdfh =: 3 : 0
+   x * y
+)
+jmbe =: 3 : 0
+   x - y
+)
+vnne =. 79
+qnwk =. 3 3 16 15 5
+NB. TODO: lcoubi
+wtjg =. 10 20 20 1 19
+NB. FIXME: nvyvua
+sum =. +/
+tdvl =. 2 11 17 9
+ylrv =. i. 8
+pgiy =. i. 6
+aauk =. 9 18 14
+mean =. +/ % #
+knoa =. 26
+hyhg =. 9 1 12 16
+min =. </
+sffx =. 71
+kvtu =: 3 : 0
+   x - y
+)
+coqy =. 3 1 5 19 5
+wkar =. 6 3 17 9
+hxlm =. 98
+cozr =: 3 : 0
+   x - y
+)
+NB. FIXME: eunkk
+NB. FIXME: oywsz
+ikgw =. 2 6
+NB. HACK: nfldu
+NB. HACK: ummn
+NB. HACK: tgf
+rako =. 50
+sum =. +/
+icdt =: 3 : 0
+   x + y
+)
+yrdd =. i. 3
+wcwu =. 10 5 16 7 7
+gpnq =. i. 8
+lpnk =: 3 : 0
+   x + y
+)
+izum =: 3 : 0
+   x % y
+)
+NB. NOTE: alrq
+NB. TODO: jhqrcot
+mpgq =. i. 8
+prod =. */
+bghf =. 19
+tjmm =. 9
+xiuq =. 15 1 13 6 16
+xmdj =. 19 20 5 0
+mmpv =. i. 3
+fars =. 16 7 4 11
+max =. >/
+max =. >/
+sum =. +/
+count =. #
+prod =. */
+prod =. */
+fszs =. 11 10 6 2
+gdbp =. 9 3
+count =. #
+swkt =: 3 : 0
+   x + y
+)
+NB. FIXME: fva
+bzql =. i. 4
+thgw =. 15 7 17
+bfws =. i. 5
+pyux =. 0 4
+gjda =. 1 0
+count =. #
+cwjy =. 12
+olpl =. 9 18 17 14
+nbce =. 24
+xigk =: 3 : 0
+   x - y
+)
+NB. TODO: ttr
+opxt =: 3 : 0
+   x - y
+)
+uoqz =: 3 : 0
+   x * y
+)
+agib =. 30
+gyga =. i. 7
+count =. #
+uimz =. i. 4
+watz =. 93
+ozmw =. 4 11 15
+hfvg =. 49
+stnv =. 7 20 6 15 14
+mean =. +/ % #
+kfnf =. 0 18 5
+abhb =: 3 : 0
+   x + y
+)
+amoj =. 7 5 2 6
+fnsr =. 88
+pewz =. 8 16
+dcjh =: 3 : 0
+   x * y
+)
+rgms =. i. 6
+escf =: 3 : 0
+   x + y
+)
+cfnc =. i. 7
+max =. >/
+ptza =. i. 5
+ywbp =. 44
+ktam =. i. 6
+pxkh =. 26
+count =. #
+vljg =: 3 : 0
+   x + y
+)
+csmq =: 3 : 0
+   x + y
+)
+dubw =: 3 : 0
+   x + y
+)
+bqdh =. 18 6 1 0 7
+azth =. 18 3 15 20
+uumj =: 3 : 0
+   x + y
+)
+qxbr =: 3 : 0
+   x + y
+)
+tnyu =. 34
+NB. NOTE: pkmyr
+wffb =. 12
+NB. FIXME: fkg
+cxul =. 12 9 10
+asre =: 3 : 0
+   x + y
+)
+lysw =. i. 4
+rymq =. i. 4
+ngqe =. i. 5
+pods =. 8 10 11 15 3
+NB. TODO: ycg
+count =. #
+kpfk =. i. 3
+min =. </
+min =. </
+sum =. +/
+NB. TODO: niccj
+mcub =: 3 : 0
+   x * y
+)
+zxlc =. 8
+jpbk =. i. 3
+ztpk =: 3 : 0
+   x % y
+)
+ylow =. 0 6 11 3
+daek =. i. 7
+NB. HACK: xrsnq
+NB. TODO: mub
+szpb =: 3 : 0
+   x - y
+)
+min =. </
+count =. #
+mean =. +/ % #
+lexe =: 3 : 0
+   x - y
+)
+sum =. +/
+bvug =. 5 13 6
+ebcb =. 7 13
+count =. #
+chfo =: 3 : 0
+   x - y
+)
+boil =: 3 : 0
+   x * y
+)
+yudv =. 18 14 19 15
+min =. </
+pvrz =: 3 : 0
+   x - y
+)
+prod =. */
+ibog =. 43
+max =. >/
+count =. #
+prod =. */
+tbnv =: 3 : 0
+   x * y
+)
+kzyt =: 3 : 0
+   x - y
+)
+NB. FIXME: jvn
+max =. >/
+sum =. +/
+hhag =. i. 5
+NB. HACK: vlperd
+jrzp =. 70
+yhyt =. 27
+wwnd =. 12
+xnsn =. 15 20 20 4
+NB. TODO: godx
+fuvw =. 55
+xzaz =. i. 3
+cibo =: 3 : 0
+   x * y
+)
+hggl =. i. 7
+grqr =. 32
+mean =. +/ % #
+min =. </
+prod =. */
+lnbj =. i. 6
+NB. NOTE: ikwm
+ymol =: 3 : 0
+   x - y
+)
+noun =: 3 : 0
+   x % y
+)
+yvla =. i. 5
+stbr =. 63
+NB. HACK: tcuo
+qinn =. 13 5 1 8
+vmsp =. i. 3
+NB. TODO: yqfmffn
+hafp =: 3 : 0
+   x * y
+)
+sum =. +/
+wasl =. 60
+xlmw =. i. 6
+sum =. +/
+mrqp =: 3 : 0
+   x + y
+)
+alij =. 5
+jxtm =: 3 : 0
+   x + y
+)
+lgnx =. i. 5
+uqcv =. 64
+min =. </
+rfpk =. 2
+vckd =. i. 9
+sum =. +/
+axty =: 3 : 0
+   x - y
+)
+NB. HACK: lvnszyu
+duqc =: 3 : 0
+   x * y
+)
+xsvy =: 3 : 0
+   x - y
+)
+xfqw =: 3 : 0
+   x + y
+)
+vlnf =. 72
+NB. TODO: awqpdaa
+sum =. +/
+bicf =. i. 6
+NB. FIXME: ccqy
+bcyf =: 3 : 0
+   x + y
+)
+cefp =: 3 : 0
+   x * y
+)
+rzne =. 11 18 1
+hyxf =. 8 9 15 7 10
+dxxd =: 3 : 0
+   x * y
+)
+oaqr =. 11
+xafj =: 3 : 0
+   x - y
+)
+rrci =. 100
+bnvb =. 10
+havr =. 20 1
+zefc =: 3 : 0
+   x % y
+)
+prod =. */
+wjdm =: 3 : 0
+   x + y
+)
+min =. </
+zrkp =. i. 8
+pufy =: 3 : 0
+   x * y
+)
+issr =. i. 8
+tbyf =. 17 8 6
+iqqd =. 44
+hivx =: 3 : 0
+   x + y
+)
+faef =: 3 : 0
+   x - y
+)
+hcgi =. 52
+xccm =. i. 10
+mean =. +/ % #
+hpsa =. i. 9
+min =. </
+smdp =: 3 : 0
+   x - y
+)
+sum =. +/
+hrzu =. i. 7
+ofxw =: 3 : 0
+   x * y
+)
+qloc =. 79
+NB. TODO: mrg
+eqgw =. 35
+izub =. 20 2
+kbxf =: 3 : 0
+   x - y
+)
+count =. #
+cary =: 3 : 0
+   x * y
+)
+mmps =. i. 9
+ghrz =: 3 : 0
+   x + y
+)
+iymy =: 3 : 0
+   x - y
+)
+gwrh =. i. 7
+cxdy =. 20 4 20 1 6
+prod =. */
+azsp =. i. 5
+min =. </
+NB. TODO: nldrmlg
+ebst =. 51
+ujkf =: 3 : 0
+   x - y
+)
+hblt =. 1 14 4 12 16
+mean =. +/ % #
+count =. #
+lbtw =. 0
+zcea =. i. 9
+boci =. 8 13 14
+ohjr =. 0
+NB. HACK: ueor
+qkyo =. 10 5
+ibys =. 8 15
+xtzu =: 3 : 0
+   x + y
+)
+mean =. +/ % #
+ylkz =. i. 5
+count =. #
+izgo =. i. 10
+owkn =: 3 : 0
+   x - y
+)
+lbyh =: 3 : 0
+   x + y
+)
+NB. FIXME: zfxf
+pfza =. 66
+gaxd =. i. 10
+fqcw =. 37
+dwdp =. 10 19
+min =. </
+zcku =. i. 6
+osbg =. i. 5
+dhsl =. i. 10
+affj =. 2
+wghe =. 13 20 8
+icrw =. 65
+NB. HACK: zwvyyl
+nnze =: 3 : 0
+   x - y
+)
+syyc =: 3 : 0
+   x + y
+)
+rdqe =. i. 3
+min =. </
+yucj =. 47
+fyjf =: 3 : 0
+   x + y
+)
+axdc =. i. 4
+bylv =. i. 4
+kwpu =. 15 11 13 4
+muvf =. 37
+min =. </
+dzlq =. 20 11
+qtma =: 3 : 0
+   x % y
+)
+jsbv =. 1 14 5 0 8
+pkia =. 19 20 7
+upkm =. i. 7
+max =. >/
+snks =. 13 7 17 11 11
+tgiz =: 3 : 0
+   x % y
+)
+min =. </
+hlht =. i. 5
+qhxc =. i. 9
+niqy =. 6 1
+iwqr =. 60
+vmdn =. i. 3
+baso =: 3 : 0
+   x - y
+)
+tryn =. i. 5
+ujlw =. 15 3 17 16
+bgop =: 3 : 0
+   x + y
+)
+eicu =. i. 6
+yxog =. 11
+cyly =. 80
+yaky =: 3 : 0
+   x * y
+)
+NB. FIXME: chfeaoh
+vers =. 73
+max =. >/
+iwyx =. 66
+min =. </
+afnq =. 6
+tehx =. 0
+tktb =: 3 : 0
+   x * y
+)
+count =. #
+sum =. +/
+count =. #
+pznr =. 28
+wvie =: 3 : 0
+   x - y
+)
+NB. TODO: odjbeu
+aifm =. 17 9
+nwbf =. 19 17 1
+rhlq =. i. 10
+NB. FIXME: ghbut
+max =. >/
+nfkr =: 3 : 0
+   x % y
+)
+lkiy =. i. 5
+kwab =. i. 4
+sjdb =. 16 2 5 10 2
+jzfg =. i. 8
+fjll =. 14 7 20 15
+xzct =. i. 3
+NB. HACK: cqomk
+cmhn =: 3 : 0
+   x + y
+)
+uftj =. 6 0 15 10 13
+mmcc =. 19 12 13
+prod =. */
+bler =: 3 : 0
+   x * y
+)
+qyns =. 12
+mkwe =. i. 5
+oirq =: 3 : 0
+   x + y
+)
+prod =. */
+vcai =. 20 7 10 10
+mtho =. 16 20
+NB. FIXME: mwyj
+eztg =. i. 10
+sum =. +/
+count =. #
+zfxs =. i. 7
+vlyq =. 86
+onxg =. 20 16 2
+baoz =: 3 : 0
+   x - y
+)
+rouc =: 3 : 0
+   x + y
+)
+wgjn =. 82
+frur =. 79
+ymop =. 7 9 0 5
+min =. </
+sum =. +/
+dmtr =: 3 : 0
+   x - y
+)
+rugz =: 3 : 0
+   x * y
+)
+prod =. */
+fpar =. 5
+rszn =. 2 6 0 16 7
+jpts =: 3 : 0
+   x + y
+)
+ndgd =. i. 6
+lrql =. i. 5
+xbjr =. i. 4
+min =. </
+mlpf =. i. 3
+fbdv =. i. 10
+nbyp =. i. 9
+prod =. */
+fycz =. 12 18 14
+prod =. */
+pyih =. 47
+mean =. +/ % #
+tmak =: 3 : 0
+   x - y
+)
+tfpd =. 65
+min =. </
+jkwg =. i. 7
+hmid =. 30
+edxb =. 4 15 11
+gnpw =: 3 : 0
+   x % y
+)
+kxbv =. 5 17 11 0
+hhwn =. i. 3
+nrgu =. i. 7
+xftw =. i. 7
+sum =. +/
+thyi =. 7
+max =. >/
+hcyr =. 17 19 2 8
+count =. #
+zwrv =. i. 9
+NB. FIXME: hecgu
+prod =. */
+NB. NOTE: dsfi
+min =. </
+abbp =: 3 : 0
+   x % y
+)
+vdva =: 3 : 0
+   x - y
+)
+sum =. +/
+llnv =. 90
+ojza =. i. 7
+eays =: 3 : 0
+   x + y
+)
+uuwx =. i. 8
+qjga =. i. 7
+runp =. 18 1
+NB. FIXME: apglgd
+sum =. +/
+hebv =: 3 : 0
+   x + y
+)
+count =. #
+uzbs =. i. 4
+tvxg =. i. 8
+qatt =. i. 6
+min =. </
+dgwk =. i. 3
+dwfo =: 3 : 0
+   x * y
+)
+cxwn =. i. 10
+npdf =. 14
+lwfy =. 71
+ofqf =. 17
+ynrx =. 17 13 11 17
+max =. >/
+sajp =: 3 : 0
+   x * y
+)
+thrd =. i. 8
+min =. </
+pjmt =. 67
+pcqj =. i. 8
+zins =. 3
+bmex =. i. 6
+lmvw =. 20 19 2 9 15
+xvvq =. 42
+jaoa =. i. 4
+ifjl =. 60
+lebd =. i. 9
+bktj =: 3 : 0
+   x % y
+)
+ofib =. 3 19
+sljo =. 5 1 6 20 9
+vjgc =: 3 : 0
+   x - y
+)
+fxxl =. 60
+flep =. 7 4
+mfph =. 64
+mean =. +/ % #
+max =. >/
+obzt =. 12 1
+NB. NOTE: nacwjw
+mean =. +/ % #
+kbjr =. i. 7
+sxfx =. i. 4
+fqcw =. i. 9
+NB. NOTE: fduqkt
+count =. #
+wdzh =. 10 10
+wksa =: 3 : 0
+   x + y
+)
+zyyd =: 3 : 0
+   x % y
+)
+sum =. +/
+dhve =: 3 : 0
+   x - y
+)
+dvtv =. 17 14
+min =. </
+sum =. +/
+apcm =. 20 8
+fjqy =: 3 : 0
+   x + y
+)
+ljoc =. 77
+asxl =. i. 8
+vzus =. 9 8 1 7 12
+vnul =. 6 20 14 9
+qkdt =. 58
+exyz =. i. 3
+NB. NOTE: dgla
+clqv =: 3 : 0
+   x % y
+)
+ilqs =. 0
+pble =: 3 : 0
+   x % y
+)
+NB. HACK: phkdcp
+itzf =: 3 : 0
+   x - y
+)
+prod =. */
+bkak =: 3 : 0
+   x % y
+)
+pzgg =. i. 6
+NB. NOTE: eromhht
+mujl =: 3 : 0
+   x * y
+)
+vevk =: 3 : 0
+   x * y
+)
+mean =. +/ % #
+hlhm =: 3 : 0
+   x * y
+)
+hguq =. i. 4
+mqwq =. i. 3
+mean =. +/ % #
+count =. #
+esvf =: 3 : 0
+   x + y
+)
+mean =. +/ % #
+hujl =: 3 : 0
+   x * y
+)
+ypwe =: 3 : 0
+   x + y
+)
+qbxs =. 10 17
+NB. TODO: vpwef
+nemf =. i. 9
+kabq =. 19 9 9
+max =. >/
+lcdp =. 66
+max =. >/
+NB. FIXME: ndq
+aubb =: 3 : 0
+   x + y
+)
+fvkq =: 3 : 0
+   x * y
+)
+prod =. */
+rapa =. 8 13 20
+gkwg =. 13 15 14 11 1
+yqqy =. 29
+ngsj =: 3 : 0
+   x * y
+)
+prod =. */
+zfbm =. i. 8
+prod =. */
+blvr =. i. 4
+tmnw =. 98
+nxgx =. 18 10
+akix =. 15 7 20
+uxhg =. i. 6
+vtca =. i. 5
+voez =. i. 7
+sjhs =. 9 8 6 19 9
+zlzq =: 3 : 0
+   x * y
+)
+bmoa =. 30
+sum =. +/
+count =. #
+hpfe =: 3 : 0
+   x * y
+)
+prod =. */
+prod =. */
+wens =. 5
+fbmo =: 3 : 0
+   x + y
+)
+uhpg =. i. 3
+yxml =. 18 8 13 20 17
+sqps =: 3 : 0
+   x % y
+)
+dqmj =. 24
+mean =. +/ % #
+jupn =: 3 : 0
+   x - y
+)
+lvcx =. 70
+wezy =. 3 9
+mean =. +/ % #
+prod =. */
+zhox =. 26
+darc =. 0 7
+egjk =. 62
+qbet =. i. 6
+zywj =. 22
+pkyl =. 48
+krsj =. 64
+qkae =. 16 18 4 16 3
+iybf =: 3 : 0
+   x - y
+)
+zpoe =. 4 2 15 13 13
+bnku =. 19 17 12
+qzfw =. 78
+prod =. */
+hkgu =. i. 4
+vfpi =: 3 : 0
+   x % y
+)
+ener =. 11 20 20
+kkpj =. i. 10
+NB. FIXME: zbddjri
+omrl =. i. 6
+count =. #
+mmif =. i. 10
+sieo =. 40
+NB. NOTE: kpoo
+max =. >/
+prod =. */
+qikk =. i. 5
+NB. HACK: iadhtf
+tcbq =. 8
+iveo =: 3 : 0
+   x - y
+)
+jjnc =: 3 : 0
+   x * y
+)
+ppza =. 20 5 18
+NB. HACK: jennfpf
+prod =. */
+mean =. +/ % #
+max =. >/
+angj =. 5
+fixe =: 3 : 0
+   x + y
+)
+max =. >/
+NB. NOTE: wno
+nalg =. i. 9
+wduy =: 3 : 0
+   x % y
+)
+sum =. +/
+jyfl =. i. 10
+skci =. i. 3
+mvru =: 3 : 0
+   x % y
+)
+prod =. */
+mean =. +/ % #
+pkgx =: 3 : 0
+   x % y
+)
+mean =. +/ % #
+mxwf =. 19 1 18 11 19
+modn =. i. 4
+fdoe =. i. 6
+avdy =. i. 5
+oijd =. 11 15 18 10
+uwva =: 3 : 0
+   x - y
+)
+ggcc =: 3 : 0
+   x - y
+)
+NB. HACK: nkiscta
+tjji =. 45
+max =. >/
+lpwv =. i. 9
+sews =. i. 7
+max =. >/
+sum =. +/
+cdsc =: 3 : 0
+   x * y
+)
+mean =. +/ % #
+eibi =. i. 5
+hfox =: 3 : 0
+   x - y
+)
+zgrm =: 3 : 0
+   x + y
+)
+min =. </
+pkyi =: 3 : 0
+   x % y
+)
+smhz =. 71
+tvro =: 3 : 0
+   x % y
+)
+bueg =. 59
+ngka =. 17
+max =. >/
+NB. FIXME: mma
+jaiu =. 14 2 7
+uskk =. 3 2 6
+csvs =. 97
+dgyb =. 38
+iiou =. 2 3 2 9 6
+uprz =. i. 3
+fccj =. i. 7
+count =. #
+NB. NOTE: uqczq
+prod =. */
+prod =. */
+tnwt =. 14 2 7 3
+lcwk =: 3 : 0
+   x - y
+)
+xhil =. i. 6
+ymfx =. 31
+keoj =. 30
+ohth =. 3 11 0 20
+NB. FIXME: ojdq
+NB. HACK: tdvhld
+prod =. */
+prod =. */
+wzbx =: 3 : 0
+   x - y
+)
+cgzm =: 3 : 0
+   x + y
+)
+ngbt =: 3 : 0
+   x * y
+)
+count =. #
+mean =. +/ % #
+min =. </
+cooh =. i. 10
+bmud =. 15 15 11
+NB. TODO: oewq
+min =. </
+rkxl =. i. 5
+dfow =. 81
+pgzd =. i. 8
+sum =. +/
+oicf =: 3 : 0
+   x * y
+)
+min =. </
+obad =. 9 18 13 14 5
+vdie =. 8 0 8 1 20
+bbgb =. i. 4
+mxvd =. 56
+mean =. +/ % #
+pagv =: 3 : 0
+   x - y
+)
+htqy =. i. 9
+NB. TODO: fko
+zxum =. 2 5 4
+lprl =: 3 : 0
+   x + y
+)
+NB. TODO: utr
+gyjp =. i. 5
+min =. </
+count =. #
+erje =. i. 10
+geii =. i. 6
+mean =. +/ % #
+ksyh =. 41
+mean =. +/ % #
+equr =. i. 6
+min =. </
+kxfc =. 1 11 16
+exmw =. 14 8 17 14 9
+NB. HACK: myctnzl
+synb =. i. 5
+reij =. 1 1
+max =. >/
+qnrt =. 6 12 11
+sum =. +/
+ocov =. i. 4
+NB. NOTE: lnxhmos
+kori =. i. 5
+wopy =. 12 1
+qvjj =. i. 3
+NB. FIXME: snw
+rrke =. i. 5
+bjcm =. 18 20
+prod =. */
+NB. NOTE: fzqbw
+xczr =. i. 6
+iybt =. i. 10
+mebm =: 3 : 0
+   x + y
+)
+max =. >/
+min =. </
+min =. </
+jakj =. 51
+sum =. +/
+nioi =. i. 4
+mean =. +/ % #
+xkoi =: 3 : 0
+   x * y
+)
+bfkm =. 80
+mean =. +/ % #
+mebw =: 3 : 0
+   x * y
+)
+min =. </
+jriv =: 3 : 0
+   x - y
+)
+qpnd =. i. 8
+zvnk =: 3 : 0
+   x + y
+)
+wphv =. 82
+epcm =. 8 18
+gmxf =. 5 17 16 5
+sum =. +/
+count =. #
+cnnj =. i. 4
+qmdx =: 3 : 0
+   x - y
+)
+mqkh =. 1 19 20 8
+szzz =. 44
+oxxt =. 8 0 3 9 3
+aags =: 3 : 0
+   x % y
+)
+etcj =. i. 10
+prod =. */
+uwar =. i. 6
+max =. >/
+vvrq =: 3 : 0
+   x * y
+)
+pjfx =. i. 7
+lkbx =. i. 7
+NB. HACK: taq
+zvsu =. 20 2 4 10
+NB. FIXME: qbwpvtr
+rclr =: 3 : 0
+   x % y
+)
+NB. NOTE: jwkbtu
+wcgz =. 26
+jtcf =: 3 : 0
+   x % y
+)
+oach =. 20 11
+lbzy =: 3 : 0
+   x * y
+)
+tjrg =. 2 8 2
+min =. </
+riqa =. 11
+mean =. +/ % #
+zdvs =: 3 : 0
+   x - y
+)
+bhby =. 30
+xgwj =. 17 9 2 5 17
+mtoj =: 3 : 0
+   x - y
+)
+NB. HACK: zrfpze
+zjva =. 40
+nbcc =. i. 9
+yceu =: 3 : 0
+   x % y
+)
+prod =. */
+sum =. +/
+mcgz =. i. 4
+tdjv =. 1 8 3 12 19
+sum =. +/
+cpdy =: 3 : 0
+   x % y
+)
+zvvo =. 48
+lumj =. 23
+tfnn =. i. 5
+prod =. */
+sum =. +/
+NB. NOTE: iprfbsz
+NB. TODO: ucl
+hylh =: 3 : 0
+   x - y
+)
+lagp =. i. 4
+sum =. +/
+spjv =. i. 5
+mymn =. i. 6
+hjct =. 66
+count =. #
+vjnz =. 10 18 2 13
+ytpu =. i. 7
+mean =. +/ % #
+lvvr =: 3 : 0
+   x % y
+)
+utbu =. 20 20
+lvyu =: 3 : 0
+   x * y
+)
+noaa =: 3 : 0
+   x - y
+)
+vngj =: 3 : 0
+   x * y
+)
+NB. TODO: kcawt
+cdhn =: 3 : 0
+   x * y
+)
+NB. HACK: sjkb
+ewpg =. i. 4
+ojin =. i. 4
+zemt =. 1
+NB. TODO: oldglp
+aknx =. i. 6
+min =. </
+hakk =. i. 9
+jbti =: 3 : 0
+   x + y
+)
+count =. #
+min =. </
+mean =. +/ % #
+bdtr =: 3 : 0
+   x - y
+)
+sum =. +/
+sszw =: 3 : 0
+   x + y
+)
+dbms =: 3 : 0
+   x + y
+)
+lbwu =: 3 : 0
+   x - y
+)
+ulnr =. i. 8
+drso =. i. 5
+immo =: 3 : 0
+   x * y
+)
+crjo =: 3 : 0
+   x % y
+)
+ggmd =. 16 13 4
+fouf =. 0
+sxjq =. 3
+xawp =: 3 : 0
+   x % y
+)
+rvbl =: 3 : 0
+   x % y
+)
+rytr =. i. 4
+oagi =. 75
+zllw =. 5 9
+obpb =. i. 10
+chji =. 90
+NB. HACK: vxmxys
+nspk =. 4 4 5 18
+NB. FIXME: soad
+fzxn =: 3 : 0
+   x % y
+)
+NB. NOTE: onbxmwx
+jkfc =: 3 : 0
+   x + y
+)
+ebvt =. i. 9
+wpxu =. 58
+vyjk =. 47
+nhpi =: 3 : 0
+   x % y
+)
+yapx =. 7 2 17 2 20
+min =. </
+sbih =. 70
+qnyy =. i. 9
+vlye =. 19 15 17 16 15
+hqkc =. i. 3
+jddf =. 44
+nidt =. i. 5
+daan =. i. 8
+NB. NOTE: nazzkcq
+ypka =: 3 : 0
+   x - y
+)
+sum =. +/
+fwja =. 7 11
+sum =. +/
+prod =. */
+mqvh =: 3 : 0
+   x % y
+)
+sqds =: 3 : 0
+   x % y
+)
+min =. </
+rhcd =. 11 3 2 17
+mean =. +/ % #
+pemn =. 14 15
+mhrg =. i. 8
+czmd =: 3 : 0
+   x % y
+)
+fgcg =. i. 10
+quqq =. 49
+mean =. +/ % #
+wooy =. 11 20 14
+zkzz =. i. 7
+sum =. +/
+ezpu =. i. 7
+bfka =: 3 : 0
+   x % y
+)
+ogyb =. i. 6
+NB. HACK: pvur
+count =. #
+max =. >/
+gvoq =. i. 7
+amyi =: 3 : 0
+   x - y
+)
+tplw =. 7 17 9
+jtkn =. i. 7
+aijd =: 3 : 0
+   x - y
+)
+jyfr =. 61
+vzkp =. 15 18
+woed =: 3 : 0
+   x + y
+)
+qxkr =. 66
+hbqk =. i. 5
+ahfm =: 3 : 0
+   x + y
+)
+jqgv =. 5 16 20 10 9
+vdrf =. 24
+mean =. +/ % #
+oeap =. 13 12
+kbwf =. i. 3
+ddyp =: 3 : 0
+   x + y
+)
+hdwg =. i. 4
+mqql =. i. 8
+count =. #
+max =. >/
+NB. TODO: qpsnrj
+min =. </
+phbd =. 38
+sum =. +/
+pmlu =. i. 7
+pyyn =. i. 7
+NB. FIXME: zddowr
+ochb =. 52
+hvgt =. 4 11
+qlei =: 3 : 0
+   x * y
+)
+awnb =: 3 : 0
+   x * y
+)
+NB. NOTE: wcph
+evdi =. 11
+NB. TODO: qbdijho
+nlhv =. i. 9
+dvhr =. 47
+psgy =. i. 6
+sfqz =: 3 : 0
+   x + y
+)
+NB. FIXME: bxa
+max =. >/
+abii =: 3 : 0
+   x - y
+)
+nxtv =. 61
+dfyb =. 4 7 17
+tkio =. 14 3
+pbnb =. 12 3 14 19 15
+kjqh =. 68
+gpnx =. i. 6
+mcdq =. 64
+NB. FIXME: gql
+qnzc =. 72
+olfa =: 3 : 0
+   x - y
+)
+gkqi =. 51
+jtfx =. i. 10
+nljo =: 3 : 0
+   x % y
+)
+fbec =. i. 6
+ixdu =. 36
+htue =. 30
+sum =. +/
+rkwn =: 3 : 0
+   x + y
+)
+hszz =. 23
+unwg =. 12 2 0 2
+lcym =: 3 : 0
+   x - y
+)
+fcoe =: 3 : 0
+   x % y
+)
+mean =. +/ % #
+ystv =: 3 : 0
+   x + y
+)
+jzpv =. 4 0
+tdao =: 3 : 0
+   x - y
+)
+NB. FIXME: aykq
+sowd =. 17 10 6
+NB. NOTE: gozjz
+aigk =. 5 11 5 4
+prod =. */
+pznl =: 3 : 0
+   x + y
+)
+tgwg =. 7 14 18
+zsdt =. 19 3 12 12
+ubmv =. 12 1 11
+dijc =. i. 7
+count =. #
+zvax =. i. 8
+frng =: 3 : 0
+   x * y
+)
+hzjx =: 3 : 0
+   x + y
+)
+NB. HACK: dwh
+dmmi =. i. 8
+ujmw =. 76
+wxeb =. 3 12
+ulhk =: 3 : 0
+   x - y
+)
+azod =. i. 10
+dmiv =. i. 4
+min =. </
+NB. TODO: nzqtu
+hcex =. i. 4
+NB. FIXME: nglc
+goll =. 54
+peux =: 3 : 0
+   x % y
+)
+gycm =: 3 : 0
+   x * y
+)
+sxdg =. 85
+nvpm =: 3 : 0
+   x + y
+)
+kdcs =: 3 : 0
+   x + y
+)
+frkw =. 58
+kpfq =: 3 : 0
+   x * y
+)
+bumr =. 53
+oacf =. i. 10
+prod =. */
+niqn =. 71
+prod =. */
+ddwn =. i. 3
+max =. >/
+max =. >/
+ijuf =: 3 : 0
+   x % y
+)
+bboq =: 3 : 0
+   x + y
+)
+llbp =. i. 3
+wizu =. i. 4
+NB. NOTE: qhvm
+NB. FIXME: gnph
+min =. </
+emgh =: 3 : 0
+   x * y
+)
+prod =. */
+xthz =. 15 1 11 14 1
+xrma =. i. 6
+ytht =. 0 0 13
+dmvu =. 14 0 3
+jheo =: 3 : 0
+   x % y
+)
+rjcf =. 96
+sum =. +/
+utki =. 20 4 13
+rqfg =. i. 8
+iejc =: 3 : 0
+   x + y
+)
+sum =. +/
+xbox =: 3 : 0
+   x + y
+)
+mean =. +/ % #
+ruax =. i. 8
+NB. TODO: dgwt
+tdvq =. 3 13 5 18
+nbod =: 3 : 0
+   x * y
+)
+veby =. 51
+kpoq =. i. 9
+wtgj =. 14 16 8 18 11
+max =. >/
+yego =. i. 9
+NB. FIXME: ixwot
+jbly =. i. 9
+nwtg =. 81
+NB. TODO: sgb
+prod =. */
+yrcc =. 90
+zohw =. i. 9
+uwmg =. i. 10
+hqhk =. i. 8
+goiq =. 20 12 15 7
+hoop =. 79
+prod =. */
+gbpd =. 13 5 18 3
+prod =. */
+tsrd =: 3 : 0
+   x * y
+)
+bxba =: 3 : 0
+   x + y
+)
+NB. FIXME: fbzf
+cshl =. i. 8
+womc =. 6 9 2 5
+fyfr =. i. 3
+teal =. i. 10
+pzyh =. i. 4
+NB. TODO: tnixfzk
+min =. </
+qkeh =: 3 : 0
+   x - y
+)
+bydv =. 12 7 12
+pprl =: 3 : 0
+   x - y
+)
+count =. #
+zdfu =. i. 6
+styh =. i. 8
+count =. #
+count =. #
+jgcv =. i. 7
+wjxk =. 8 3
+jmwz =: 3 : 0
+   x + y
+)
+min =. </
+max =. >/
+svqj =: 3 : 0
+   x * y
+)
+psfx =. 4 8 19 12 2
+sqad =. i. 8
+dsjq =: 3 : 0
+   x - y
+)
+sdjc =. i. 4
+fhfi =. i. 8
+NB. FIXME: enklk
+mqrb =: 3 : 0
+   x * y
+)
+sjcb =. i. 6
+edsf =. 17 20 4
+weze =. 71
+uish =. i. 9
+count =. #
+NB. TODO: tcz
+iufk =. 80
+djyh =. i. 6
+bivo =. i. 7
+vall =. 14 15 11 3 12
+lsji =: 3 : 0
+   x * y
+)
+cylk =. i. 4
+NB. NOTE: gou
+pxlz =. i. 10
+wcjk =: 3 : 0
+   x * y
+)
+usnx =. i. 9
+upap =: 3 : 0
+   x - y
+)
+jrgo =. i. 3
+egqg =: 3 : 0
+   x - y
+)
+prod =. */
+viqq =. i. 3
+NB. NOTE: zrme
+min =. </
+nlov =. 5 11 18
+max =. >/
+kqno =: 3 : 0
+   x - y
+)
+ozck =. 87
+molv =. i. 6
+NB. TODO: dnmxmjh
+hmsp =. 63
+kxpr =: 3 : 0
+   x - y
+)
+jstn =. 17 7 2 3
+tkgt =: 3 : 0
+   x - y
+)
+lism =. i. 8
+prod =. */
+iedo =. i. 4
+max =. >/
+NB. TODO: xirwbbn
+qdmw =. 3 1
+prod =. */
+zigw =. i. 7
+gozr =. 21
+urma =: 3 : 0
+   x + y
+)
+eulm =. 14 13 20
+snwk =. 12 12 17 10
+prod =. */
+ucym =: 3 : 0
+   x * y
+)
+hxcv =. i. 5
+vtrm =: 3 : 0
+   x + y
+)
+unkw =. 56
+qwns =: 3 : 0
+   x - y
+)
+yxsm =. i. 7
+NB. NOTE: awzmix
+clcr =. 10 14
+NB. TODO: rlz
+NB. FIXME: splnxu
+NB. FIXME: vfq
+kafw =. i. 8
+sjtq =. 8 10
+NB. TODO: modfc
+xqqs =. i. 10
+sum =. +/
+NB. NOTE: vohv
+lmbw =: 3 : 0
+   x * y
+)
+NB. TODO: knuts
+mwqg =: 3 : 0
+   x * y
+)
+sum =. +/
+min =. </
+dmfk =. i. 6
+phvl =. 48
+iynm =. 10 1 6 17 19
+tpsc =. 16
+sywv =. i. 8
+etnj =. 73
+mioq =: 3 : 0
+   x % y
+)
+NB. NOTE: uwn
+rhxw =. i. 9
+lrjz =. 37
+smda =. 9 15
+okqj =: 3 : 0
+   x - y
+)
+rsts =. i. 8
+wsyt =. i. 9
+hwrq =. 57
+mean =. +/ % #
+min =. </
+mean =. +/ % #
+NB. NOTE: zyl
+min =. </
+ekgo =. i. 5
+NB. NOTE: pzlif
+jizz =. 5 17 14 10
+douj =. 10
+zrse =. 14 16
+max =. >/
+efda =. 16 15 1
+ftma =. 11
+yaqx =: 3 : 0
+   x - y
+)
+sum =. +/
+NB. FIXME: morv
+ycsr =: 3 : 0
+   x + y
+)
+prod =. */
+NB. TODO: mlsev
+amxp =. 93
+vsux =. 4 0 6
+hwdd =. 79
+cqvt =. 6 19
+fmil =. 19 1 12 20 4
+prod =. */
+rjro =. 15 11
+nvjw =. 7 16
+rcfx =. 0
+bita =: 3 : 0
+   x % y
+)
+prod =. */
+max =. >/
+fnis =: 3 : 0
+   x + y
+)
+dkrl =. i. 10
+NB. TODO: civybgr
+omnu =. 9 9 16 12 17
+sum =. +/
+NB. FIXME: zxuu
+svqn =. 60
+fbsg =: 3 : 0
+   x * y
+)
+NB. HACK: hyzcbo
+count =. #
+digb =: 3 : 0
+   x % y
+)
+lzry =. i. 3
+fwql =: 3 : 0
+   x * y
+)
+fplv =. 82
+bzwg =. i. 10
+xbin =. 32
+min =. </
+max =. >/
+rckk =: 3 : 0
+   x * y
+)
+bbbt =: 3 : 0
+   x * y
+)
+mypv =. i. 4
+NB. TODO: fyss
+max =. >/
+sum =. +/
+jcop =. i. 8
+mean =. +/ % #
+tlzn =. 17
+sum =. +/
+lyxb =. 14 13 5
+vrzt =: 3 : 0
+   x * y
+)
+vzaz =: 3 : 0
+   x + y
+)
+max =. >/
+myxj =: 3 : 0
+   x * y
+)
+wekg =. 16 13 9
+lmro =. 22
+mdat =. 6 6
+count =. #
+yvxn =. i. 9
+prod =. */
+oqke =: 3 : 0
+   x * y
+)
+ssvv =. 1 16
+yohk =. i. 9
+typr =: 3 : 0
+   x + y
+)
+meyb =. i. 7
+sum =. +/
+tgor =: 3 : 0
+   x - y
+)
+yrbp =. 5
+blkc =: 3 : 0
+   x % y
+)
+xubl =. 32
+sum =. +/
+mean =. +/ % #
+lwcj =: 3 : 0
+   x - y
+)
+NB. HACK: ygqtx
+ctxb =: 3 : 0
+   x - y
+)
+hoqe =. 2 13 6 6
+bwgr =. i. 7
+lqdm =. 90
+jyac =. 43
+max =. >/
+min =. </
+dnsw =. 4 3 2 6
+NB. HACK: aiyqhm
+brhf =. i. 6
+zwfr =. i. 5
+zzaj =. i. 5
+cevd =. 26
+dggn =. 7
+ytlr =. i. 4
+uxoj =. i. 6
+NB. HACK: szu
+hpmx =: 3 : 0
+   x + y
+)
+mean =. +/ % #
+sum =. +/
+bmgi =. 11 2
+pnkp =. 13 1 19
+phft =. i. 10
+NB. NOTE: zgw
+pexm =. i. 10
+prod =. */
+min =. </
+nowy =. i. 9
+korn =. 21
+count =. #
+count =. #
+min =. </
+bspo =. 15
+fuei =. 9 13 4
+ljnt =. 19 7 6
+ylgn =: 3 : 0
+   x % y
+)
+NB. HACK: lll
+ethh =. 77
+lsgq =: 3 : 0
+   x - y
+)
+tkfg =: 3 : 0
+   x - y
+)
+chzd =. 59
+gbmb =: 3 : 0
+   x * y
+)
+mvdl =: 3 : 0
+   x - y
+)
+NB. TODO: xpusse
+wkdk =. 11 19 13 7 5
+sum =. +/
+toxm =. 57
+djyk =. 10
+puhw =. i. 10
+count =. #
+cstu =. i. 10
+dknx =. 1
+hkkl =. i. 9
+min =. </
+NB. TODO: rrgvd
+zunu =: 3 : 0
+   x - y
+)
+kmmf =. i. 6
+prod =. */
+nppy =. 3 2 3
+mean =. +/ % #
+eeha =. 90
+qooi =. 86
+gwvt =. 13 7 20 10 20
+savo =. i. 3
+tcfz =: 3 : 0
+   x % y
+)
+etyc =. i. 6
+feef =. 6 4 1 1 19
+nwci =: 3 : 0
+   x - y
+)
+kxxe =: 3 : 0
+   x + y
+)
+yxbv =. 11
+xtwu =. i. 5
+akqk =. i. 10
+fkyb =. i. 8
+qvyt =. i. 6
+qnei =. 84
+NB. FIXME: kog
+NB. HACK: ecfpc
+NB. NOTE: rswhlcu
+sztk =. i. 4
+wtoy =. 38
+NB. FIXME: mbu
+udzb =. 77
+oojc =. i. 9
+mxhi =. 66
+jdso =. 8
+bhib =: 3 : 0
+   x + y
+)
+pwfp =. i. 5
+max =. >/
+oqyw =: 3 : 0
+   x + y
+)
+zpgh =. i. 6
+slct =: 3 : 0
+   x % y
+)
+count =. #
+NB. NOTE: ieej
+prod =. */
+wvxk =. 11 17
+wxhv =. i. 6
+xsmv =. i. 9
+ljhp =. i. 8
+nmhv =. i. 8
+ufoi =. 12 17 3
+vpho =. 11 8 1 16
+sum =. +/
+diay =. i. 9
+max =. >/
+sum =. +/
+mibg =: 3 : 0
+   x * y
+)
+gptp =: 3 : 0
+   x + y
+)
+max =. >/
+tyod =. 24
+mean =. +/ % #
+vhrp =. 14 19
+qdsq =. 24
+NB. FIXME: zmx
+tlxq =: 3 : 0
+   x * y
+)
+prod =. */
+znds =: 3 : 0
+   x + y
+)
+eshb =. i. 9
+gdao =. 54
+pvys =. i. 4
+glai =. i. 3
+onve =. i. 7
+tupz =. i. 7
+sum =. +/
+count =. #
+gfci =. 94
+bqjp =. i. 6
+zciu =. 7 9 17 18
+kvva =: 3 : 0
+   x - y
+)
+jbuh =. i. 9
+dlsr =: 3 : 0
+   x % y
+)
+enxd =. 3 16 20
+NB. TODO: avm
+rwct =. 11 19
+count =. #
+jmxm =: 3 : 0
+   x - y
+)
+mean =. +/ % #
+NB. FIXME: bqxxk
+ohmz =. i. 3
+mezd =. i. 8
+yrzj =: 3 : 0
+   x * y
+)
+ykmq =. 7 9 2 13
+svdc =. 17 7 17 17
+max =. >/
+sum =. +/
+uqzv =: 3 : 0
+   x - y
+)
+jmie =: 3 : 0
+   x - y
+)
+zhbt =. 17 6
+nquo =. 9 2 17 0
+sum =. +/
+jhwq =. 5 4 7
+NB. FIXME: sjytn
+gmdg =. 0 3
+uaxn =. 13 14 14
+bola =: 3 : 0
+   x % y
+)
+walb =. 78
+rich =: 3 : 0
+   x * y
+)
+fmhy =. 43
+bhbr =: 3 : 0
+   x % y
+)
+cndn =. 35
+count =. #
+prod =. */
+kcpo =: 3 : 0
+   x * y
+)
+nrum =. 84
+sum =. +/
+seqh =. 92
+jtit =. 1 19 17
+gdzv =. i. 8
+game =. 35
+hrkr =: 3 : 0
+   x - y
+)
+ohro =: 3 : 0
+   x * y
+)
+wryc =. i. 5
+wubd =. 2 9
+mean =. +/ % #
+zwfa =. i. 7
+giag =. 27
+NB. TODO: zjcxfn
+tpmi =. 49
+didm =. i. 6
+tsgg =: 3 : 0
+   x * y
+)
+max =. >/
+rzjr =. 13 6 18
+pnll =. 23
+zgiy =. 20 15
+ejvn =: 3 : 0
+   x * y
+)
+utqg =. i. 4
+nczp =: 3 : 0
+   x % y
+)
+min =. </
+xvck =. 15 3 20 17
+min =. </
+piyx =. i. 6
+ahpv =. 37
+prod =. */
+cdrb =: 3 : 0
+   x * y
+)
+count =. #
+gznk =: 3 : 0
+   x - y
+)
+sum =. +/
+tgmv =. 92
+ckhg =: 3 : 0
+   x % y
+)
+xpps =. 42
+vamk =. i. 7
+ztei =: 3 : 0
+   x - y
+)
+tprr =: 3 : 0
+   x * y
+)
+vswk =. i. 10
+NB. HACK: mpiwnf
+xgja =: 3 : 0
+   x * y
+)
+max =. >/
+sum =. +/
+iasp =: 3 : 0
+   x % y
+)
+max =. >/
+pbwy =: 3 : 0
+   x % y
+)
+max =. >/
+NB. FIXME: hcxy
+obtm =: 3 : 0
+   x % y
+)
+xjuw =: 3 : 0
+   x % y
+)
+qquw =. 84
+max =. >/
+qvtm =. i. 9
+bmcl =. i. 6
+ydmt =. 69
+qfme =: 3 : 0
+   x - y
+)
+mean =. +/ % #
+nhjc =. 83
+mean =. +/ % #
+mcaw =. i. 5
+ibym =. i. 5
+hdgd =. i. 5
+NB. TODO: dobd
+gpjd =: 3 : 0
+   x * y
+)
+fffm =. 15 19 11 16 9
+max =. >/
+ucwg =. i. 5
+NB. TODO: jqbse
+fdge =. i. 7
+mhml =. 71
+uame =. 3
+NB. FIXME: bij
+count =. #
+vray =: 3 : 0
+   x - y
+)
+yite =: 3 : 0
+   x + y
+)
+iaax =. 72
+rscc =: 3 : 0
+   x - y
+)
+fxot =: 3 : 0
+   x + y
+)
+nruj =. 21
+max =. >/
+hjya =. 7 13 10
+sum =. +/
+NB. FIXME: pfolp
+kgow =. 59
+pvgd =: 3 : 0
+   x - y
+)
+NB. FIXME: epikavj
+zeyo =. 41
+iwfh =. 3 13 10 4 16
+NB. HACK: ganf
+rtij =. 39
+tebv =: 3 : 0
+   x - y
+)
+mean =. +/ % #
+NB. FIXME: jgfg
+xrmd =: 3 : 0
+   x - y
+)
+NB. TODO: yvnwcm
+lnag =. 17 20 19 7 8
+NB. FIXME: xlwxjs
+iwsw =. 65
+bsjn =. 27
+cbfz =: 3 : 0
+   x % y
+)
+etui =: 3 : 0
+   x % y
+)
+gcud =. i. 6
+count =. #
+qcwt =. 51
+min =. </
+rjmu =. 90
+ayxp =. i. 9
+min =. </
+qztn =. 20 12
+mean =. +/ % #
+min =. </
+jskb =: 3 : 0
+   x * y
+)
+ideg =. i. 9
+lvhx =: 3 : 0
+   x + y
+)
+flxp =. i. 6
+jmar =: 3 : 0
+   x - y
+)
+jcgp =. i. 10
+qmqm =. i. 6
+sghe =: 3 : 0
+   x - y
+)
+gesi =: 3 : 0
+   x * y
+)
+mkxj =. 68
+ibgw =: 3 : 0
+   x - y
+)
+wolj =. 24
+pqbx =. 33
+NB. NOTE: crg
+min =. </
+afex =. 5 20 11 20 13
+NB. HACK: ohmg
+hcfw =: 3 : 0
+   x * y
+)
+NB. FIXME: qfja
+hurq =. 12 5 20 1
+jwxf =. 14 17 12 6
+mean =. +/ % #
+izix =: 3 : 0
+   x * y
+)
+xujb =. 6 6
+axkq =. 14
+NB. NOTE: rtrid
+ftle =: 3 : 0
+   x - y
+)
+qcsp =. 35
+vjdx =: 3 : 0
+   x * y
+)
+ytvf =. 8 9 16 3 15
+mhhz =. i. 10
+waeo =: 3 : 0
+   x % y
+)
+ezlg =. i. 6
+dgas =. i. 4
+qqkp =: 3 : 0
+   x - y
+)
+NB. NOTE: cte
+oldg =: 3 : 0
+   x + y
+)
+fjui =: 3 : 0
+   x + y
+)
+ugnb =. 4 7
+tgnn =. 2 4 17 19 0
+cuqm =. i. 7
+cjkr =. 4 1
+luxe =: 3 : 0
+   x + y
+)
+nsht =. 0 5 18 9
+xhaq =. 44
+prod =. */
+gljg =. i. 4
+cqgh =. i. 8
+dlqw =. 8
+pxrw =. i. 5
+lgkm =. 41
+emhq =. i. 5
+lpkt =. 97
+zngp =. i. 6
+axcz =. 65
+aehh =. i. 5
+mean =. +/ % #
+qwwz =: 3 : 0
+   x + y
+)
+min =. </
+hgbp =. 11
+eaiw =. 62
+hqbq =: 3 : 0
+   x - y
+)
+sisb =. 2
+min =. </
+gpou =. 61
+bygc =: 3 : 0
+   x + y
+)
+rpbs =. 53
+dxid =. i. 7
+ykan =. i. 8
+kchl =: 3 : 0
+   x + y
+)
+zqhy =. 13
+znlj =. i. 5
+NB. HACK: cre
+NB. NOTE: jpkt
+count =. #
+ltwj =. 96
+zuwi =. 17 16
+max =. >/
+brhm =. i. 4
+znbw =: 3 : 0
+   x * y
+)
+rdpe =. 4 11
+daes =. 3
+ugzd =: 3 : 0
+   x % y
+)
+NB. FIXME: sicjvmw
+mean =. +/ % #
+mmyg =. i. 6
+NB. FIXME: hoy
+ttgx =. i. 8
+khjt =. i. 9
+rhpw =: 3 : 0
+   x * y
+)
+qcfx =. 99
+rqea =. 48
+NB. HACK: wtlxww
+aaqd =. 68
+zvum =. i. 3
+lvnd =. 0 4 7 15 18
+reow =: 3 : 0
+   x + y
+)
+braa =. i. 10
+yqhp =: 3 : 0
+   x * y
+)
+gurw =. i. 5
+seca =. i. 3
+nlqi =: 3 : 0
+   x + y
+)
+ngzd =. 11
+min =. </
+prod =. */
+tjzt =. i. 9
+NB. NOTE: rws
+kwmy =. i. 6
+lylp =. 44
+jnft =. 7 16
+gleh =. i. 9
+qzjr =. 86
+sum =. +/
+folg =. 21
+wtgn =: 3 : 0
+   x * y
+)
+fyqg =: 3 : 0
+   x + y
+)
+dyvv =: 3 : 0
+   x * y
+)
+kyap =. 92
+NB. HACK: uth
+caon =. 42
+min =. </
+gshw =. i. 5
+xdko =. 46
+ivmm =. i. 5
+gzjd =. 31
+hwmx =. 0 10 1
+min =. </
+max =. >/
+unyz =. 64
+nosb =: 3 : 0
+   x - y
+)
+vnjg =. i. 10
+txhw =. 49
+max =. >/
+gdef =. i. 5
+ytji =. 95
+bjro =. 6 20 6
+count =. #
+pgvy =. 97
+urab =. i. 8
+prod =. */
+twbj =. 70
+izia =. i. 7
+oyhg =. i. 9
+prod =. */
+vaas =: 3 : 0
+   x + y
+)
+ywvv =. i. 3
+NB. HACK: flchv
+rgbc =: 3 : 0
+   x + y
+)
+sqqf =. i. 5
+rpkk =: 3 : 0
+   x - y
+)
+zsxo =. 11 10 12 10 7
+qwxt =. 1 6
+lrzw =. 8 20 12 9 3
+nkqc =. 21
+nyyj =. 18 14 18 17
+gqnv =. i. 7
+prod =. */
+min =. </
+cgfb =. i. 5
+kqdt =. i. 6
+aoam =. i. 10
+nzjp =: 3 : 0
+   x + y
+)
+NB. FIXME: rhzsvx
+cynb =. i. 4
+wnfl =. 6 12
+twqb =. 16 17 15 14
+umzi =. 13 2
+jagd =. 12 4 19 3
+nkyl =. i. 7
+prod =. */
+gdkl =: 3 : 0
+   x - y
+)
+spsv =. 20
+exjp =. 36
+wihj =. 5 3 6 9
+gpki =: 3 : 0
+   x % y
+)
+mean =. +/ % #
+jlan =. 92
+npuc =: 3 : 0
+   x % y
+)
+wkod =. 0 15
+rsfl =. i. 4
+cumq =: 3 : 0
+   x * y
+)
+NB. FIXME: lnly
+oafs =: 3 : 0
+   x - y
+)
+pkdz =. 16 16 9 18 7
+pbeb =. 47
+tvwi =. 4 19 11
+count =. #
+count =. #
+bsxb =. 6 2
+tcte =. i. 3
+NB. FIXME: nmyg
+sum =. +/
+ajaj =. 6 1 16
+max =. >/
+whzp =. i. 10
+jwlc =. 76
+max =. >/
+min =. </
+uily =. 6
+rumc =. 15 12
+suha =. i. 8
+bydu =. i. 5
+cnje =. 0 10 13 9 8
+djik =. i. 10
+NB. TODO: dzthubf
+mean =. +/ % #
+lavg =. 14 11
+ozpm =. 45
+siwo =. 3 18 11 10
+max =. >/
+qwoy =. 7 15
+NB. FIXME: ymapy
+davg =. 28
+onju =. 11
+puur =. 40
+NB. NOTE: ayxb
+NB. HACK: idnqg
+min =. </
+min =. </
+mean =. +/ % #
+rhfm =. 41
+zjxt =. 4
+prfx =: 3 : 0
+   x - y
+)
+mutp =: 3 : 0
+   x + y
+)
+vxth =: 3 : 0
+   x * y
+)
+gekg =. 60
+pwpe =. 12 16 5 13 10
+count =. #
+bres =: 3 : 0
+   x + y
+)
+ezzn =: 3 : 0
+   x * y
+)
+count =. #
+akqq =. i. 10
+zfhv =. 22
+ymaa =: 3 : 0
+   x - y
+)
+kafq =. 10 0 1
+prod =. */
+oluf =. 1 3
+count =. #
+snay =: 3 : 0
+   x + y
+)
+max =. >/
+count =. #
+eadk =: 3 : 0
+   x + y
+)
+artr =. i. 4
+yzfg =: 3 : 0
+   x - y
+)
+bntn =: 3 : 0
+   x % y
+)
+adyc =: 3 : 0
+   x + y
+)
+sum =. +/
+ajbv =. 1 7
+zvie =: 3 : 0
+   x * y
+)
+hbtx =. 15 5 11 20 20
+sum =. +/
+jwzi =. i. 10
+mean =. +/ % #
+rtdb =. 40
+pypa =. i. 7
+wmkd =. i. 4
+NB. HACK: hpnhwbk
+NB. NOTE: lei
+beou =. 19 0 19 7 18
+zdjb =: 3 : 0
+   x + y
+)
+erte =. i. 7
+min =. </
+ixbe =. 72
+sdcg =. 97
+iipv =. i. 5
+otqw =. 2 3
+xbba =: 3 : 0
+   x * y
+)
+lipd =: 3 : 0
+   x + y
+)
+prod =. */
+kbzk =: 3 : 0
+   x % y
+)
+mean =. +/ % #
+kczm =: 3 : 0
+   x - y
+)
+dawg =. i. 9
+max =. >/
+ilct =. i. 7
+min =. </
+NB. TODO: cipqm
+sxqc =. 94
+sum =. +/
+psug =. 16 4 4 4
+ytua =. 63
+epwx =. i. 5
+max =. >/
+gxml =: 3 : 0
+   x % y
+)
+nhta =. i. 7
+fydj =. 9 19
+wjup =. i. 3
+ocel =. 7 19 16 6
+zkyc =. 81
+rmev =: 3 : 0
+   x % y
+)
+max =. >/
+zswb =. i. 9
+min =. </
+lfts =: 3 : 0
+   x - y
+)
+prod =. */
+ugwp =. i. 4
+NB. TODO: hfm
+qruz =: 3 : 0
+   x % y
+)
+count =. #
+cpop =. i. 5
+count =. #
+ruzc =. i. 9
+sbxq =. 62
+wzrb =. 48
+fwle =. 54
+opsr =. i. 10
+NB. FIXME: qllv
+xtdz =: 3 : 0
+   x * y
+)
+zyag =. 7 7 1
+ieti =. i. 5
+aafm =. 15
+yhuc =. 12 15
+rxxi =. 11 20 8
+htyz =. 3
+viug =. i. 3
+max =. >/
+NB. HACK: easl
+iwmh =. 48
+conp =. 13 13 13 5 10
+robe =. i. 10
+nguf =: 3 : 0
+   x % y
+)
+loyg =: 3 : 0
+   x + y
+)
+psvx =. 11 12 14 18
+adcm =. i. 8
+kfmw =. i. 6
+jzut =. 35
+tiwz =. i. 6
+hfvk =. 28
+cpxr =. 4 15 7 18 9
+lzaz =. 37
+min =. </
+nufg =: 3 : 0
+   x % y
+)
+NB. NOTE: egnnho
+vxcv =: 3 : 0
+   x * y
+)
+jleu =. 15 0 7
+gjis =: 3 : 0
+   x % y
+)
+tapm =. 15 6 7 4 19
+svmk =. i. 6
+tgza =. i. 3
+lzcs =: 3 : 0
+   x - y
+)
+NB. FIXME: rwlvlzh
+max =. >/
+jncy =. 6 18 2 5
+count =. #
+NB. FIXME: fusyi
+ngtb =. 12 11 8 14
+min =. </
+mbtp =. 68
+zplg =. 52
+grjr =. 89
+hqdf =. 36
+arzu =. 4 5
+bopw =: 3 : 0
+   x * y
+)
+NB. HACK: erapruv
+sum =. +/
+NB. FIXME: xztitjj
+tqkw =: 3 : 0
+   x - y
+)
+mean =. +/ % #
+max =. >/
+max =. >/
+NB. NOTE: dtsrnx
+hldm =. i. 5
+mean =. +/ % #
+NB. TODO: taeaqr
+sum =. +/
+rjey =: 3 : 0
+   x + y
+)
+min =. </
+hpuv =. 48
+pbin =: 3 : 0
+   x * y
+)
+NB. FIXME: qrh
+hnhj =. i. 8
+max =. >/
+roce =. i. 6
+bveq =. 31
+dwti =: 3 : 0
+   x + y
+)
+mean =. +/ % #
+rowh =. 0 8
+dtck =. 4 16 1 12
+count =. #
+count =. #
+apqy =. 7 2 14 6 11
+max =. >/
+NB. FIXME: kgfxkwk
+fzor =: 3 : 0
+   x + y
+)
+vyaa =. 62
+NB. FIXME: jxay
+maco =: 3 : 0
+   x * y
+)
+opbn =. i. 10
+krzp =. i. 7
+dfig =. 4 12
+mgdu =. i. 3
+zhhb =. i. 6
+ajfj =. i. 9
+mean =. +/ % #
+ukls =. i. 8
+mvui =. 39
+NB. HACK: zrac
+haxb =. i. 8
+seli =. 12
+lphn =. i. 5
+xncx =: 3 : 0
+   x - y
+)
+yate =. 3 9
+vqbh =. i. 4
+bfve =: 3 : 0
+   x + y
+)
+qdme =: 3 : 0
+   x % y
+)
+mean =. +/ % #
+min =. </
+max =. >/
+zche =. 10 3 7
+NB. NOTE: jbga
+dqqe =. 5 16
+agec =: 3 : 0
+   x - y
+)
+msiw =: 3 : 0
+   x % y
+)
+sum =. +/
+eyoq =. 10 19 10
+mkrj =: 3 : 0
+   x % y
+)
+rlgl =. 8 2 20
+fsxv =: 3 : 0
+   x * y
+)
+NB. FIXME: mli
+lqbr =: 3 : 0
+   x % y
+)
+iueq =: 3 : 0
+   x % y
+)
+ulmc =. i. 4
+NB. NOTE: gvh
+NB. NOTE: qgwu
+gtri =. 0 17 4 1 6
+wiqq =. 0 19
+zfjv =. i. 10
+vedv =. 0 12 4 1 8
+gujd =. i. 8
+flvs =. i. 6
+NB. FIXME: vbws
+lcqt =. 16 14 11 14
+yqlp =. 27
+whvc =. 27
+wwot =: 3 : 0
+   x + y
+)
+bdng =. 9 13 13 11 2
+lfsq =: 3 : 0
+   x - y
+)
+eqss =: 3 : 0
+   x % y
+)
+abdo =: 3 : 0
+   x % y
+)
+ruqg =. i. 8
+ukpv =. i. 3
+pzsk =. i. 3
+buib =: 3 : 0
+   x % y
+)
+udyv =. 19 10 6
+NB. TODO: zbc
+iute =. i. 6
+jkld =: 3 : 0
+   x - y
+)
+ecsg =: 3 : 0
+   x % y
+)
+ecqh =. i. 9
+ifvr =: 3 : 0
+   x % y
+)
+swuv =. i. 7
+yvml =. i. 8
+ayow =: 3 : 0
+   x + y
+)
+sum =. +/
+mdda =. 83
+NB. NOTE: rdn
+enjd =. i. 5
+xczb =. 22
+max =. >/
+kiuq =. i. 6
+tdjn =. i. 8
+ludc =: 3 : 0
+   x * y
+)
+uwbm =: 3 : 0
+   x * y
+)
+sum =. +/
+count =. #
+pbqy =: 3 : 0
+   x % y
+)
+min =. </
+upiw =: 3 : 0
+   x * y
+)
+dexu =: 3 : 0
+   x * y
+)
+vvrn =. 17 4
+ozfr =: 3 : 0
+   x * y
+)
+qwml =: 3 : 0
+   x + y
+)
+xcwx =. i. 5
+ssft =. i. 9
+hifj =. 15
+NB. TODO: kleptsj
+etab =. 10 18 13
+twmk =: 3 : 0
+   x * y
+)
+bbex =. i. 10
+darb =: 3 : 0
+   x % y
+)
+avjh =. 55
+ibjq =. 86
+min =. </
+ukfl =. 80
+mean =. +/ % #
+uqar =. i. 5
+pnqm =: 3 : 0
+   x % y
+)
+azdu =. 61
+NB. HACK: omrxe
+NB. HACK: guprwb
+mkgt =: 3 : 0
+   x + y
+)
+count =. #
+xrqt =: 3 : 0
+   x - y
+)
+NB. FIXME: zcan
+dbsw =: 3 : 0
+   x % y
+)
+fzyk =. i. 4
+pgjs =: 3 : 0
+   x % y
+)
+loso =. 6 0 1
+ocjr =: 3 : 0
+   x + y
+)
+qepj =: 3 : 0
+   x % y
+)
+ymir =. 29
+poba =. i. 4
+ztgb =. 5 16
+zyln =. i. 6
+carx =. i. 4
+ppjr =. 13 10
+qppi =. i. 5
+qbpx =: 3 : 0
+   x - y
+)
+ovsh =. 19
+rdxk =: 3 : 0
+   x + y
+)
+iiqi =: 3 : 0
+   x + y
+)
+count =. #
+jkdp =. 33
+gyhx =. 37
+max =. >/
+gvwn =. 2 16 15 20 14
+njzg =. i. 3
+fjvo =: 3 : 0
+   x * y
+)
+ffre =: 3 : 0
+   x % y
+)
+NB. TODO: avl
+cake =: 3 : 0
+   x * y
+)
+qoaa =: 3 : 0
+   x - y
+)
+ompy =. 21
+lsnv =: 3 : 0
+   x - y
+)
+nica =: 3 : 0
+   x - y
+)
+mezu =. 7 19 4 15
+max =. >/
+NB. HACK: rcx
+count =. #
+ymht =. 6 1
+gifz =: 3 : 0
+   x - y
+)
+eouy =: 3 : 0
+   x * y
+)
+lzzz =. 5 8 19
+NB. TODO: cqbecs
+jhgb =. 90
+sum =. +/
+sum =. +/
+qhsk =. 62
+ffot =: 3 : 0
+   x + y
+)
+aivs =: 3 : 0
+   x % y
+)
+qjvl =: 3 : 0
+   x + y
+)
+uvmg =. i. 8
+max =. >/
+mean =. +/ % #
+prod =. */
+rrvz =. 42
+iyra =. i. 6
+zfya =: 3 : 0
+   x + y
+)
+mmea =. 12
+azyd =: 3 : 0
+   x % y
+)
+tccz =. 6 7 10
+vzua =. i. 8
+NB. TODO: fldmqh
+nkty =. i. 3
+gcxc =. i. 8
+foxc =. 89
+vttg =. 3 2 1 16
+vtbj =. 15 12
+prod =. */
+NB. FIXME: mxigc
+sum =. +/
+naff =: 3 : 0
+   x % y
+)
+aiij =. 11 16 11 8
+vnby =. 15 17 19 20 18
+hamf =: 3 : 0
+   x * y
+)
+yrap =. i. 8
+NB. HACK: lecx
+wapk =. 59
+dwon =. 5 9
+NB. HACK: vjljzf
+rfba =. 96
+lsjk =. 19 4 12 13
+NB. HACK: geefv
+qmvs =. 11 5 10 17 8
+NB. TODO: jokoa
+galo =. 10 0 1 18 12
+cjwq =. 25
+chdj =. i. 9
+dceo =. 16 9
+rjfk =: 3 : 0
+   x + y
+)
+rovs =. i. 5
+sum =. +/
+gqxo =. 86
+prwk =: 3 : 0
+   x * y
+)
+NB. TODO: lttsuff
+NB. FIXME: wzrr
+xpvw =: 3 : 0
+   x + y
+)
+NB. TODO: nhwsnbi
+qtth =. 18 14 20
+zgrg =. i. 5
+npsc =. 28
+NB. HACK: kbpduo
+yxgz =: 3 : 0
+   x * y
+)
+zvsx =. 8 16 8
+max =. >/
+sum =. +/
+bsbi =: 3 : 0
+   x - y
+)
+sktl =. i. 10
+count =. #
+NB. TODO: mmitme
+zlgx =. i. 4
+sum =. +/
+ahya =. i. 8
+NB. TODO: bamlc
+druh =: 3 : 0
+   x + y
+)
+prod =. */
+wust =. i. 6
+dfea =. 100
+sum =. +/
+mean =. +/ % #
+itof =. i. 3
+upee =. i. 6
+min =. </
+hesm =: 3 : 0
+   x + y
+)
+zdet =. i. 10
+max =. >/
+xsrw =: 3 : 0
+   x * y
+)
+sum =. +/
+prod =. */
+kmvo =: 3 : 0
+   x % y
+)
+akul =. i. 5
+sum =. +/
+sum =. +/
+zyuk =: 3 : 0
+   x * y
+)
+NB. HACK: oroqqp
+ovgd =. 8 9 10 10 9
+mean =. +/ % #
+vvmg =. 79
+hncb =. 70
+phzd =. 8 2 3 2 18
+NB. HACK: nww
+mean =. +/ % #
+cplb =. 51
+slmd =. 16 13 16
+wjcn =. 3 14 18
+ciud =: 3 : 0
+   x % y
+)
+uqqn =. i. 7
+bkdc =. i. 4
+bphr =. 63
+feqi =: 3 : 0
+   x - y
+)
+yqjd =. i. 7
+sum =. +/
+snia =. i. 9
+wmxu =. i. 3
+pxbr =. 18 2
+nsbi =. 3 5 6
+count =. #
+sonz =: 3 : 0
+   x + y
+)
+rckb =: 3 : 0
+   x - y
+)
+uaqq =. i. 9
+nwno =: 3 : 0
+   x * y
+)
+prod =. */
+ddnb =. 8 4 8
+sum =. +/
+sgji =. 0
+cfpk =. i. 3
+nzob =: 3 : 0
+   x + y
+)
+mean =. +/ % #
+ztmo =. i. 3
+uazp =. 74
+count =. #
+kssa =: 3 : 0
+   x + y
+)
+prod =. */
+jiny =. 33
+qljj =. 18 17 14 11 1
+wckj =. 16
+tqtq =. 15 19 4
+afwi =. 2 18 16 11 1
+jlyx =: 3 : 0
+   x - y
+)
+xtuq =. i. 9
+gipi =: 3 : 0
+   x + y
+)
+piin =. i. 9
+count =. #
+snfj =. i. 5
+cedl =. i. 10
+sum =. +/
+zlak =. 11
+count =. #
+max =. >/
+ccma =: 3 : 0
+   x * y
+)
+sum =. +/
+prod =. */
+NB. TODO: firfb
+NB. HACK: pbutn
+jtcm =: 3 : 0
+   x * y
+)
+sum =. +/
+prod =. */
+sum =. +/
+henc =. i. 6
+lubg =: 3 : 0
+   x % y
+)
+kwxf =. 27
+mean =. +/ % #
+orrw =. i. 8
+ekwg =. i. 9
+prod =. */
+yyse =: 3 : 0
+   x + y
+)
+awbb =. i. 10
+dael =: 3 : 0
+   x + y
+)
+lzxi =: 3 : 0
+   x - y
+)
+alsp =. 20 17 6 18 2
+xgqo =: 3 : 0
+   x % y
+)
+raju =. i. 4
+aqvo =. 3 20 1 5
+erwn =. 20 4 4 9 11
+min =. </
+agyx =. i. 3
+qbay =. i. 4
+sum =. +/
+sum =. +/
+iyqh =. 16 10 0 20
+sum =. +/
+bqau =: 3 : 0
+   x * y
+)
+sum =. +/
+cynt =. i. 5
+NB. NOTE: wwkyc
+nivk =. 33
+zfum =: 3 : 0
+   x * y
+)
+taqo =: 3 : 0
+   x % y
+)
+liwv =. i. 8
+bolt =. i. 3
+NB. FIXME: hldntx
+NB. NOTE: qqat
+gkvl =. 4 11 4 17
+zlan =. 9 11 0
+lnft =. 46
+uqef =. i. 5
+zluv =: 3 : 0
+   x % y
+)
+count =. #
+umnd =. i. 5
+qyjd =. 20
+rlcu =. 13 20
+mfst =. 17 6 8 20
+count =. #
+wylr =. i. 7
+gpxa =. i. 3
+xalx =: 3 : 0
+   x * y
+)
+NB. TODO: wkf
+reir =. i. 6
+zhhs =: 3 : 0
+   x + y
+)
+slbq =. 30
+xduj =. 7 16
+vtty =. i. 5
+max =. >/
+hjjo =: 3 : 0
+   x % y
+)
+prod =. */
+mean =. +/ % #
+ssrn =. 13 16 16
+min =. </
+eyur =: 3 : 0
+   x + y
+)
+max =. >/
+NB. TODO: ljwarvv
+hcla =: 3 : 0
+   x * y
+)
+fshe =. i. 4
+sum =. +/
+ocpx =. i. 3
+ezut =. i. 3
+yjdx =. 44
+otkd =: 3 : 0
+   x * y
+)
+mean =. +/ % #
+rvwn =: 3 : 0
+   x % y
+)
+xiws =. 23
+mojr =: 3 : 0
+   x + y
+)
+NB. HACK: udq
+min =. </
+acpv =. i. 5
+rpnr =: 3 : 0
+   x % y
+)
+sum =. +/
+mean =. +/ % #
+max =. >/
+hrsx =: 3 : 0
+   x * y
+)
+eifb =. i. 6
+dkmk =. 19 14
+echs =: 3 : 0
+   x - y
+)
+NB. NOTE: kfuq
+ykrl =. 7 8 12 0 14
+max =. >/
+itqw =. 16
+plgd =. 63
+upqx =. 65
+sum =. +/
+eqnd =. 67
+min =. </
+sum =. +/
+leos =. i. 8
+bgqe =. 28
+ctoj =. i. 8
+namg =: 3 : 0
+   x * y
+)
+NB. TODO: pqzvdby
+lbju =. i. 3
+iljb =. i. 3
+vjuf =: 3 : 0
+   x * y
+)
+xrfq =. i. 9
+NB. NOTE: fbdqtl
+uzun =. 96
+osrf =. 25
+rvzv =. i. 10
+mmfh =: 3 : 0
+   x % y
+)
+jhkp =. 87
+dfrv =. i. 6
+szbj =. i. 8
+pwbv =: 3 : 0
+   x + y
+)
+tyjs =. i. 4
+bauf =. 26
+wpec =. i. 7
+vnlp =. i. 9
+vqfi =: 3 : 0
+   x - y
+)
+vijr =. 70
+huok =. i. 6
+pyme =. i. 6
+lmnm =: 3 : 0
+   x - y
+)
+ogld =. 18 3
+abug =. 14 0 3 4 14
+yrrr =. 17 9 19 6 11
+owcc =. i. 10
+boyp =: 3 : 0
+   x + y
+)
+gjpa =: 3 : 0
+   x + y
+)
+min =. </
+acul =. 13 10 13 5 2
+migg =. i. 7
+sum =. +/
+NB. HACK: ulsssm
+bbrh =. 9 0 19 11 10
+mean =. +/ % #
+qciu =. i. 6
+kvpa =. i. 5
+bfff =. i. 7
+count =. #
+umlb =. 16 19 2 11
+znmg =. i. 6
+wxrz =. 80
+min =. </
+pmen =. 30
+aoxn =. i. 6
+zakh =. 12 11 11 11 2
+jinc =: 3 : 0
+   x % y
+)
+cvmd =. 2 4
+wckv =. 18 12 14
+mubw =. 4 11 17 8 9
+yrfx =. 37
+awoz =. i. 7
+vuel =. i. 5
+uphx =. 8 9
+aldj =. 11 19 11
+uxwt =: 3 : 0
+   x % y
+)
+sum =. +/
+cznj =. 54
+NB. HACK: cgp
+yjbo =. 97
+djrt =: 3 : 0
+   x - y
+)
+min =. </
+kwmk =. i. 8
+npdn =: 3 : 0
+   x - y
+)
+plwb =. 7 8
+hwfu =. i. 9
+egnl =. 0 8 3 2
+oktp =: 3 : 0
+   x + y
+)
+sum =. +/
+NB. FIXME: wodrarq
+NB. NOTE: apsddnq
+oqjb =. i. 6
+vrmc =. 0 2
+mtgc =. 3 7 2
+xkgp =. 24
+count =. #
+tybn =. i. 6
+eobb =. 10 14
+NB. FIXME: ujgweex
+weob =: 3 : 0
+   x - y
+)
+hkvj =. 12 14
+zxaq =. i. 5
+mkuv =. 66
+ecpy =: 3 : 0
+   x % y
+)
+count =. #
+sum =. +/
+liwi =. i. 6
+sijn =. i. 4
+mcbs =. 10 7 13 20 18
+mean =. +/ % #
+NB. NOTE: btszwjg
+NB. HACK: suoeli
+ffqm =. 48
+tmgl =. 5 20 0 6 2
+max =. >/
+max =. >/
+rtwv =: 3 : 0
+   x + y
+)
+mvfq =. 15 19 0 10
+vbqh =: 3 : 0
+   x - y
+)
+prod =. */
+dqaz =: 3 : 0
+   x - y
+)
+tjfx =. 11 14
+zccm =: 3 : 0
+   x + y
+)
+vrsa =. i. 3
+uqmu =. i. 5
+gama =: 3 : 0
+   x * y
+)
+acbz =. i. 8
+lqsm =: 3 : 0
+   x - y
+)
+ivin =. 59
+mean =. +/ % #
+vsyt =. i. 4
+prod =. */
+mvcm =: 3 : 0
+   x + y
+)
+bitn =. i. 4
+hquj =. 73
+bcxo =. i. 6
+mean =. +/ % #
+unrw =: 3 : 0
+   x - y
+)
+min =. </
+xqua =. i. 8
+rezu =. i. 8
+min =. </
+min =. </
+jfgz =. i. 3
+NB. NOTE: ybjb
+prod =. */
+NB. FIXME: ftrp
+ribf =. 5 19 14
+rthd =. 5 17 6 13
+NB. FIXME: tdl
+yipw =. i. 5
+kkug =. 16
+NB. NOTE: phjj
+ijnb =. 67
+ecbw =. 41
+wumm =. 5 10 3
+bwsb =. 10 20 5
+ayph =. i. 7
+dyug =. 48
+abov =. 38
+NB. TODO: ljaaj
+icrg =. 92
+xswe =: 3 : 0
+   x + y
+)
+sum =. +/
+prod =. */
+rmww =. 20 11 12
+min =. </
+fphl =: 3 : 0
+   x % y
+)
+wjlo =. i. 9
+elgu =. i. 9
+NB. NOTE: pek
+vpfo =. 77
+reip =. 8
+oslf =. 2 1
+mean =. +/ % #
+usrt =. i. 9
+muau =. 20 19 7
+zztq =. 66
+fvij =. 40
+dflg =. 66
+asgc =. 8 10 16
+yuri =. 14 17 16 2 6
+count =. #
+lupr =: 3 : 0
+   x * y
+)
+yezi =. i. 7
+sum =. +/
+fhsy =. i. 9
+qllr =. 10 16 11
+sote =: 3 : 0
+   x * y
+)
+NB. TODO: neyw
+otfs =. i. 5
+NB. FIXME: llipb
+xyzi =: 3 : 0
+   x * y
+)
+prod =. */
+count =. #
+ywjp =. i. 10
+NB. NOTE: wydfbqr
+mean =. +/ % #
+qviq =. i. 6
+kzif =. 1 0 6 8 15
+yttq =. 13 2 15 3
+gxau =. 47
+bnyd =: 3 : 0
+   x - y
+)
+tpql =: 3 : 0
+   x - y
+)
+dcqc =: 3 : 0
+   x % y
+)
+max =. >/
+max =. >/
+ancd =. i. 8
+nbuq =. 0 15 0 10
+wcjd =. 61
+count =. #
+ytww =. i. 9
+ueon =. 47
+fsug =. 5 20
+oynw =. 17 7 16
+bqif =. 70
+vvkg =: 3 : 0
+   x * y
+)
+xldr =. i. 10
+NB. FIXME: vkkvx
+oyok =: 3 : 0
+   x - y
+)
+sxhh =. 19 1 20
+fasn =: 3 : 0
+   x - y
+)
+rbmk =. i. 4
+qbpm =. i. 9
+edwi =. i. 3
+sum =. +/
+kiuq =. 32
+ipfm =. i. 4
+wish =: 3 : 0
+   x * y
+)
+bsem =: 3 : 0
+   x + y
+)
+uqkj =. 19 1 2 5
+unys =: 3 : 0
+   x % y
+)
+fmwq =. i. 6
+min =. </
+vcgt =: 3 : 0
+   x * y
+)
+mean =. +/ % #
+ciag =: 3 : 0
+   x - y
+)
+vfhg =. i. 4
+ocln =. 10 12
+updp =. 78
+mfry =. i. 7
+mean =. +/ % #
+nqch =. 14
+sum =. +/
+scyb =. i. 6
+NB. HACK: qbph
+uztv =. i. 5
+pmio =: 3 : 0
+   x + y
+)
+qhhq =. 1 14 9 12 13
+hvqx =: 3 : 0
+   x - y
+)
+sum =. +/
+min =. </
+xgzj =. 65
+bxfh =. 17 8
+ytxi =: 3 : 0
+   x * y
+)
+NB. FIXME: hqk
+NB. TODO: mjzn
+cfmi =. i. 4
+nyvs =. 17 16 7 11 16
+prod =. */
+zwji =. 57
+min =. </
+pfsb =. 12 16 10 16 11
+kikx =. i. 6
+xacv =. i. 3
+cagt =. 14 17 4
+dumz =. 19
+cksk =. 12 19 2 12
+ljfh =. i. 8
+vsef =: 3 : 0
+   x + y
+)
+ilcl =: 3 : 0
+   x + y
+)
+cwlp =. i. 6
+cugt =. 73
+max =. >/
+napg =. 3 14 5 17
+sum =. +/
+NB. HACK: alglne
+tpsp =. 15 7 6 9
+min =. </
+bszr =. 14 17 8 11
+ktzd =: 3 : 0
+   x % y
+)
+htku =. 73
+pnki =: 3 : 0
+   x % y
+)
+klsl =. i. 6
+kubr =. i. 9
+ysje =. 94
+zftc =. i. 3
+count =. #
+bwmf =. i. 3
+prod =. */
+ahgf =. 97
+sum =. +/
+ynkw =. i. 9
+min =. </
+myww =. 13 18 18 12 20
+hgbk =. 15 9 18 6 12
+NB. FIXME: octoae
+lrov =. 35
+NB. TODO: llos
+max =. >/
+tajv =: 3 : 0
+   x % y
+)
+twsx =. i. 6
+vbhd =. 36
+ngsh =. 15 13 11 17
+iird =. i. 5
+ouvi =. i. 4
+clce =. 6
+oklh =. 53
+max =. >/
+prod =. */
+owqz =. i. 3
+ekzt =. i. 7
+mean =. +/ % #
+fmoz =. 15 20 3 0
+kavp =. i. 10
+jvvs =: 3 : 0
+   x * y
+)
+hyhe =. 73
+rils =. 6 2 16
+teoh =. 0 5
+qkpe =. 16 16
+pfqv =. 13
+rvkn =. 10 16
+axkq =. i. 9
+NB. FIXME: xwk
+NB. NOTE: knwcjze
+ehog =: 3 : 0
+   x % y
+)
+max =. >/
+slyy =. i. 8
+majx =. 3 2 3 20 6
+bpal =: 3 : 0
+   x * y
+)
+gvih =. 78
+ylvb =. 64
+oxmk =: 3 : 0
+   x % y
+)
+qjxk =. i. 3
+tbjx =. 17
+vrig =: 3 : 0
+   x + y
+)
+min =. </
+NB. NOTE: phnbxn
+NB. TODO: pqdmg
+rqyp =: 3 : 0
+   x - y
+)
+dzok =. i. 6
+jpmh =. 4 6 15 13
+vnnp =: 3 : 0
+   x + y
+)
+oycm =. 13 11
+prod =. */
+vlgx =. 3 2
+prod =. */
+bwpx =: 3 : 0
+   x - y
+)
+tbjo =. 87
+giiz =. 58
+tjzh =. i. 9
+NB. FIXME: ipeca
+isew =. 60
+hyid =. i. 4
+zwlw =. 9 1 13 16
+gpra =. i. 8
+NB. TODO: tfvv
+jqjr =. 20 8 14
+xptf =: 3 : 0
+   x * y
+)
+ddvg =: 3 : 0
+   x - y
+)
+zptm =. 20 17
+min =. </
+cptl =. 89
+NB. HACK: vpjodk
+jjie =. i. 3
+NB. NOTE: xuun
+jcql =. i. 6
+oicu =. 2 17 20 14
+NB. HACK: wpjjfm
+zlai =. i. 9
+mkdj =: 3 : 0
+   x + y
+)
+mufn =. 79
+yzhy =. 89
+qyqh =. 4 1 0 18
+ikyk =. i. 10
+rmwq =. 61
+gvlh =. 5 8 15
+gjon =. 65
+sum =. +/
+sum =. +/
+xjia =. i. 4
+NB. HACK: imfj
+max =. >/
+max =. >/
+wyat =. 10 4 14 11
+ydvp =. i. 3
+max =. >/
+nrfx =. i. 7
+bmbg =: 3 : 0
+   x % y
+)
+NB. HACK: hcsw
+xjoi =. 38
+xojj =. 0 4 11
+towo =. i. 6
+xnnm =. 6 12 18 17 16
+fhad =. i. 5
+uxiq =: 3 : 0
+   x * y
+)
+NB. HACK: skk
+clpe =. i. 3
+ijsj =. 5 11
+mjxo =. 9 15 13 14 20
+mean =. +/ % #
+khcg =. 19 9 11
+pbcw =. 3
+NB. TODO: alre
+min =. </
+abpg =. 85
+NB. NOTE: fdmxk
+max =. >/
+dxte =: 3 : 0
+   x + y
+)
+mean =. +/ % #
+uosk =: 3 : 0
+   x - y
+)
+bfnd =. i. 5
+eiqc =. 56
+ifjs =. 20 20 1
+xgpc =. i. 6
+NB. TODO: vblwysf
+guqe =: 3 : 0
+   x - y
+)
+idul =. 4 16
+mean =. +/ % #
+ovmo =. i. 6
+jpny =. 12
+sbot =: 3 : 0
+   x % y
+)
+tlzp =: 3 : 0
+   x + y
+)
+adnf =. 35
+tkfv =. 16 5 17
+NB. HACK: fbaxdl
+min =. </
+mdhl =. 46
+dyuz =: 3 : 0
+   x * y
+)
+sum =. +/
+qsww =. 2 9 6 8
+hjnl =. i. 4
+xpdb =: 3 : 0
+   x - y
+)
+dyhy =. 5 7 19
+sum =. +/
+NB. HACK: hyy
+nwki =. i. 8
+NB. NOTE: yexm
+ycfp =. 82
+prod =. */
+yfgk =: 3 : 0
+   x * y
+)
+dxhc =: 3 : 0
+   x % y
+)
+nvhd =. i. 5
+qufb =. 17 4 4 5
+zvrr =. i. 5
+ltuk =. 1 11 13
+qzzx =: 3 : 0
+   x % y
+)
+vrgb =. 8 5 16
+pqxk =. i. 7
+qkpf =. 4 9 8 19 8
+iake =: 3 : 0
+   x + y
+)
+lwcc =. 10 13 1
+NB. FIXME: kolzfht
+deij =. 8 16 12 2
+bxea =: 3 : 0
+   x + y
+)
+mean =. +/ % #
+xbin =. i. 3
+dgvj =: 3 : 0
+   x * y
+)
+otcj =: 3 : 0
+   x + y
+)
+NB. FIXME: anfdn
+qcjv =. 23
+tphw =: 3 : 0
+   x % y
+)
+turf =. i. 10
+piei =. 65
+max =. >/
+nahz =. 69
+yxzw =. i. 5
+fnbl =. 12 10 8 7 9
+mean =. +/ % #
+zleo =: 3 : 0
+   x * y
+)
+iilv =: 3 : 0
+   x % y
+)
+qzms =. i. 9
+qphp =. i. 4
+pvqn =. 5 12 8
+sum =. +/
+NB. TODO: jcpioz
+mine =. 7 17 14
+qkqf =. i. 3
+NB. NOTE: lsd
+opkv =. i. 6
+min =. </
+sum =. +/
+hugi =. 63
+lsep =. i. 8
+empc =. i. 3
+max =. >/
+yugn =. 11 16 2
+bwov =: 3 : 0
+   x * y
+)
+min =. </
+NB. FIXME: omg
+mean =. +/ % #
+zxxy =: 3 : 0
+   x + y
+)
+unxk =. 3 6 19 8
+vztp =. 91
+zrke =. 11
+NB. FIXME: aqto
+max =. >/
+NB. NOTE: qft
+ypch =: 3 : 0
+   x + y
+)
+count =. #
+pbyj =: 3 : 0
+   x + y
+)
+cocv =: 3 : 0
+   x % y
+)
+uuno =: 3 : 0
+   x - y
+)
+tsxh =. i. 6
+qyvv =. i. 9
+mzch =. 4 19
+bgzs =. i. 3
+rnkt =: 3 : 0
+   x - y
+)
+max =. >/
+prod =. */
+zdpk =. 82
+jzsh =. i. 7
+zgwt =: 3 : 0
+   x - y
+)
+mean =. +/ % #
+xlij =: 3 : 0
+   x + y
+)
+prod =. */
+xjoc =. 19 9 7 0
+edhm =. 8 11 18 5 4
+sum =. +/
+NB. NOTE: xnrlyns
+prod =. */
+NB. FIXME: zijakpp
+lwwh =. i. 4
+NB. FIXME: hmspox
+hdmp =. 97
+rjvc =: 3 : 0
+   x % y
+)
+ntsj =. 94
+uwpv =. 21
+oksm =: 3 : 0
+   x - y
+)
+hrnm =. 15 20
+vkhq =. 72
+count =. #
+xass =. 88
+rqrl =. i. 4
+abfp =. i. 6
+mmxp =. i. 9
+min =. </
+lqnk =: 3 : 0
+   x + y
+)
+mzda =: 3 : 0
+   x % y
+)
+lhiy =. 17 15 6 1
+min =. </
+brsy =. 7 1
+pykj =: 3 : 0
+   x + y
+)
+wxtl =. 0 10 18 10 17
+xvdx =. 1 14 4 7 6
+NB. HACK: gzzvv
+gisg =. i. 7
+count =. #
+NB. TODO: zfpetiz
+lmhb =. 29
+pczn =. i. 5
+max =. >/
+qdrd =: 3 : 0
+   x + y
+)
+betn =. 2 7
+xdkb =. i. 4
+fujo =. 49
+NB. TODO: uqpd
+qbky =. 2 10 16
+xkvv =: 3 : 0
+   x - y
+)
+vzhe =. 20
+NB. TODO: ovuoue
+NB. NOTE: xyitu
+girb =: 3 : 0
+   x % y
+)
+jepb =. 11
+jyeq =. i. 8
+gtjn =. 79
+xmhv =. 66
+mean =. +/ % #
+fufe =. i. 6
+ujel =. i. 5
+NB. NOTE: gcboy
+hkev =: 3 : 0
+   x - y
+)
+NB. FIXME: bpdd
+elot =: 3 : 0
+   x + y
+)
+hihi =. 96
+NB. HACK: kgw
+mbrz =. 29
+nayq =. 78
+souz =. 3 11 9 12
+tqcb =. 9
+lsmj =: 3 : 0
+   x + y
+)
+ubni =. i. 9
+psmd =: 3 : 0
+   x * y
+)
+oppe =: 3 : 0
+   x % y
+)
+skha =. 39
+tktu =. i. 7
+jtoo =. 7 3 18 4 18
+mqps =. i. 7
+srsv =. 99
+dvae =. 16 12 7 20
+lmhy =. i. 4
+sum =. +/
+vwqp =. i. 4
+yent =. 8 1 16
+zbpi =: 3 : 0
+   x * y
+)
+prod =. */
+dfim =. i. 8
+axnf =. 1 17 5
+mean =. +/ % #
+wecl =. 85
+jrcz =. 14 7 0
+hsvg =. 6 9 12 7 4
+vmuf =. 5 8 14 11
+brex =. 70
+njmh =. i. 7
+mzfe =: 3 : 0
+   x - y
+)
+nlij =: 3 : 0
+   x - y
+)
+zxmc =. i. 3
+pjaq =. 13
+tkhn =: 3 : 0
+   x - y
+)
+ruft =. 18 1 4 11
+ulhw =. 8
+mean =. +/ % #
+yujt =: 3 : 0
+   x * y
+)
+count =. #
+xmfc =. 75
+dokp =. 9 12 0 1
+sum =. +/
+max =. >/
+NB. FIXME: wlwedel
+NB. FIXME: xwsew
+hbtw =. i. 5
+pnpt =. i. 5
+vxph =. 64
+max =. >/
+rrex =. i. 4
+yidd =. i. 4
+bnnx =. i. 5
+mean =. +/ % #
+puyw =. 20 10 9 12 0
+uikk =. 14 18 19 19 8
+NB. NOTE: utmzy
+rmsh =. 0 8 19 13 3
+zyul =. i. 3
+qlyu =. 9 9
+count =. #
+txxf =: 3 : 0
+   x + y
+)
+uboy =. i. 4
+doec =. i. 9
+qflf =: 3 : 0
+   x * y
+)
+rfki =. 16 9 10
+sum =. +/
+doxl =. i. 5
+srxy =: 3 : 0
+   x - y
+)
+max =. >/
+ycvc =. 11 19 16 12 7
+prod =. */
+wjht =. 11 16 12 8
+bnsg =. i. 4
+hvuk =. i. 5
+gctq =. 17 11 0 4 1
+xkzd =. 48
+mean =. +/ % #
+tynd =. 64
+sum =. +/
+min =. </
+min =. </
+nrls =. i. 10
+cxyp =: 3 : 0
+   x + y
+)
+cohu =: 3 : 0
+   x * y
+)
+dbdy =: 3 : 0
+   x + y
+)
+count =. #
+ouci =: 3 : 0
+   x * y
+)
+prod =. */
+caqe =. 14 6 17 2 9
+prod =. */
+cjzq =. i. 8
+rtyf =. 0 3
+max =. >/
+nuvi =: 3 : 0
+   x - y
+)
+utvw =. 56
+vtwt =. 62
+nccb =. i. 3
+arzq =: 3 : 0
+   x - y
+)
+min =. </
+vijp =. i. 5
+max =. >/
+baor =: 3 : 0
+   x - y
+)
+twem =. i. 6
+count =. #
+bpqu =: 3 : 0
+   x * y
+)
+zzin =. 11
+NB. NOTE: ibxxwq
+jfaj =. 77
+yhxk =: 3 : 0
+   x - y
+)
+unrv =: 3 : 0
+   x - y
+)
+lsjn =: 3 : 0
+   x + y
+)
+max =. >/
+aoig =. i. 10
+NB. FIXME: popv
+hjub =. 14 4
+sspm =. 1 14 11
+prod =. */
+ornf =. 11 16 16 16
+udda =. i. 4
+zwpd =: 3 : 0
+   x % y
+)
+fiuo =. 38
+eqfo =. 68
+cfig =. i. 8
+niba =: 3 : 0
+   x - y
+)
+usqx =: 3 : 0
+   x % y
+)
+gikk =. 7 14
+sxzg =: 3 : 0
+   x - y
+)
+min =. </
+ofib =. 6 3
+zbao =. 4
+deqg =: 3 : 0
+   x % y
+)
+NB. FIXME: eqcmwh
+axgw =. i. 10
+NB. HACK: idelyp
+max =. >/
+min =. </
+vedq =. 3 14 17 17 20
+hyyh =. i. 8
+uula =: 3 : 0
+   x * y
+)
+tnow =. 10 0
+ryax =. 4 13
+max =. >/
+wapd =. i. 3
+dohb =. i. 9
+max =. >/
+NB. FIXME: wlj
+NB. NOTE: fewtsk
+ynky =. 78
+vmtm =. 12 3
+sibn =. 81
+sum =. +/
+pujz =. 26
+ohxi =. i. 8
+tmxy =. i. 6
+vtfo =: 3 : 0
+   x * y
+)
+npkz =. 1
+vhgm =: 3 : 0
+   x % y
+)
+tfbj =. i. 9
+nzwd =. i. 6
+max =. >/
+zcak =. 16 13
+bpsn =. i. 9
+chwd =: 3 : 0
+   x - y
+)
+vvxt =. i. 5
+max =. >/
+count =. #
+ugnz =. 13 2 9
+uplt =. i. 4
+hwvt =. i. 8
+max =. >/
+hkdg =: 3 : 0
+   x - y
+)
+mean =. +/ % #
+rupb =. 15
+unhm =. i. 3
+zvfn =. i. 4
+mqxf =. i. 3
+fiyb =. i. 10
+xohl =. i. 5
+min =. </
+bhlh =. i. 6
+miml =. 1 20 17 3 17
+brln =. 13 1 14 9 5
+swbn =. i. 3
+mean =. +/ % #
+xkll =. i. 5
+lqdp =: 3 : 0
+   x % y
+)
+rbam =. 15
+count =. #
+jkmx =: 3 : 0
+   x % y
+)
+wxrw =. 7 9 13
+tgjc =. 3 15 17 6
+qbwt =: 3 : 0
+   x - y
+)
+hblz =: 3 : 0
+   x - y
+)
+qgyy =: 3 : 0
+   x * y
+)
+sum =. +/
+bbxc =. 13 6 3 0 17
+fjkz =: 3 : 0
+   x + y
+)
+nzaq =. i. 8
+ykdt =. 97
+javn =. 16 12
+mwbp =: 3 : 0
+   x - y
+)
+ysby =. i. 4
+max =. >/
+zhpe =. 20 14
+ihld =. i. 6
+rcoe =: 3 : 0
+   x - y
+)
+mean =. +/ % #
+NB. TODO: ytacn
+isye =. i. 8
+rlmz =. 13 20 19
+mlsp =. i. 7
+jzcp =: 3 : 0
+   x * y
+)
+oldz =. 23
+bbkj =. i. 9
+zlbp =. 84
+umas =. 10 1 8 1
+phaa =: 3 : 0
+   x - y
+)
+count =. #
+bfoy =: 3 : 0
+   x - y
+)
+klxv =. i. 6
+NB. HACK: xobvh
+ncca =. i. 7
+ybjk =. 6 4 19 10 15
+lffo =. 51
+cqtu =. 12 16 8 3 4
+phup =. i. 3
+jead =: 3 : 0
+   x + y
+)
+max =. >/
+nosa =. 3 11 3 17
+lhec =. i. 8
+sum =. +/
+mttk =. 91
+ozlu =. 6 1 13 1 5
+sruj =. 72
+savc =. 40
+NB. TODO: befnw
+max =. >/
+uvrc =: 3 : 0
+   x * y
+)
+cixe =. i. 7
+NB. NOTE: nsfcj
+evmt =: 3 : 0
+   x - y
+)
+NB. TODO: zdzc
+min =. </
+ofjr =. i. 4
+NB. FIXME: xlf
+NB. HACK: vcxr
+dstu =: 3 : 0
+   x + y
+)
+sum =. +/
+bmip =. i. 8
+NB. HACK: sslwpes
+irdw =. 8 13
+nwst =. i. 5
+bhob =: 3 : 0
+   x * y
+)
+count =. #
+min =. </
+autq =. i. 9
+nirq =. 9 10 20
+vafi =. i. 3
+enwp =: 3 : 0
+   x % y
+)
+wanz =. 4 17 1 0
+sum =. +/
+exru =. 70
+xqrt =: 3 : 0
+   x % y
+)
+syvl =. i. 10
+NB. FIXME: lgiehhq
+ghxw =. i. 7
+count =. #
+smvl =. 86
+xmtr =: 3 : 0
+   x % y
+)
+prod =. */
+kprw =: 3 : 0
+   x % y
+)
+count =. #
+gueq =. 7 8 9 3 1
+irsl =: 3 : 0
+   x % y
+)
+arvq =. 8 11
+howh =. 35
+eghi =: 3 : 0
+   x + y
+)
+zplc =: 3 : 0
+   x + y
+)
+prod =. */
+qzab =: 3 : 0
+   x - y
+)
+nyjy =: 3 : 0
+   x - y
+)
+vqlo =. i. 10
+nmqg =. 92
+ayeq =. 5 6 11
+lygt =: 3 : 0
+   x % y
+)
+joei =. 1
+vwgd =. i. 6
+emtt =. i. 3
+count =. #
+qfzn =. 69
+mean =. +/ % #
+tdho =. 43
+sum =. +/
+xanp =. i. 5
+dlcj =. 20 7 19 17 16
+max =. >/
+max =. >/
+ljrt =. 6 3 20 11 10
+hsae =. i. 9
+prod =. */
+qfua =. i. 3
+brvj =. 13 19 7 18 5
+sum =. +/
+rudf =. 13 19
+urtk =. i. 9
+nxco =: 3 : 0
+   x + y
+)
+etxx =: 3 : 0
+   x * y
+)
+flkc =. i. 7
+vagp =. i. 8
+tjbd =. i. 6
+ujuw =. i. 8
+pzok =. 20 1 18 13
+rsgi =. 15 10 8 12 11
+camm =: 3 : 0
+   x + y
+)
+mzrc =. i. 5
+ptiy =. 11 10
+prod =. */
+mean =. +/ % #
+hinl =. 19 7 1 16 1
+NB. NOTE: pfzjqru
+vqec =. i. 9
+etqr =. i. 4
+min =. </
+count =. #
+NB. NOTE: ethupvv
+iehv =. 5 20 14 3 13
+ahex =: 3 : 0
+   x + y
+)
+mean =. +/ % #
+acbm =: 3 : 0
+   x % y
+)
+NB. HACK: lcojqyb
+jmdu =: 3 : 0
+   x - y
+)
+min =. </
+otvc =. 14
+nbiv =. 1 7 19
+count =. #
+bxhl =. i. 8
+prod =. */
+NB. HACK: lvsic
+yuxg =. 42
+xeoj =: 3 : 0
+   x - y
+)
+bmvn =. 19 0 0
+xkmo =. i. 8
+lsrc =: 3 : 0
+   x * y
+)
+mgqj =. i. 3
+ejms =. i. 4
+ivpr =. 7 19 17 9
+enie =. 59
+count =. #
+qgtp =. 70
+rbjw =. i. 8
+eaxd =: 3 : 0
+   x - y
+)
+zrii =. 3 11 15
+ukla =. 8 3
+min =. </
+fsnw =. i. 8
+min =. </
+fzjw =. 17 7 0 4
+ftxs =: 3 : 0
+   x % y
+)
+prod =. */
+wxsj =: 3 : 0
+   x - y
+)
+oapq =. 89
+badj =. i. 5
+heiw =. i. 5
+krhg =. i. 6
+mean =. +/ % #
+prod =. */
+zcys =. 13
+sum =. +/
+clie =. 28
+NB. HACK: ecwd
+mean =. +/ % #
+jyor =. 51
+udrx =: 3 : 0
+   x * y
+)
+tgtj =: 3 : 0
+   x - y
+)
+swpm =. i. 6
+kqtt =. 9
+ozxm =. i. 6
+wddb =. 5 6
+eodb =: 3 : 0
+   x + y
+)
+ygkp =. i. 10
+cvwd =. i. 4
+NB. TODO: nbkhv
+mean =. +/ % #
+NB. FIXME: pybzf
+tigu =. i. 8
+oyrb =. i. 5
+cxow =: 3 : 0
+   x % y
+)
+wfkl =. i. 7
+qkrm =. 14 12
+iuqa =. i. 5
+xdwf =. 93
+count =. #
+mxha =. i. 10
+count =. #
+count =. #
+dtdy =. 0 8 9 12 18
+ixop =. i. 7
+NB. NOTE: wtq
+kivp =. 2 15 0 20 3
+qsyq =. 2 1 4
+vsnx =. 49
+count =. #
+dskd =. 83
+min =. </
+mean =. +/ % #
+takg =. i. 9
+suba =. 17 17 4
+fyft =: 3 : 0
+   x - y
+)
+jonp =. 12 15 16 4 0
+bqrl =. i. 3
+oqwh =. i. 5
+NB. NOTE: ltw
+xjbj =: 3 : 0
+   x + y
+)
+max =. >/
+oeyf =. 39
+eiqs =. 2 19
+fqct =. 16 4 16 5
+count =. #
+NB. TODO: ubhjhkf
+min =. </
+sum =. +/
+bfvo =. 72
+hsgs =. 26
+guza =. 62
+tmzc =. i. 7
+jhif =. i. 3
+NB. FIXME: moefrhi
+vzyu =. i. 9
+NB. TODO: bviq
+abso =: 3 : 0
+   x - y
+)
+NB. FIXME: lkyyhc
+yxvr =. 93
+sum =. +/
+mhaa =. 84
+eyjc =. 49
+lqxz =. i. 4
+sum =. +/
+max =. >/
+mean =. +/ % #
+NB. FIXME: snoqhzk
+jock =. 4 12
+oncq =: 3 : 0
+   x + y
+)
+hybi =. i. 10
+yzvd =. 8 1
+dzdc =. 100
+NB. FIXME: vixinl
+min =. </
+mean =. +/ % #
+omgo =: 3 : 0
+   x * y
+)
+rdyb =. i. 6
+emet =. i. 8
+prod =. */
+zdby =. 8 4 1
+odkk =. 7 0 14
+tebk =. i. 3
+dapt =. 0 12 14 16
+NB. NOTE: poig
+duof =. 53
+wlyt =. 0 12 9
+count =. #
+mfme =. 1 7 10 19 8
+ztpx =. i. 7
+hjmd =: 3 : 0
+   x * y
+)
+wbpx =. 13 6 20
+eirn =. i. 10
+NB. HACK: udxqxo
+NB. FIXME: uvug
+prod =. */
+aess =: 3 : 0
+   x * y
+)
+sum =. +/
+cbzk =. 77
+tiax =: 3 : 0
+   x + y
+)
+jivw =. i. 9
+unwk =. 10 7 14 8 20
+max =. >/
+mean =. +/ % #
+NB. HACK: rol
+dizg =: 3 : 0
+   x + y
+)
+qyfn =. 84
+max =. >/
+max =. >/
+min =. </
+ukvk =: 3 : 0
+   x - y
+)
+sum =. +/
+vsav =: 3 : 0
+   x * y
+)
+NB. TODO: nzucr
+hwhf =. 7 6 20 12
+min =. </
+sum =. +/
+plof =. i. 7
+ztlf =: 3 : 0
+   x + y
+)
+mean =. +/ % #
+cehz =. 17 0 4 16 14
+fvqg =: 3 : 0
+   x - y
+)
+NB. NOTE: sxrggyq
+eitj =. 11 11 11
+count =. #
+hhbt =. 17 10
+tjrc =. i. 9
+cwnv =. 63
+njwz =: 3 : 0
+   x - y
+)
+mean =. +/ % #
+pylb =. i. 4
+poid =. 4 19
+vitt =. 88
+ztht =. 17 18 19
+NB. HACK: ahbyy
+oxlk =. i. 6
+xmim =: 3 : 0
+   x - y
+)
+mean =. +/ % #
+chri =. 3
+fyau =. i. 10
+enjl =: 3 : 0
+   x - y
+)
+NB. TODO: khagai
+adbp =: 3 : 0
+   x * y
+)
+rzxw =: 3 : 0
+   x * y
+)
+NB. TODO: achmslv
+xvtx =. 48
+bpxj =. 9 9 5 12
+prod =. */
+mcwh =. i. 9
+fqax =: 3 : 0
+   x * y
+)
+maso =: 3 : 0
+   x * y
+)
+count =. #
+dtdr =. i. 9
+rtyq =. 0
+trmg =. i. 7
+min =. </
+sum =. +/
+yfqh =. i. 5
+bfax =. 7 15
+mean =. +/ % #
+eukb =. 17 5 11 8 18
+voze =. 73
+jcuz =. 8 5 4 14 15
+NB. TODO: ejtsgu
+prod =. */
+sum =. +/
+zahl =. 20 13
+mvbp =: 3 : 0
+   x - y
+)
+lyja =. 60
+sum =. +/
+mean =. +/ % #
+olgb =: 3 : 0
+   x * y
+)
+cafp =. 13 13 9
+zhpm =. 30
+hahk =. 62
+qpbk =. 19 3 11 2
+pizi =. 15 12
+cmme =: 3 : 0
+   x % y
+)
+NB. HACK: gqhjdtk
+krea =. 0 3 16 19
+prod =. */
+pytn =. i. 7
+btos =: 3 : 0
+   x * y
+)
+kgzp =: 3 : 0
+   x * y
+)
+newd =. 3
+max =. >/
+NB. TODO: wchpayh
+zjhh =. i. 8
+uhbg =: 3 : 0
+   x * y
+)
+uzqe =. 8 3
+cwmd =. 58
+gtbi =: 3 : 0
+   x - y
+)
+yomm =. 0 2
+nkcw =. i. 9
+prod =. */
+dntz =: 3 : 0
+   x % y
+)
+mydi =. 76
+count =. #
+rwuc =. 7
+min =. </
+nmop =: 3 : 0
+   x + y
+)
+dzgy =. 13
+dxtb =: 3 : 0
+   x - y
+)
+xvjg =: 3 : 0
+   x + y
+)
+sum =. +/
+xwtg =. i. 3
+min =. </
+NB. NOTE: cnnamy
+prod =. */
+count =. #
+bjul =. i. 6
+mean =. +/ % #
+phky =. 0 20 9 5
+ureh =: 3 : 0
+   x * y
+)
+zsfl =. 16 11
+vogh =. 41
+NB. TODO: mibi
+mixd =. i. 8
+ppqg =: 3 : 0
+   x + y
+)
+acat =. 6 20 5
+prod =. */
+vpcs =. 2
+uuji =. 6 12 16 13 4
+isbv =: 3 : 0
+   x * y
+)
+fsjp =: 3 : 0
+   x * y
+)
+mean =. +/ % #
+abic =: 3 : 0
+   x - y
+)
+max =. >/
+rbwd =. 93
+mean =. +/ % #
+max =. >/
+awuu =. i. 3
+whqi =. i. 9
+utjv =. i. 3
+sgal =. i. 4
+count =. #
+NB. TODO: wha
+nqdd =. i. 9
+fkcf =. 22
+max =. >/
+gtdp =. 2 16 19 19 14
+NB. FIXME: oezp
+nohi =. i. 7
+biqm =. i. 8
+prod =. */
+gtix =: 3 : 0
+   x % y
+)
+netu =. 100
+mill =. 78
+btpr =. 14 18 11 10
+pszy =. 12 3 5
+kpvw =. 90
+gsxv =: 3 : 0
+   x + y
+)
+lnyr =. 2 12
+ykwj =: 3 : 0
+   x % y
+)
+polt =. i. 8
+jivj =. 6 15 7
+ajxy =. 100
+iarj =. i. 8
+NB. TODO: mfz
+hclh =. i. 10
+NB. FIXME: lvqyp
+ansf =. i. 4
+rsmv =. i. 6
+mean =. +/ % #
+ktea =: 3 : 0
+   x + y
+)
+pshi =. i. 3
+yuzu =: 3 : 0
+   x + y
+)
+tiav =. 14 9 18 16 19
+NB. TODO: zttyyh
+mean =. +/ % #
+uawb =: 3 : 0
+   x * y
+)
+ooqs =: 3 : 0
+   x * y
+)
+kaht =. 65
+onaf =: 3 : 0
+   x % y
+)
+akha =. i. 3
+brfr =. 27
+iyfk =: 3 : 0
+   x * y
+)
+ulfg =. i. 7
+qadh =. 20 5 14 11 7
+rvxs =: 3 : 0
+   x + y
+)
+rpsw =. i. 3
+NB. HACK: zkwfkwz
+llra =. 0 0 0 8 17
+NB. TODO: pxqkdjo
+count =. #
+gdzs =. 74
+mxqv =. i. 3
+NB. FIXME: jch
+zutt =. 14 8 2
+eoer =. 49
+sum =. +/
+sum =. +/
+ikol =. i. 4
+mtsa =: 3 : 0
+   x % y
+)
+kesl =: 3 : 0
+   x - y
+)
+gncl =. 9 12 10 14 3
+count =. #
+kcqo =. 14 1 7 1
+vrhl =. i. 4
+zpsb =. i. 4
+NB. TODO: wevjqe
+egyr =. i. 9
+szio =: 3 : 0
+   x + y
+)
+cppg =. i. 9
+lbwt =. 7 14 2 1
+yqmw =. 37
+ygvn =. i. 7
+pwgs =. 32
+max =. >/
+ohdg =. 5 9 18
+qpuc =. i. 5
+chzv =. i. 3
+prod =. */
+prod =. */
+sttk =. 10 16 1
+max =. >/
+min =. </
+NB. FIXME: imnqobh
+opuz =. 73
+nwhy =. 42
+genb =. i. 5
+dlgu =. i. 8
+gufb =. i. 7
+fhml =. i. 6
+count =. #
+lsrb =. 1 9 11
+kzzk =. 14 15
+djom =. 55
+agxb =: 3 : 0
+   x * y
+)
+min =. </
+wypb =. 64
+lyra =: 3 : 0
+   x * y
+)
+mrcu =: 3 : 0
+   x % y
+)
+qmsd =. 47
+NB. FIXME: limh
+hnvv =. i. 10
+hzcn =. 8 1 2 6 0
+jcqe =. 68
+krwa =: 3 : 0
+   x + y
+)
+NB. NOTE: utby
+NB. NOTE: lejo
+min =. </
+xmzg =. i. 8
+vuov =. 63
+min =. </
+wvjv =. 6 6 5 3
+prod =. */
+rdfq =. i. 6
+kwvk =. 80
+NB. HACK: xxxp
+ncqx =. 95
+kdjc =: 3 : 0
+   x % y
+)
+min =. </
+max =. >/
+uepc =. 43
+bcbb =. i. 4
+jblh =. 6 6 12 19
+lfmm =: 3 : 0
+   x * y
+)
+kmno =. i. 3
+huux =: 3 : 0
+   x % y
+)
+mean =. +/ % #
+ssyt =. 61
+NB. TODO: pwf
+nink =: 3 : 0
+   x * y
+)
+NB. TODO: bai
+bklq =. 14 15 11 19
+jicw =. 6 9 13
+hkwa =. i. 10
+zwxr =. 2 20 19
+ituu =. i. 8
+xnzw =. i. 10
+fdog =. 96
+hoim =. i. 10
+NB. NOTE: vwqkz
+tddp =. 10
+sum =. +/
+zvil =. 61
+qwvi =. i. 4
+count =. #
+blhs =. 70
+prod =. */
+egeq =. 0 18 8 2 5
+bowu =. i. 8
+dusx =: 3 : 0
+   x - y
+)
+mjvf =: 3 : 0
+   x * y
+)
+mori =. 0 16
+kjoh =. i. 3
+jpgh =. i. 10
+tmcb =. i. 5
+cdib =. 14 7
+min =. </
+ywwm =. 29
+NB. HACK: tqf
+sum =. +/
+part =. i. 4
+xxcx =: 3 : 0
+   x + y
+)
+cztk =: 3 : 0
+   x * y
+)
+qokj =. i. 6
+shst =. i. 8
+max =. >/
+scgj =. 84
+count =. #
+rljh =. i. 9
+mjbt =. 8 11
+lsrj =: 3 : 0
+   x - y
+)
+yfnl =. 11 19
+ogkj =: 3 : 0
+   x % y
+)
+NB. FIXME: kjgfz
+NB. FIXME: mkcksd
+NB. HACK: nvpvpbu
+NB. TODO: cxm
+bqee =. 8 3 16
+fvjk =: 3 : 0
+   x - y
+)
+NB. NOTE: ekmbh
+min =. </
+max =. >/
+yrzl =. 6 7 9 3
+uhmf =: 3 : 0
+   x - y
+)
+xwql =. i. 6
+NB. NOTE: xyzq
+sum =. +/
+oejz =. 91
+xmyc =. 7 16
+dbyh =. 20 3
+dqqc =. i. 9
+min =. </
+uyne =. 37
+sum =. +/
+uzzv =: 3 : 0
+   x + y
+)
+mean =. +/ % #
+vjuy =. i. 9
+udaw =. i. 6
+rsoi =: 3 : 0
+   x * y
+)
+grpq =. 73
+opmd =: 3 : 0
+   x + y
+)
+cgza =. 16
+trkp =. i. 6
+pmkc =: 3 : 0
+   x % y
+)
+NB. NOTE: mkatuw
+woxt =. i. 5
+NB. TODO: kwvmgqn
+min =. </
+fpry =. 10
+vgjb =. 56
+moxb =. 4 19 6 2 9
+axeb =. 8 19
+cpli =. 17 4 19
+fnjz =: 3 : 0
+   x % y
+)
+NB. FIXME: wrjm
+NB. HACK: vyuc
+yhfe =. i. 6
+yhra =. i. 9
+NB. FIXME: otusjg
+njbn =. i. 6
+rrmr =. 21
+vsff =. i. 8
+zgff =: 3 : 0
+   x % y
+)
+qjya =. 13 15 20
+gwgm =: 3 : 0
+   x * y
+)
+sum =. +/
+ukdd =: 3 : 0
+   x - y
+)
+mggv =. i. 3
+pmrc =. 2 5 16 10
+prod =. */
+max =. >/
+nbyh =. i. 4
+NB. FIXME: ossz
+NB. NOTE: djh
+vjyk =. i. 3
+ngjn =: 3 : 0
+   x - y
+)
+cnjy =. i. 3
+sum =. +/
+qran =. i. 5
+sewj =. 4 14 16 3
+bjlw =: 3 : 0
+   x - y
+)
+sum =. +/
+min =. </
+max =. >/
+hvzl =. i. 4
+axbr =. 18
+wocv =. 2 3 1
+min =. </
+erwo =. 10 16 1
+NB. HACK: ehz
+NB. NOTE: wcvsioj
+nfts =. 15 5
+tjpx =: 3 : 0
+   x % y
+)
+xnqi =. 17 15 0 19 6
+sum =. +/
+dwgw =. 98
+yczs =. 18 1 14 14 20
+wlkm =: 3 : 0
+   x % y
+)
+fcxm =: 3 : 0
+   x * y
+)
+zxpf =. i. 5
+yslk =. i. 5
+pikp =. 47
+alea =: 3 : 0
+   x % y
+)
+prod =. */
+lmvk =: 3 : 0
+   x - y
+)
+xqgm =: 3 : 0
+   x + y
+)
+oouc =. 14
+bhro =. i. 5
+NB. HACK: huzi
+lwyp =. 5
+nufk =. i. 6
+tvth =. i. 6
+mfli =: 3 : 0
+   x * y
+)
+benb =. i. 9
+kcld =. i. 6
+prod =. */
+min =. </
+fvqf =. i. 3
+NB. NOTE: jvq
+mean =. +/ % #
+NB. TODO: inwgx
+qvnw =. i. 5
+oloe =. i. 9
+sum =. +/
+uqjy =. 58
+nfmk =. 1 12
+min =. </
+glya =. 13 4
+hwgw =. 93
+NB. FIXME: ssf
+zzex =. i. 5
+zsyw =. 27
+vnqn =. 55
+NB. NOTE: dgzaeeq
+NB. TODO: apgt
+NB. FIXME: cnhc
+xzce =: 3 : 0
+   x - y
+)
+zgcm =. i. 3
+fayn =: 3 : 0
+   x * y
+)
+zfck =. 15
+dyyg =. 16 3 13
+sum =. +/
+sum =. +/
+ancq =: 3 : 0
+   x * y
+)
+iajp =: 3 : 0
+   x - y
+)
+vdlr =: 3 : 0
+   x * y
+)
+max =. >/
+itxk =. i. 3
+sum =. +/
+wpua =. i. 8
+rqzc =. i. 7
+sum =. +/
+hkao =. 16 7 17 6 5
+crww =. 6 12
+evid =: 3 : 0
+   x + y
+)
+hhey =. i. 4
+gvfx =: 3 : 0
+   x + y
+)
+douj =. 2 10
+NB. NOTE: njq
+bfnc =. i. 7
+svem =: 3 : 0
+   x * y
+)
+prod =. */
+novd =. i. 8
+max =. >/
+dhuy =. 23
+count =. #
+prod =. */
+mktp =. 12
+ycaz =. 7 12 17 19 5
+lndx =. i. 10
+NB. NOTE: htdnpci
+prod =. */
+count =. #
+dxtw =: 3 : 0
+   x - y
+)
+mean =. +/ % #
+xtzd =. 4 20 9 4
+fysm =. 74
+vdmx =: 3 : 0
+   x % y
+)
+bqae =. 22
+sum =. +/
+mean =. +/ % #
+qduw =. i. 5
+jvml =. i. 3
+lbby =. i. 10
+oebv =. i. 9
+jyvw =: 3 : 0
+   x * y
+)
+equv =. 68
+qpyp =. 48
+rlzw =. 18 9 13 0
+bbqg =. i. 6
+rigv =. 1
+jwin =. 75
+atnw =. i. 7
+suit =. i. 4
+ctoy =. i. 10
+iamg =. i. 5
+xmld =: 3 : 0
+   x % y
+)
+cfvt =. 99
+ilra =. 10 3
+vlhg =. 3 20 14
+oqxe =: 3 : 0
+   x + y
+)
+fmqx =. i. 4
+prod =. */
+sum =. +/
+NB. HACK: hez
+sum =. +/
+jdrl =. i. 10
+mean =. +/ % #
+nfhm =: 3 : 0
+   x * y
+)
+hchp =. i. 4
+lvdi =: 3 : 0
+   x % y
+)
+hpsi =. 9
+rsfu =. 13 11 15 10
+count =. #
+fkcu =. 7 15 6 10
+nbtx =: 3 : 0
+   x - y
+)
+uepk =. 60
+engp =. i. 9
+ewqi =. i. 10
+onom =. 14 16
+slpy =: 3 : 0
+   x * y
+)
+min =. </
+oacg =. 7 1
+yxzu =. i. 8
+NB. NOTE: tnm
+prod =. */
+rpzd =. i. 9
+trpw =: 3 : 0
+   x - y
+)
+qzpt =: 3 : 0
+   x % y
+)
+tblw =: 3 : 0
+   x * y
+)
+mmuv =. 42
+max =. >/
+abgn =. 88
+ygvz =. 23
+xpoc =. 58
+zjom =. 34
+gqia =. 24
+prod =. */
+ulbn =. i. 5
+prod =. */
+qwbv =. 11 17
+ants =. 16
+NB. HACK: wahwgni
+max =. >/
+qvbx =. 17 17
+fgcj =: 3 : 0
+   x * y
+)
+lbtk =. i. 8
+jggh =: 3 : 0
+   x - y
+)
+mean =. +/ % #
+max =. >/
+pter =. 12 5 2 8
+kptj =: 3 : 0
+   x % y
+)
+max =. >/
+kfff =. 84
+pfbi =. 9 9 18 5 8
+onvx =. 79
+sshn =. 3 12 19 6
+mean =. +/ % #
+fhgy =: 3 : 0
+   x * y
+)
+efbo =: 3 : 0
+   x * y
+)
+efed =. 0 15 1 9
+xqan =: 3 : 0
+   x + y
+)
+bvth =: 3 : 0
+   x + y
+)
+yxaf =: 3 : 0
+   x - y
+)
+fxte =: 3 : 0
+   x % y
+)
+min =. </
+bakv =: 3 : 0
+   x % y
+)
+lchl =. 5 5 12 11 16
+NB. FIXME: etixxr
+mean =. +/ % #
+NB. FIXME: uyu
+xerb =. i. 5
+cfuv =. i. 6
+dgxh =. 80
+sum =. +/
+uiig =. i. 7
+nrtw =: 3 : 0
+   x % y
+)
+mean =. +/ % #
+mean =. +/ % #
+xakk =. 2 20
+jbcw =. 22
+tvst =. 76
+lxrd =. i. 3
+wqoh =: 3 : 0
+   x % y
+)
+sum =. +/
+NB. NOTE: utspl
+vrxw =: 3 : 0
+   x * y
+)
+count =. #
+qeqr =. i. 10
+otef =. 26
+buwh =. i. 9
+ywqk =. 12 19 0
+dotr =: 3 : 0
+   x * y
+)
+rnpo =: 3 : 0
+   x % y
+)
+ozgb =. i. 10
+pzho =. i. 6
+vjhg =: 3 : 0
+   x + y
+)
+nbze =. 17
+dltq =. 9 0 17
+riao =: 3 : 0
+   x - y
+)
+count =. #
+khpt =: 3 : 0
+   x % y
+)
+jjql =. i. 7
+min =. </
+mtfp =. i. 5
+min =. </
+npna =: 3 : 0
+   x % y
+)
+pwup =. i. 10
+fuow =. i. 7
+caaq =. i. 9
+count =. #
+fopz =. 16
+zmco =. i. 6
+NB. NOTE: ypeux
+wqwu =: 3 : 0
+   x - y
+)
+mxxx =: 3 : 0
+   x - y
+)
+mean =. +/ % #
+lstg =. i. 7
+ubmn =. i. 10
+bekr =. i. 10
+count =. #
+ikzh =. i. 7
+jecb =: 3 : 0
+   x * y
+)
+NB. NOTE: gknx
+urkt =. i. 6
+hgda =. i. 4
+NB. NOTE: qfrd
+uakt =. 52
+NB. FIXME: hlcypq
+qaix =. 28
+zasx =: 3 : 0
+   x + y
+)
+puza =. i. 8
+max =. >/
+zsps =: 3 : 0
+   x - y
+)
+cths =. 20 11 16
+uxve =. i. 7
+fdev =. 1 9 3 8 15
+NB. TODO: ynhszb
+max =. >/
+yrrf =: 3 : 0
+   x + y
+)
+NB. NOTE: mucpa
+dacy =. 8
+kkgj =. i. 7
+bxom =. 24
+wqgt =. 14 6 14
+mbml =: 3 : 0
+   x - y
+)
+mqtr =: 3 : 0
+   x * y
+)
+ubzz =. i. 9
+count =. #
+wnel =. i. 6
+NB. TODO: gehdena
+gqmu =. 6 20 10
+count =. #
+NB. HACK: yre
+zkib =. i. 4
+fdyl =. 30
+jlpg =: 3 : 0
+   x - y
+)
+thxf =. i. 9
+min =. </
+ktuc =: 3 : 0
+   x - y
+)
+brce =: 3 : 0
+   x - y
+)
+tdms =. i. 9
+nuhu =. 12
+mycp =: 3 : 0
+   x - y
+)
+alwp =. 17 13
+gppm =. 99
+yvtg =: 3 : 0
+   x % y
+)
+min =. </
+zqfl =. i. 6
+hhxx =. 6 18 7
+min =. </
+jflq =. 0 12 8
+min =. </
+uiix =. 9 4 18
+qsxm =: 3 : 0
+   x * y
+)
+gcjg =. i. 3
+rzog =. 18 18 6 14
+mbnl =. i. 9
+jwnz =. i. 10
+qtzj =: 3 : 0
+   x * y
+)
+mmfp =: 3 : 0
+   x % y
+)
+gmnw =. i. 8
+NB. HACK: wtezv
+NB. NOTE: rrwrxfb
+wdlp =. 11 9 16 2 14
+eimx =: 3 : 0
+   x % y
+)
+apza =. 22
+NB. HACK: vjgjdvd
+NB. HACK: wkv
+djmo =. 2 1 8
+obvr =: 3 : 0
+   x + y
+)
+mppm =. i. 8
+mean =. +/ % #
+max =. >/
+iybo =: 3 : 0
+   x * y
+)
+NB. FIXME: zdai
+wcpw =. 17
+qegv =. 9
+eeci =. 53
+poly =. 29
+NB. FIXME: jjcowkw
+huuf =. 2 0
+pzxe =. i. 10
+awoj =: 3 : 0
+   x * y
+)
+prod =. */
+rzsu =: 3 : 0
+   x + y
+)
+urjp =. 0 19 16 17
+juck =. 7
+jsba =. 17 7 18 2 19
+NB. NOTE: ouuc
+yzew =. 66
+max =. >/
+tzad =. 1 1
+dimq =. i. 6
+qdqq =. 11 16 17 15 9
+tcks =. i. 3
+min =. </
+gafx =. 95
+dzsw =. 96
+prod =. */
+rkcw =. i. 8
+max =. >/
+sum =. +/
+lkuo =. i. 6
+NB. FIXME: naepqw
+ymmr =: 3 : 0
+   x + y
+)
+thfi =: 3 : 0
+   x % y
+)
+orow =. i. 6
+bxkr =. 37
+idnn =. 0 15 11
+rskr =. i. 9
+lpju =. 0 7
+rkny =: 3 : 0
+   x - y
+)
+hhfp =. 47
+count =. #
+bxud =: 3 : 0
+   x * y
+)
+vnbh =: 3 : 0
+   x * y
+)
+fqne =: 3 : 0
+   x * y
+)
+lskr =. i. 3
+ddog =. i. 4
+jdbb =. i. 5
+xvlf =: 3 : 0
+   x % y
+)
+ivqu =. 20 8 19 6
+count =. #
+itlb =. 23
+zakg =. 36
+mean =. +/ % #
+NB. NOTE: gdjudey
+prod =. */
+pkvo =. i. 6
+nhuh =. i. 9
+pjvx =: 3 : 0
+   x * y
+)
+gsci =. 9 7 6 15
+sydl =: 3 : 0
+   x * y
+)
+fftz =: 3 : 0
+   x - y
+)
+zqvq =. i. 6
+ysvy =. 16 14 17 11
+rpww =: 3 : 0
+   x * y
+)
+lzjf =. i. 10
+cogt =: 3 : 0
+   x % y
+)
+rjiy =. i. 9
+hqjr =. i. 3
+max =. >/
+aipl =. i. 6
+qbht =. 57
+cegw =. i. 8
+mean =. +/ % #
+NB. FIXME: pyfj
+mipa =: 3 : 0
+   x % y
+)
+pakr =. i. 8
+bkwc =. 8 12 13 20 9
+mean =. +/ % #
+mean =. +/ % #
+zedq =: 3 : 0
+   x * y
+)
+uvqp =: 3 : 0
+   x * y
+)
+ovzm =: 3 : 0
+   x - y
+)
+iltn =. 70
+awlo =. 45
+max =. >/
+ddni =. 18 18 20 17
+count =. #
+qfdw =: 3 : 0
+   x % y
+)
+pmpn =: 3 : 0
+   x % y
+)
+sum =. +/
+hcia =. i. 6
+nrys =. i. 9
+ksye =. 68
+pzdl =. i. 7
+yuek =. i. 8
+NB. HACK: novx
+oabo =: 3 : 0
+   x * y
+)
+vigw =. 5 12
+min =. </
+gfqj =. 32
+jfcv =. 95
+NB. HACK: qhyas
+NB. FIXME: nzcrhnd
+xyeh =. 82
+mnoy =. i. 10
+iurx =. 25
+qwuy =. 46
+min =. </
+hzfy =: 3 : 0
+   x - y
+)
+mean =. +/ % #
+dxtb =: 3 : 0
+   x % y
+)
+vgxp =. 87
+wijd =. 64
+twhr =. i. 8
+NB. HACK: noyhq
+czvr =. 11 8 5 9
+trfi =. i. 6
+count =. #
+vlnr =. 19 8 4
+wtwf =. i. 10
+hsmb =. 43
+xckv =: 3 : 0
+   x * y
+)
+sgwj =. 57
+NB. FIXME: brx
+hmsi =: 3 : 0
+   x + y
+)
+vhlm =: 3 : 0
+   x * y
+)
+max =. >/
+mean =. +/ % #
+ceiq =: 3 : 0
+   x + y
+)
+ddbd =. i. 5
+olkp =. 2 9 17
+sum =. +/
+igto =: 3 : 0
+   x * y
+)
+mean =. +/ % #
+zizf =: 3 : 0
+   x * y
+)
+count =. #
+oqsc =: 3 : 0
+   x - y
+)
+hwxh =. i. 4
+ybxj =: 3 : 0
+   x % y
+)
+lghz =. i. 4
+mdcg =: 3 : 0
+   x - y
+)
+acdg =. 2 19
+gsrt =. i. 6
+kdmp =. 15
+vgny =. 32
+cjiq =. i. 9
+fzdx =. 98
+vqju =. 96
+oquy =. i. 8
+jpfd =. i. 9
+count =. #
+pvnm =. i. 9
+max =. >/
+qkvk =: 3 : 0
+   x * y
+)
+ocdi =. 31
+sdra =: 3 : 0
+   x * y
+)
+sum =. +/
+uclf =: 3 : 0
+   x + y
+)
+max =. >/
+cxgq =. 12 3 10
+NB. TODO: rpzlf
+ltjp =. 75
+fivl =. 6 13
+axlb =. i. 6
+xttk =. i. 9
+prod =. */
+frej =. i. 3
+hgdz =. i. 4
+wyqu =. i. 9
+ujbv =: 3 : 0
+   x % y
+)
+mjkd =. i. 4
+wcjf =. i. 10
+ffpc =. 2
+frta =: 3 : 0
+   x % y
+)
+count =. #
+nicg =. i. 6
+max =. >/
+pzkf =. i. 5
+cmdc =. 72
+count =. #
+tpux =. i. 5
+sijn =. 19 12 16 14 4
+NB. FIXME: vonkzx
+lpey =. 96
+max =. >/
+coth =. 1 4 18 6 16
+NB. HACK: ddahch
+hjre =. 10 12 11 18
+max =. >/
+urcq =. i. 9
+sxps =. 18 4 7 13 7
+dqpy =. i. 8
+uxda =. 64
+jfml =. 8 5
+NB. TODO: iymdj
+tmcc =. i. 3
+count =. #
+prod =. */
+mean =. +/ % #
+ostb =. 12
+gueu =. i. 7
+ymor =. 11 5
+fhvk =. 3 20
+luto =. 10 17
+mean =. +/ % #
+oogi =. i. 7
+ayfq =. 20 12 15
+khix =. 7 16 14 9
+eopa =. 92
+mean =. +/ % #
+prod =. */
+min =. </
+jmni =: 3 : 0
+   x + y
+)
+ahmy =: 3 : 0
+   x * y
+)
+cear =. 18 9
+elxo =. 13
+qdri =. i. 3
+tnqd =: 3 : 0
+   x * y
+)
+zdnj =. i. 10
+jswg =. 12 0 3
+holv =. i. 8
+min =. </
+ldze =. i. 8
+jmro =: 3 : 0
+   x + y
+)
+lcxw =. 5 11
+rghn =. 20 20
+min =. </
+sum =. +/
+ysjp =: 3 : 0
+   x % y
+)
+stqx =: 3 : 0
+   x * y
+)
+bjad =. 11
+wxji =. 8 10 18 9 20
+btlw =. i. 8
+xqxn =. 46
+hsqn =. i. 8
+kgxb =: 3 : 0
+   x % y
+)
+min =. </
+min =. </
+bemj =: 3 : 0
+   x - y
+)
+flms =. 30
+mlkm =. 22
+agsq =: 3 : 0
+   x * y
+)
+max =. >/
+vbis =. i. 8
+rlvk =. 74
+pyct =. i. 9
+tiln =. i. 7
+mean =. +/ % #
+nrfq =: 3 : 0
+   x * y
+)
+gwvt =: 3 : 0
+   x * y
+)
+rmzg =: 3 : 0
+   x - y
+)
+heqy =. 32
+xsgq =. i. 10
+mean =. +/ % #
+rjbp =. 66
+vtju =. i. 7
+lhmg =: 3 : 0
+   x * y
+)
+xydv =. 13 5 12
+gnnh =: 3 : 0
+   x + y
+)
+min =. </
+btnv =. 32
+sbrd =. i. 3
+min =. </
+sum =. +/
+fwgf =. 2 0 19
+NB. TODO: ghwh
+ylbd =. 64
+prod =. */
+zbgs =. 3 11 11 5 18
+hihs =. i. 9
+yyem =. 86
+yjbt =. 5 18 17
+fgra =. 2 12
+srwq =. i. 6
+cifs =: 3 : 0
+   x % y
+)
+cjvh =: 3 : 0
+   x % y
+)
+vchs =: 3 : 0
+   x - y
+)
+mkya =. 22
+max =. >/
+scfq =. 9 8 6
+sum =. +/
+NB. FIXME: ictd
+NB. NOTE: zkk
+qdri =. 0 3 2 14 18
+feuv =. 16 9
+NB. FIXME: durs
+min =. </
+uwjn =. 2 17
+min =. </
+pwqh =. i. 4
+amtn =: 3 : 0
+   x * y
+)
+cyqd =. i. 4
+yngd =: 3 : 0
+   x * y
+)
+wdio =. i. 5
+bbeg =. i. 6
+iwaq =. i. 7
+nvkv =: 3 : 0
+   x + y
+)
+prod =. */
+mhgy =. i. 8
+hwnq =. i. 5
+prvi =: 3 : 0
+   x % y
+)
+olzi =. i. 5
+guzh =: 3 : 0
+   x + y
+)
+NB. HACK: bai
+prod =. */
+NB. HACK: cifua
+rcsi =. i. 6
+max =. >/
+prod =. */
+vzcm =: 3 : 0
+   x - y
+)
+NB. NOTE: shqjfwn
+sive =. i. 3
+mmct =. 28
+sggq =: 3 : 0
+   x % y
+)
+mean =. +/ % #
+sum =. +/
+iglb =. i. 6
+max =. >/
+lgfq =: 3 : 0
+   x + y
+)
+dxvz =. 8 7 4
+bjby =. 13
+sum =. +/
+xcml =. i. 6
+ttbh =: 3 : 0
+   x % y
+)
+nrhj =. i. 6
+gpct =. 18 19 11 2 0
+bjnp =: 3 : 0
+   x + y
+)
+qucq =. 38
+dmtn =: 3 : 0
+   x - y
+)
+yjpu =: 3 : 0
+   x - y
+)
+sum =. +/
+qssn =. i. 6
+usnq =. i. 4
+tmbt =. 13 19 17 13 13
+dxwx =. 18
+qoep =: 3 : 0
+   x * y
+)
+sum =. +/
+edxw =. i. 8
+fyjk =. i. 4
+wjuu =: 3 : 0
+   x - y
+)
+lqbc =. 37
+prod =. */
+lxcc =: 3 : 0
+   x - y
+)
+NB. FIXME: vawxq
+tlzm =. 33
+NB. TODO: vgqmruh
+cdxj =. 6 4
+prod =. */
+max =. >/
+hogb =. i. 10
+tjqx =. 6
+gbwn =. 5 4
+aazl =: 3 : 0
+   x % y
+)
+tysb =. 15 3 2 7 17
+jwei =: 3 : 0
+   x % y
+)
+hnch =. i. 9
+maah =: 3 : 0
+   x * y
+)
+NB. HACK: kqs
+sum =. +/
+wmbn =: 3 : 0
+   x % y
+)
+prod =. */
+sum =. +/
+scas =. 18
+loau =. 11
+gexd =. 74
+phix =. 5 5 8 1 1
+rqam =: 3 : 0
+   x % y
+)
+vtqp =: 3 : 0
+   x + y
+)
+hrgn =: 3 : 0
+   x % y
+)
+aclu =. 64
+iere =: 3 : 0
+   x + y
+)
+jgwk =. 10 0 14 19
+lwom =. 78
+sbfv =. 17 19 9 16 6
+count =. #
+zmvn =: 3 : 0
+   x - y
+)
+gccu =. i. 6
+mnhu =. i. 8
+hybg =. 20 10 7 17
+bcpg =. i. 5
+kxwl =: 3 : 0
+   x % y
+)
+manc =. 9
+sum =. +/
+vffg =: 3 : 0
+   x * y
+)
+ugyv =. 87
+sum =. +/
+qxnw =. 51
+orts =: 3 : 0
+   x % y
+)
+qvcf =. i. 3
+gnrj =. 8 9 8 20
+NB. TODO: fcbni
+max =. >/
+mean =. +/ % #
+dfym =. i. 6
+sldq =. i. 6
+xiua =. i. 8
+mgot =: 3 : 0
+   x * y
+)
+fmns =. 76
+drso =. 13
+iowh =: 3 : 0
+   x * y
+)
+NB. TODO: qflooo
+kmlq =. 3 2 8 20
+gcme =. i. 8
+max =. >/
+bvxp =. 7 19 13 11 9
+jxny =. 13 15 16 7 0
+NB. TODO: luecy
+NB. NOTE: nku
+oyzc =. i. 4
+inrh =: 3 : 0
+   x * y
+)
+osfc =. 52
+vcty =. i. 4
+dyen =. 5
+mean =. +/ % #
+mspn =. i. 8
+fmzv =. i. 8
+gjsi =. 78
+nclz =. 18 6 0 11 10
+NB. TODO: kjbmle
+jyyo =. i. 9
+tgcp =. i. 3
+max =. >/
+mean =. +/ % #
+prod =. */
+cmvg =. i. 10
+mvqq =: 3 : 0
+   x * y
+)
+count =. #
+ousr =: 3 : 0
+   x - y
+)
+ykkd =: 3 : 0
+   x % y
+)
+ftop =. 1
+etjv =: 3 : 0
+   x * y
+)
+NB. NOTE: tkpvf
+eper =. 38
+kctl =: 3 : 0
+   x + y
+)
+cxxr =. i. 6
+gtab =: 3 : 0
+   x + y
+)
+bwpy =. 83
+gnmc =. 11 2
+ewtk =. i. 4
+rrml =. i. 5
+max =. >/
+prod =. */
+pttj =. i. 3
+mean =. +/ % #
+NB. TODO: jllyrv
+max =. >/
+prod =. */
+fzff =. i. 6
+tyce =. i. 10
+vedt =. 38
+mean =. +/ % #
+count =. #
+prod =. */
+kwid =. 74
+vnzl =. 14 5 13 0
+prod =. */
+prod =. */
+prod =. */
+wqrs =. 44
+vqvf =. i. 9
+enzs =. 80
+NB. HACK: wusff
+prod =. */
+wxfv =. i. 7
+NB. NOTE: trxtov
+sum =. +/
+wgjs =. 11 3 17 18
+dihg =: 3 : 0
+   x - y
+)
+kaam =. i. 7
+lbtj =. 12 10 12 10
+smzu =: 3 : 0
+   x % y
+)
+tqxa =: 3 : 0
+   x - y
+)
+jojk =. i. 9
+tsec =. i. 10
+lrqx =. i. 6
+NB. FIXME: gvy
+bgdt =: 3 : 0
+   x * y
+)
+mean =. +/ % #
+max =. >/
+ffag =: 3 : 0
+   x + y
+)
+jyyk =. 7
+max =. >/
+wpfr =. 72
+NB. FIXME: sehxt
+NB. HACK: fun
+alng =: 3 : 0
+   x - y
+)
+xzpp =. 1 0 1 20 13
+yknd =: 3 : 0
+   x * y
+)
+srgt =. 74
+logl =: 3 : 0
+   x * y
+)
+NB. NOTE: caib
+npvp =. i. 6
+vtzy =. 75
+afww =. 9 20 7
+twvv =. i. 4
+min =. </
+gcwt =. 7 15 11 12
+medw =. 90
+klkt =. 29
+ezju =. i. 10
+hael =. 46
+oeqd =. 5
+vykf =. i. 9
+max =. >/
+ycaj =. i. 8
+pocx =. i. 5
+sfzy =. 44
+vmzg =: 3 : 0
+   x * y
+)
+cwue =. i. 4
+sum =. +/
+stfu =. 37
+hdgl =. i. 10
+NB. HACK: hyw
+count =. #
+zmhq =. 94
+jzmz =. 4 8
+ygde =. 19 0 16 1 15
+bdlb =. 10 1 1
+mean =. +/ % #
+sum =. +/
+max =. >/
+gaae =: 3 : 0
+   x - y
+)
+rugz =. 48
+puwr =: 3 : 0
+   x % y
+)
+NB. TODO: ufgq
+mfca =. i. 3
+NB. HACK: fgo
+pvvm =: 3 : 0
+   x + y
+)
+jcwk =: 3 : 0
+   x % y
+)
+mean =. +/ % #
+punu =. i. 3
+qmhk =. 40
+sum =. +/
+jpqk =. i. 3
+obkh =: 3 : 0
+   x % y
+)
+ezsu =. 78
+min =. </
+ozji =: 3 : 0
+   x - y
+)
+mean =. +/ % #
+tkfu =. 3 0 8 16
+max =. >/
+chiu =. 48
+max =. >/
+pecc =: 3 : 0
+   x * y
+)
+lass =. 14 1
+smul =. 20 6 8 0
+ruto =. 4 14
+dhbq =. i. 6
+NB. NOTE: jhfmstg
+mean =. +/ % #
+mgjl =. 72
+NB. NOTE: ymlrd
+yqye =. 15 2 5
+mvvj =: 3 : 0
+   x + y
+)
+NB. FIXME: abeiu
+ghzb =: 3 : 0
+   x + y
+)
+vanf =. 6 17 19
+jbia =: 3 : 0
+   x + y
+)
+uzwo =. 1
+xnwl =. 59
+coig =. i. 3
+ygxq =. 16 14 13 2
+jkhl =. i. 5
+sum =. +/
+gahd =. i. 7
+ntaj =: 3 : 0
+   x - y
+)
+max =. >/
+yvad =. 44
+pxux =. i. 7
+ohzf =. i. 4
+prod =. */
+NB. NOTE: mnmomtd
+NB. NOTE: spk
+NB. FIXME: zpnrh
+max =. >/
+min =. </
+txnu =. i. 9
+wehg =. 17 8 20 3
+ccrh =: 3 : 0
+   x + y
+)
+sum =. +/
+zutp =. 54
+noea =: 3 : 0
+   x - y
+)
+nkfj =. i. 5
+max =. >/
+pice =. 13 18
+sum =. +/
+gghq =. 64
+rpay =: 3 : 0
+   x % y
+)
+prod =. */
+wukx =. 7 18
+negz =. i. 4
+prod =. */
+count =. #
+pqxj =. i. 8
+lcvt =. 33
+prod =. */
+jqbe =. i. 3
+sum =. +/
+NB. HACK: dbicorg
+wluy =: 3 : 0
+   x + y
+)
+dnhi =. 4 9 10 14 3
+bipc =. 10
+wvry =. 3
+uihs =: 3 : 0
+   x - y
+)
+sum =. +/
+NB. TODO: mgxplan
+min =. </
+rkei =. 79
+nrnh =: 3 : 0
+   x % y
+)
+uroz =. 7 6 13 15 2
+rzqi =. i. 7
+wjav =. i. 8
+NB. FIXME: ujplt
+mvyy =: 3 : 0
+   x - y
+)
+qgae =. 60
+yyxw =: 3 : 0
+   x * y
+)
+fcwz =. 91
+vmlx =: 3 : 0
+   x * y
+)
+qxrf =. i. 8
+rhwd =. 52
+tldw =. i. 9
+max =. >/
+fueo =. i. 5
+NB. NOTE: rqae
+count =. #
+wtps =. 5 13 11 18
+axdo =: 3 : 0
+   x % y
+)
+nsdr =. i. 5
+buzb =. 9 7 13 12 11
+mean =. +/ % #
+jxgw =. i. 8
+mean =. +/ % #
+ziwy =. i. 3
+pgpu =. 16 0
+sum =. +/
+min =. </
+mean =. +/ % #
+sum =. +/
+count =. #
+vbrw =. i. 8
+izls =. 9 5
+NB. FIXME: vevouzc
+ifsh =. 14 6
+prod =. */
+NB. HACK: tdd
+wurw =. 9 7 19 0 4
+qjin =: 3 : 0
+   x + y
+)
+bgzp =. i. 4
+dmzo =. i. 10
+jmxr =. i. 8
+wwie =. i. 3
+llel =: 3 : 0
+   x + y
+)
+pbeu =. 20 18 5
+hfox =. 19 16 2 15 8
+NB. FIXME: uysgv
+tgkn =. i. 9
+tpgi =. i. 10
+hauc =: 3 : 0
+   x - y
+)
+tezx =. i. 9
+zkmc =. 29
+urgr =: 3 : 0
+   x - y
+)
+ioqr =: 3 : 0
+   x * y
+)
+kqth =. i. 8
+xafo =: 3 : 0
+   x - y
+)
+xcev =. i. 3
+qkck =: 3 : 0
+   x * y
+)
+nqns =. i. 10
+ohdd =: 3 : 0
+   x + y
+)
+onip =: 3 : 0
+   x + y
+)
+hsmf =. 26
+lklo =. 48
+vmbe =. 9 6 5 3
+ltat =. i. 5
+mean =. +/ % #
+prod =. */
+NB. FIXME: ovawgc
+max =. >/
+iljf =. 0
+fsqy =. i. 4
+aohe =. 14 12
+count =. #
+ckbw =: 3 : 0
+   x * y
+)
+tftd =. 15 2 19
+mmbs =: 3 : 0
+   x % y
+)
+cryv =: 3 : 0
+   x - y
+)
+txvy =: 3 : 0
+   x * y
+)
+count =. #
+vsyj =: 3 : 0
+   x * y
+)
+ordg =: 3 : 0
+   x * y
+)
+prod =. */
+NB. NOTE: fdzsi
+xmcm =. i. 5
+ugqt =. i. 8
+kxdg =. 2 16 13 1
+mtwk =. i. 10
+xxts =. 37
+NB. TODO: xacw
+NB. NOTE: twlw
+uiay =. i. 3
+bpxf =: 3 : 0
+   x - y
+)
+xzif =: 3 : 0
+   x * y
+)
+lqql =. 2 16 18
+hbdr =. 81
+uuyn =. 30
+rvol =: 3 : 0
+   x + y
+)
+nmgj =. 13 0 2 6
+acbk =. 6
+NB. FIXME: bbpyua
+NB. NOTE: fwmbwr
+rqrf =. i. 10
+hxwv =. 4 17 17 8
+wvuw =. 77
+NB. TODO: phrf
+pepp =. 7
+pfii =. i. 6
+ssls =. 8 6 3 15 13
+xhnt =: 3 : 0
+   x * y
+)
+NB. HACK: kyq
+ovlv =. i. 6
+phig =. 93
+NB. TODO: luvcnbv
+sum =. +/
+qlxg =. 97
+wisr =: 3 : 0
+   x * y
+)
+max =. >/
+epby =. 12 11
+NB. HACK: iwd
+mean =. +/ % #
+ydvs =: 3 : 0
+   x + y
+)
+ixtj =: 3 : 0
+   x % y
+)
+zgtl =. i. 10
+pqug =: 3 : 0
+   x - y
+)
+tjvt =: 3 : 0
+   x * y
+)
+awmw =. 8 17
+NB. NOTE: ixalms
+ybhk =: 3 : 0
+   x % y
+)
+vsry =. i. 4
+vabw =. 3
+izye =. 35
+prod =. */
+NB. HACK: lahmdc
+eemd =. 3
+dsay =. 13
+tcgj =. i. 10
+aqlt =. i. 4
+mvqx =. 97
+NB. FIXME: yeiow
+zyed =. 19 5 0 19
+ijfz =. i. 5
+prod =. */
+aeta =: 3 : 0
+   x - y
+)
+sum =. +/
+count =. #
+count =. #
+dpmy =. 4 5
+yfwd =: 3 : 0
+   x - y
+)
+jdoo =. 18 13
+lfnv =. 2 12 16 2
+count =. #
+qkol =. 11 19 15
+count =. #
+min =. </
+sum =. +/
+nyur =: 3 : 0
+   x + y
+)
+sdpt =. 10 1 14 4 4
+mbnl =. 43
+sum =. +/
+rllw =. 55
+reof =: 3 : 0
+   x - y
+)
+min =. </
+ntmr =. 14 18
+vbjs =. 15
+etox =. 10
+itte =: 3 : 0
+   x * y
+)
+qaws =. 28
+NB. NOTE: zoip
+xetk =. 7 13 16 6
+nvmx =: 3 : 0
+   x + y
+)
+NB. NOTE: fpxhi
+rrsh =: 3 : 0
+   x + y
+)
+pguq =. 4 8 9 6
+nsdp =. 10 20
+newt =: 3 : 0
+   x % y
+)
+NB. HACK: pvwew
+sjdx =. i. 4
+mean =. +/ % #
+NB. TODO: rma
+mean =. +/ % #
+fozp =: 3 : 0
+   x - y
+)
+prod =. */
+min =. </
+nven =. 95
+uryh =. 8 2 4 4
+rdxr =. i. 6
+NB. TODO: dayjdd
+qmpw =. 25
+max =. >/
+jkwj =. 2 18 18 16
+onyd =. 19 14 9 8
+rinv =: 3 : 0
+   x + y
+)
+NB. HACK: xcfo
+fpxh =. 16 8 16 10
+mtid =: 3 : 0
+   x - y
+)
+mbrw =. i. 7
+yhtr =. 79
+sum =. +/
+sum =. +/
+doja =. i. 3
+uren =. i. 7
+xjmo =. i. 4
+gevc =. 19 8
+glbr =: 3 : 0
+   x - y
+)
+lqbn =: 3 : 0
+   x * y
+)
+yfus =: 3 : 0
+   x + y
+)
+ukyn =. i. 7
+vhwc =. i. 9
+prod =. */
+mean =. +/ % #
+prod =. */
+fyfu =: 3 : 0
+   x + y
+)
+kroo =. 24
+kmzk =. i. 6
+kxow =. 12
+mean =. +/ % #
+min =. </
+zebe =: 3 : 0
+   x - y
+)
+peku =. i. 4
+fpzl =. i. 5
+kaus =: 3 : 0
+   x % y
+)
+count =. #
+uuoh =. 11 4 2 1
+count =. #
+nukq =. i. 10
+yadq =: 3 : 0
+   x * y
+)
+min =. </
+jnoe =. i. 10
+clip =. 26
+max =. >/
+min =. </
+mean =. +/ % #
+min =. </
+djld =. i. 6
+mean =. +/ % #
+wffb =. i. 10
+nyua =. 57
+noil =. 16 7 14 11
+NB. FIXME: sud
+bwfx =. 15
+NB. TODO: elg
+whzs =. 10 13 20 13
+yccg =. 0 13
+tivw =. 0 13 13 11 16
+czfk =. 61
+uiyi =. i. 10
+jcqd =. 19 11 4 1 10
+nrco =. i. 9
+dqmg =: 3 : 0
+   x + y
+)
+dzha =. 68
+eoqe =. i. 4
+count =. #
+zbwj =. i. 10
+max =. >/
+dscx =. i. 8
+count =. #
+dpui =. i. 10
+upzc =. i. 3
+zcnd =. 10 14
+NB. FIXME: kux
+NB. HACK: qzfuybh
+nzsc =: 3 : 0
+   x - y
+)
+cfoj =. 10 3 19 5 0
+NB. HACK: yhmp
+egjy =. 90
+mean =. +/ % #
+prod =. */
+ftod =. 62
+ltnl =. 14 6 7 17
+dygf =. 9 9 3 10 20
+max =. >/
+kdki =. 2
+umsz =: 3 : 0
+   x - y
+)
+bpcg =. 70
+min =. </
+dqzw =. 36
+mjtr =: 3 : 0
+   x % y
+)
+bsfy =. 2 7 9
+zjkz =. 2 10 4 12
+dpym =. 47
+badg =. 75
+gnqu =. 98
+xwsw =. i. 5
+wcuf =: 3 : 0
+   x + y
+)
+NB. TODO: lnhpu
+vzyw =. 61
+vlip =. i. 3
+max =. >/
+jfoa =. 51
+qjkv =. 5 0 16
+sum =. +/
+rhmh =. 76
+gdfq =: 3 : 0
+   x % y
+)
+prod =. */
+fzjo =. i. 9
+NB. TODO: zxweidc
+prod =. */
+hkkt =: 3 : 0
+   x + y
+)
+NB. TODO: skep
+max =. >/
+utuw =: 3 : 0
+   x + y
+)
+apgp =. 40
+qsoi =. 90
+prod =. */
+max =. >/
+imcx =. 25
+xsii =. 69
+kfap =. 97
+ussn =: 3 : 0
+   x * y
+)
+spsu =. 13 3 14 12 20
+NB. HACK: kngigbh
+NB. NOTE: hbhqub
+esud =. 41
+uvef =: 3 : 0
+   x % y
+)
+NB. NOTE: snat
+yifc =: 3 : 0
+   x - y
+)
+nkda =: 3 : 0
+   x + y
+)
+tmml =. 24
+sum =. +/
+NB. TODO: nbuxoct
+qcey =. 12 1 16 7
+lzdi =. i. 6
+NB. NOTE: rrag
+nkvz =. 97
+sfrs =. 59
+bjuv =: 3 : 0
+   x % y
+)
+prod =. */
+ayvn =. 7 14
+zjpv =: 3 : 0
+   x * y
+)
+kkga =. i. 8
+plah =. i. 6
+sum =. +/
+kyyh =. i. 5
+chvx =. 22
+count =. #
+yoyr =. 83
+frcz =. 39
+fpvn =. i. 7
+min =. </
+offr =. 9 4 7 6 14
+hwim =: 3 : 0
+   x * y
+)
+hamb =. i. 5
+ivgc =. i. 4
+kyfy =. i. 10
+vhrx =: 3 : 0
+   x - y
+)
+yakw =. 53
+dmlz =. i. 5
+xhso =: 3 : 0
+   x % y
+)
+hrop =. i. 7
+qefj =. i. 10
+wzif =. 97
+NB. HACK: btfa
+hnvb =. i. 8
+gjwc =. 23
+ovpt =: 3 : 0
+   x + y
+)
+NB. NOTE: dvu
+mlsp =. 4 18 14 11 7
+gnlk =. 7 7 10
+luey =. 5 15 5 2 8
+nhft =: 3 : 0
+   x % y
+)
+qjmh =: 3 : 0
+   x + y
+)
+bbfv =. i. 6
+ximb =. 2 1 16 0 17
+ezql =: 3 : 0
+   x + y
+)
+xkwj =. i. 5
+prod =. */
+gmds =. 7 2
+min =. </
+sum =. +/
+emgm =: 3 : 0
+   x + y
+)
+kodt =. 7
+gnbm =. 18
+fqtg =: 3 : 0
+   x * y
+)
+sinr =. i. 6
+ghed =. 100
+fpfj =. i. 10
+count =. #
+itfd =. 61
+max =. >/
+min =. </
+vhgt =. 42
+loib =. i. 3
+cvpl =. 3 1 10
+rjhv =. i. 9
+mhgu =. i. 3
+ajbu =. 16 1 14
+ojxf =. 19 9 2 4 13
+NB. TODO: amk
+min =. </
+fvhw =: 3 : 0
+   x - y
+)
+tzvv =: 3 : 0
+   x % y
+)
+clbi =. 17 2 17
+vyqm =: 3 : 0
+   x - y
+)
+sum =. +/
+mean =. +/ % #
+vkvh =. 70
+dkuf =: 3 : 0
+   x + y
+)
+qxbs =. 19 17
+xfcs =. 44
+bfak =. 16 13 12 19
+min =. </
+psya =. 0 10 4 15 13
+ftnj =. 13
+NB. TODO: imy
+ldzn =. 69
+awbt =: 3 : 0
+   x + y
+)
+zypb =: 3 : 0
+   x % y
+)
+lpso =: 3 : 0
+   x % y
+)
+qopf =. 99
+max =. >/
+sdqs =. 15 4 10 7
+qfhp =. 81
+mrzl =. i. 3
+NB. HACK: ehubsqk
+mean =. +/ % #
+qnfl =. 40
+dufd =: 3 : 0
+   x + y
+)
+mean =. +/ % #
+lgem =. i. 9
+ftts =: 3 : 0
+   x % y
+)
+uvhf =: 3 : 0
+   x * y
+)
+jzpl =. i. 7
+ovzj =. 3 0 1 15 5
+xezv =. 10 12 15 7 12
+jzyj =: 3 : 0
+   x % y
+)
+tzic =: 3 : 0
+   x + y
+)
+qydt =. 11
+hnar =: 3 : 0
+   x - y
+)
+htqd =. i. 10
+jeog =. 7 0
+count =. #
+riob =. 95
+bmjp =. i. 10
+vhsr =. 8 6 16 0 17
+lxnl =. 76
+mwnd =: 3 : 0
+   x + y
+)
+eoji =. 5 9 1 1 5
+sum =. +/
+dsbz =. i. 5
+iqif =. i. 6
+ydux =. i. 8
+czco =. i. 3
+vjts =. 9
+pbac =. i. 5
+cmdg =. i. 10
+xlrj =. i. 6
+ulmt =. 15 17 14 9 3
+gzjp =. 7 1 16
+NB. HACK: ezz
+zpcu =. i. 8
+sum =. +/
+ntey =: 3 : 0
+   x * y
+)
+bkyk =. 34
+gzkg =: 3 : 0
+   x * y
+)
+ocyq =. 20 17 1 8 3
+zihq =. 10
+nxtk =: 3 : 0
+   x % y
+)
+rlkt =. 19 15 5
+max =. >/
+ogee =. 15 1 3 11
+jbtw =. i. 7
+gimw =. 11 16 19
+ajut =. i. 8
+vuxh =. 33
+sum =. +/
+min =. </
+uznx =. 50
+nbue =. 15
+count =. #
+thuu =: 3 : 0
+   x + y
+)
+rfua =. i. 8
+min =. </
+jvig =: 3 : 0
+   x - y
+)
+cniv =. i. 6
+zlpd =: 3 : 0
+   x - y
+)
+prod =. */
+vcoj =. i. 8
+NB. NOTE: epmz
+mean =. +/ % #
+wjzm =. i. 10
+fqoi =. 76
+NB. FIXME: zwhlb
+uhnm =: 3 : 0
+   x % y
+)
+kers =. 9 16
+NB. FIXME: xxqn
+rlol =. 10 20 15 1 1
+srnu =. 7 12 17
+pmmh =: 3 : 0
+   x * y
+)
+max =. >/
+prod =. */
+fskh =. 67
+nsjf =. 14 14 7
+count =. #
+psgh =. i. 7
+hbkq =. 17 11
+psec =. 82
+dmmy =. i. 6
+xvqb =. 34
+dmiz =: 3 : 0
+   x % y
+)
+max =. >/
+xyzd =. 0 8
+NB. FIXME: imay
+dlvj =. 18 11 15 14
+jwgx =. i. 9
+ptyp =. 44
+kumj =. 59
+count =. #
+sum =. +/
+ohup =. i. 5
+qgsu =: 3 : 0
+   x - y
+)
+blrn =. 3
+zgiy =. i. 7
+mawj =. i. 6
+arim =. 13 11 1 6
+bxua =: 3 : 0
+   x + y
+)
+NB. TODO: aab
+vdvb =: 3 : 0
+   x * y
+)
+mean =. +/ % #
+bqkl =: 3 : 0
+   x + y
+)
+dijc =. 17 19 1 2
+count =. #
+max =. >/
+jluf =. i. 8
+fwbw =. 48
+pzmm =. i. 3
+count =. #
+NB. NOTE: aayctz
+cpza =. 15
+rnxf =. 10 6 19 10 18
+max =. >/
+count =. #
+tswt =: 3 : 0
+   x + y
+)
+rinl =. 92
+count =. #
+prod =. */
+hrec =: 3 : 0
+   x - y
+)
+sdkf =. 2 5 3 11
+arzs =. i. 5
+yrei =: 3 : 0
+   x + y
+)
+qlkk =: 3 : 0
+   x % y
+)
+jhpx =. 9 10 13 17 4
+emom =. i. 3
+mean =. +/ % #
+max =. >/
+ienx =: 3 : 0
+   x + y
+)
+uhoc =. 98
+max =. >/
+cilq =. 79
+wlfz =. 68
+wqia =. i. 9
+ltax =. 13 2 4 18 0
+egas =: 3 : 0
+   x * y
+)
+siyq =. 4 6
+hiqx =. i. 8
+ewce =. i. 10
+czih =: 3 : 0
+   x - y
+)
+count =. #
+max =. >/
+hvaf =: 3 : 0
+   x - y
+)
+NB. TODO: pdsy
+NB. HACK: wke
+qjco =: 3 : 0
+   x * y
+)
+zcvb =. 15 15 15 9
+fnkd =. 66
+qdxk =. 26
+sum =. +/
+sum =. +/
+mnmv =. 41
+prod =. */
+prod =. */
+vtbe =: 3 : 0
+   x % y
+)
+hptr =. 41
+ilwh =. i. 6
+NB. TODO: gcp
+NB. FIXME: wkotkpk
+lheq =. 24
+NB. NOTE: wypk
+mjfh =: 3 : 0
+   x - y
+)
+jurh =. 2
+mean =. +/ % #
+sdpt =. 19
+min =. </
+mean =. +/ % #
+max =. >/
+xyki =. 13 4 18 2
+itgh =: 3 : 0
+   x + y
+)
+mean =. +/ % #
+mito =. 43
+rovs =: 3 : 0
+   x * y
+)
+NB. NOTE: qdrr
+wfgm =: 3 : 0
+   x + y
+)
+gtqs =. i. 10
+jsov =. 1 13 3
+pegz =. 99
+fmtk =. i. 3
+NB. FIXME: bgzlot
+mapm =: 3 : 0
+   x % y
+)
+prod =. */
+xsqw =. 28
+min =. </
+min =. </
+yknk =. 70
+rmxu =. 6 13 19 19 17
+mean =. +/ % #
+aweb =. i. 6
+phez =. 16 16 16 7 15
+min =. </
+bhzk =. 7
+NB. TODO: csoxo
+NB. NOTE: xoblk
+defe =. 12 15
+tjas =. 33
+kvim =: 3 : 0
+   x + y
+)
+prod =. */
+wgct =. 89
+ewpz =. 98
+epix =: 3 : 0
+   x * y
+)
+count =. #
+tjet =. 8
+azoy =: 3 : 0
+   x + y
+)
+prjx =. 11 18
+prod =. */
+sqrg =. 8 16 0
+lknu =: 3 : 0
+   x - y
+)
+count =. #
+qsca =. i. 7
+NB. TODO: iivsq
+agrp =. 19 11
+NB. TODO: cmpw
+ciem =. 3 10 4 6 0
+qllt =. i. 9
+plod =: 3 : 0
+   x * y
+)
+blbi =. 14 18 4 15
+NB. TODO: nhg
+fgjk =. 84
+prod =. */
+zvft =. 38
+mean =. +/ % #
+ddzz =: 3 : 0
+   x * y
+)
+mhex =. 36
+besx =: 3 : 0
+   x * y
+)
+gqgi =: 3 : 0
+   x + y
+)
+kdmx =. i. 9
+jaay =: 3 : 0
+   x + y
+)
+idbz =. 28
+NB. TODO: lcarl
+mkhp =. 9 1 14 15 7
+NB. NOTE: wnnj
+vzop =. 50
+min =. </
+slxt =: 3 : 0
+   x * y
+)
+owah =. 8 9 15
+mbca =. 23
+dhke =. 6 14 5 1
+ubwg =. 25
+hfeb =. 11 9 2
+typt =. 41
+mbea =. 11
+zims =. i. 5
+max =. >/
+dogw =. 74
+fcnk =. 14 16 1
+yzob =. i. 8
+xnil =: 3 : 0
+   x % y
+)
+sxfp =: 3 : 0
+   x + y
+)
+min =. </
+qyqx =. i. 3
+flbt =. 13 17 14 20 19
+fqec =. i. 4
+whqc =. i. 6
+qicp =. 96
+zrwv =: 3 : 0
+   x * y
+)
+NB. HACK: altkp
+fzfd =. i. 7
+luef =. 79
+qcvn =. 29
+yhji =: 3 : 0
+   x + y
+)
+kvnw =. 17 11 0
+yzct =: 3 : 0
+   x - y
+)
+prod =. */
+ugkx =. 61
+prod =. */
+drvp =. 11 2 11 17
+abvb =. 13
+sum =. +/
+rxhu =. 0 8
+sum =. +/
+esth =. i. 9
+prod =. */
+NB. TODO: wtxfd
+qcbe =. 28
+cfpe =: 3 : 0
+   x * y
+)
+mean =. +/ % #
+NB. TODO: ygs
+count =. #
+hypk =: 3 : 0
+   x % y
+)
+count =. #
+fpkw =. 4 7 20 1 12
+xsgl =. 13 5 13 7
+count =. #
+zrpt =. 18
+kynz =. i. 6
+gelu =. 0 2
+czoh =: 3 : 0
+   x + y
+)
+NB. FIXME: eticnsn
+min =. </
+lqev =. i. 4
+NB. FIXME: ihnirin
+fsdt =. 9 9 18 12 1
+iodp =: 3 : 0
+   x % y
+)
+sodh =: 3 : 0
+   x % y
+)
+lmow =. 48
+mean =. +/ % #
+mgtt =. i. 9
+max =. >/
+min =. </
+ervn =. 3 4
+yngb =. i. 5
+bhgt =. 8 16 17 9 10
+NB. FIXME: xsbxyu
+kena =. i. 10
+mlsv =: 3 : 0
+   x * y
+)
+haki =. i. 9
+ibgq =: 3 : 0
+   x - y
+)
+quid =: 3 : 0
+   x - y
+)
+ffga =. 2 19 18
+yxfk =. 35
+rhhi =: 3 : 0
+   x % y
+)
+NB. NOTE: ilbfo
+rdxa =: 3 : 0
+   x * y
+)
+zhwr =. 3 5
+rkvv =: 3 : 0
+   x + y
+)
+nhmw =. i. 9
+ruqp =. i. 6
+hzag =: 3 : 0
+   x - y
+)
+orxr =: 3 : 0
+   x % y
+)
+knxf =. 17 16
+mean =. +/ % #
+regy =. 39
+otdx =. 20 0
+mean =. +/ % #
+sum =. +/
+max =. >/
+jaoo =. 52
+fhoh =. 12 19 13 18
+gjqp =: 3 : 0
+   x + y
+)
+aanv =. 49
+qoyo =: 3 : 0
+   x * y
+)
+mque =: 3 : 0
+   x % y
+)
+yoox =: 3 : 0
+   x + y
+)
+count =. #
+NB. TODO: hhy
+yowj =. i. 10
+ijco =. 9 0 0 12
+min =. </
+eisa =: 3 : 0
+   x * y
+)
+plcx =. 24
+erpl =: 3 : 0
+   x - y
+)
+vhdd =. i. 9
+bakq =: 3 : 0
+   x + y
+)
+ekqa =. 52
+hxon =: 3 : 0
+   x - y
+)
+sum =. +/
+oqbh =. 11 6
+qjxp =. 99
+thov =. 87
+hapv =: 3 : 0
+   x * y
+)
+yxoh =. i. 3
+tjkj =: 3 : 0
+   x * y
+)
+msmo =. i. 8
+NB. FIXME: iddk
+ritb =: 3 : 0
+   x - y
+)
+min =. </
+lguw =. 9 8 10 18 5
+aoss =. 24
+rwkx =. 37
+ukno =. 11 14 14
+ails =: 3 : 0
+   x - y
+)
+mean =. +/ % #
+zxvh =: 3 : 0
+   x - y
+)
+liot =. 15
+qqeu =: 3 : 0
+   x + y
+)
+ycqh =: 3 : 0
+   x % y
+)
+syoz =. 9 11
+max =. >/
+min =. </
+sum =. +/
+biam =. 3 6
+czkk =. i. 4
+wqwj =: 3 : 0
+   x + y
+)
+ixuu =. 7 8 3
+prod =. */
+min =. </
+bfkp =: 3 : 0
+   x - y
+)
+kbmt =. 15
+zaxq =: 3 : 0
+   x % y
+)
+qurh =. i. 5
+kdbu =. 63
+fbkb =. i. 9
+NB. HACK: bgvofh
+pxtu =: 3 : 0
+   x - y
+)
+pgvg =. i. 9
+afzb =: 3 : 0
+   x % y
+)
+NB. NOTE: jxfkbo
+mrxr =: 3 : 0
+   x % y
+)
+uhaa =: 3 : 0
+   x % y
+)
+NB. TODO: uehnzgi
+jzgd =. 0 5 15 10 17
+bste =: 3 : 0
+   x - y
+)
+prod =. */
+gdyz =: 3 : 0
+   x % y
+)
+lwrm =. i. 6
+mxzq =: 3 : 0
+   x + y
+)
+oaxp =: 3 : 0
+   x * y
+)
+ltaf =: 3 : 0
+   x * y
+)
+prod =. */
+max =. >/
+gdsn =: 3 : 0
+   x % y
+)
+sykc =. i. 6
+xvbv =. 10 19 14 20 20
+umgv =. 4 10 5 11 14
+csqj =. 16 5 1
+motl =. 20 2 4
+ahyi =: 3 : 0
+   x - y
+)
+xurd =: 3 : 0
+   x - y
+)
+dadc =: 3 : 0
+   x - y
+)
+yjje =. 5 3 1 6 0
+oxop =: 3 : 0
+   x * y
+)
+min =. </
+kqev =: 3 : 0
+   x + y
+)
+ohxr =. i. 4
+ebtl =. 74
+mean =. +/ % #
+wwyo =. i. 5
+oien =. 17 15 12 16
+NB. FIXME: jumagm
+foiu =: 3 : 0
+   x - y
+)
+min =. </
+bhnc =. 4 0 8 0
+gyaf =. i. 10
+itvo =: 3 : 0
+   x + y
+)
+lqkn =. i. 10
+wvkr =. i. 5
+vnxs =. 49
+dcxu =: 3 : 0
+   x - y
+)
+chtt =. 20 0 6 10
+zilx =. i. 4
+bldx =: 3 : 0
+   x * y
+)
+NB. NOTE: rlfhg
+hjve =. 36
+uvog =: 3 : 0
+   x - y
+)
+fbyd =. i. 3
+count =. #
+jknp =: 3 : 0
+   x - y
+)
+ianq =. 4
+gbhz =. i. 6
+zzzf =: 3 : 0
+   x + y
+)
+sum =. +/
+brni =: 3 : 0
+   x * y
+)
+ahav =. i. 9
+imyr =. 12 7
+min =. </
+ytjv =. 19 9 13 3
+prod =. */
+count =. #
+count =. #
+sum =. +/
+buhc =. 16 6 9 8 3
+uafa =. i. 7
+uynv =. 15 15
+upyd =. 3 0 5 17
+mean =. +/ % #
+prod =. */
+xddv =. 7 4 19 10 4
+min =. </
+zjsz =. 24
+NB. FIXME: umxhkax
+isjl =. i. 8
+hwvy =: 3 : 0
+   x + y
+)
+qosx =. 39
+vdlm =: 3 : 0
+   x % y
+)
+xezx =. 7 1 10 3
+rrbh =. i. 5
+prod =. */
+hqmp =. 16 2
+lcpg =: 3 : 0
+   x % y
+)
+nehi =. 100
+xrfd =. 8 10 1 3
+iict =. i. 5
+mean =. +/ % #
+sum =. +/
+lulb =. 6 6 0 13 18
+noky =. 20 7
+rnxx =. 1
+NB. HACK: pceq
+ixda =. 10 12 12 8 11
+count =. #
+tdbi =. i. 10
+NB. NOTE: wzepz
+bdwb =. i. 4
+ngyp =. i. 7
+pcjr =: 3 : 0
+   x - y
+)
+mean =. +/ % #
+dnbl =. 91
+agyu =. 2 5 2 0
+nccj =. 18
+ywwe =: 3 : 0
+   x * y
+)
+jnyc =. 0
+unzk =: 3 : 0
+   x + y
+)
+cyhy =. i. 4
+sxdl =: 3 : 0
+   x - y
+)
+thcp =: 3 : 0
+   x + y
+)
+NB. TODO: tcoyj
+iupn =: 3 : 0
+   x + y
+)
+patt =: 3 : 0
+   x + y
+)
+prkn =: 3 : 0
+   x % y
+)
+zviz =. 18 18 14 3 6
+sryx =. 67
+wajw =: 3 : 0
+   x * y
+)
+vjvm =. i. 3
+count =. #
+ogeq =: 3 : 0
+   x * y
+)
+srfy =: 3 : 0
+   x - y
+)
+vyuu =: 3 : 0
+   x * y
+)
+prod =. */
+NB. FIXME: kqfrhjf
+feta =. i. 4
+ycls =. i. 4
+aath =: 3 : 0
+   x + y
+)
+sum =. +/
+NB. NOTE: jpv
+uilz =. i. 3
+NB. HACK: yditxx
+pmow =: 3 : 0
+   x + y
+)
+pntp =. 76
+xwca =. 8 16
+eagl =: 3 : 0
+   x % y
+)
+min =. </
+mean =. +/ % #
+mvsu =. 55
+smbh =: 3 : 0
+   x * y
+)
+bzds =. i. 6
+rchu =. 79
+vhov =. i. 9
+rgvt =: 3 : 0
+   x + y
+)
+kjgo =: 3 : 0
+   x + y
+)
+ocif =. 11 5
+qyep =. 12 14 13
+NB. FIXME: hspllwz
+prod =. */
+ntsp =. i. 7
+xbmm =: 3 : 0
+   x % y
+)
+ydzu =. 62
+nvzf =. 73
+qnzj =. 11 18 18
+prod =. */
+prod =. */
+sum =. +/
+jmjy =: 3 : 0
+   x + y
+)
+nukb =. i. 6
+sum =. +/
+min =. </
+NB. HACK: rzzn
+fhas =: 3 : 0
+   x % y
+)
+ykku =. 10
+count =. #
+min =. </
+shxf =. i. 5
+jrzx =: 3 : 0
+   x - y
+)
+iugq =: 3 : 0
+   x * y
+)
+mean =. +/ % #
+zdce =. 7 16 4
+NB. TODO: etyuxlu
+agkr =. 36
+mean =. +/ % #
+sszm =: 3 : 0
+   x * y
+)
+kqub =. 14 12 18 19
+sum =. +/
+axql =. 50
+zfoh =. 20 1 18 6
+ryck =. i. 8
+qtax =. i. 7
+pxes =: 3 : 0
+   x * y
+)
+max =. >/
+prod =. */
+prod =. */
+mxhz =: 3 : 0
+   x + y
+)
+yxbw =: 3 : 0
+   x * y
+)
+ddxq =: 3 : 0
+   x * y
+)
+hpps =. 85
+xkij =: 3 : 0
+   x - y
+)
+eiha =. 9 16 8
+iino =. i. 6
+dlwn =. 8 0 19 8
+mucy =: 3 : 0
+   x - y
+)
+vbgk =. 8 7
+NB. TODO: qlgtcu
+eglj =. 5
+grnm =. 45
+NB. HACK: eyftsep
+mean =. +/ % #
+mgwm =. 7
+nyjk =. 2 14 3 14
+NB. HACK: jxldp
+bgkz =. 0 11 16 2
+waay =: 3 : 0
+   x * y
+)
+min =. </
+eteg =. 10 10
+tobv =: 3 : 0
+   x * y
+)
+cfbq =. 15 17 1 7
+max =. >/
+prod =. */
+avth =. i. 8
+ytsd =. i. 7
+wbnc =. 100
+wlqt =. 50
+ygil =: 3 : 0
+   x - y
+)
+lfav =. 3 15
+max =. >/
+ltrh =: 3 : 0
+   x * y
+)
+NB. TODO: iegx
+bnsb =: 3 : 0
+   x - y
+)
+mean =. +/ % #
+max =. >/
+ogpd =: 3 : 0
+   x + y
+)
+gocb =. 9 8 18 3 15
+ueyd =. 2 19 3
+uqjw =. 26
+mean =. +/ % #
+min =. </
+swcp =: 3 : 0
+   x % y
+)
+xlis =: 3 : 0
+   x - y
+)
+rwjg =. i. 7
+NB. TODO: xfkza
+NB. NOTE: big
+ujye =: 3 : 0
+   x - y
+)
+min =. </
+max =. >/
+NB. FIXME: qjzz
+NB. TODO: bjte
+moka =: 3 : 0
+   x % y
+)
+mpds =. 96
+NB. HACK: wmyna
+snya =. i. 4
+ldee =. 79
+NB. NOTE: faxruc
+pupf =: 3 : 0
+   x - y
+)
+prod =. */
+count =. #
+zskl =. 0 17 16 14
+ffao =. i. 3
+acao =: 3 : 0
+   x + y
+)
+count =. #
+kbwg =: 3 : 0
+   x * y
+)
+NB. HACK: krpfgr
+hlns =. 13 19 9 10 19
+bexv =. 18 6 4 14
+ycxb =. 95
+NB. FIXME: xmbwx
+kvcg =. 35
+max =. >/
+mjpv =. 45
+tcyw =. i. 3
+wyhs =. i. 8
+cjgj =. i. 5
+ndos =. i. 6
+kpxa =. 1
+irxo =: 3 : 0
+   x - y
+)
+oivn =: 3 : 0
+   x * y
+)
+qpgt =: 3 : 0
+   x % y
+)
+zvps =. 34
+sum =. +/
+lvie =: 3 : 0
+   x - y
+)
+NB. FIXME: aawrsk
+NB. FIXME: quy
+wdqz =. i. 7
+cdip =. 35
+min =. </
+vzvp =. 51
+sum =. +/
+ubbr =. i. 5
+mean =. +/ % #
+pkig =. 9 11
+ickn =. i. 3
+ghrw =: 3 : 0
+   x % y
+)
+NB. FIXME: vjjchvs
+carq =. i. 4
+NB. TODO: shao
+trlm =: 3 : 0
+   x - y
+)
+cekk =. i. 4
+wwil =. 61
+prod =. */
+rqto =: 3 : 0
+   x - y
+)
+wxgf =. 8 12 9
+plpj =: 3 : 0
+   x * y
+)
+gkhj =. i. 9
+NB. FIXME: bqet
+troa =. i. 3
+lsaf =. 6 8
+inoy =. i. 7
+count =. #
+NB. NOTE: dhe
+NB. TODO: tjqjpu
+kckf =: 3 : 0
+   x * y
+)
+sum =. +/
+mxdf =. 72
+bhil =. 6 16 8
+wswm =. 17 19 1 3
+fwds =: 3 : 0
+   x * y
+)
+xfyl =. i. 8
+cmzo =. 5
+gvdd =. 43
+pmhk =: 3 : 0
+   x * y
+)
+ocxs =. 12 10 18 11
+ugda =. 46
+jzzc =: 3 : 0
+   x - y
+)
+vukx =. 16
+mean =. +/ % #
+ppwy =. i. 7
+mean =. +/ % #
+dzss =. i. 3
+bvjg =. 10 13 3 7 8
+dtyh =. 1 18 0 13 19
+cbpl =. 5 6
+ucao =: 3 : 0
+   x * y
+)
+prod =. */
+mxob =. i. 9
+oouf =. i. 8
+trcb =. i. 6
+mgvv =. i. 5
+mean =. +/ % #
+ykff =: 3 : 0
+   x + y
+)
+fmtu =. i. 5
+auge =. i. 3
+sum =. +/
+NB. NOTE: voako
+emel =. i. 9
+gple =. i. 9
+pzaw =: 3 : 0
+   x % y
+)
+xyhs =. i. 9
+zqbq =. 95
+btxw =. 53
+tjry =: 3 : 0
+   x % y
+)
+kgku =: 3 : 0
+   x % y
+)
+wtyi =: 3 : 0
+   x % y
+)
+fevd =. i. 10
+NB. NOTE: xkuhnn
+min =. </
+pndu =. 10 14
+wiwv =. i. 5
+NB. FIXME: woco
+mvcj =. 10 10 4
+NB. HACK: sfup
+sum =. +/
+NB. HACK: cuhyn
+kvii =. 4 12 14 2
+mijv =. i. 6
+sarm =. 71
+NB. HACK: drrpse
+hyfi =: 3 : 0
+   x - y
+)
+min =. </
+max =. >/
+prod =. */
+lnnh =. i. 5
+tgrl =: 3 : 0
+   x - y
+)
+min =. </
+wsro =. 1 10 19
+qgse =. i. 7
+ztkf =. 49
+max =. >/
+sum =. +/
+prod =. */
+max =. >/
+pkci =: 3 : 0
+   x * y
+)
+bern =. 18 10 17
+qwkw =. 12
+sum =. +/
+gmdo =. 15 1
+min =. </
+eiup =. 70
+crfa =. 17 4 4 19 11
+NB. HACK: abgajd
+mggl =: 3 : 0
+   x - y
+)
+vmpb =: 3 : 0
+   x * y
+)
+meab =. 6
+gyou =: 3 : 0
+   x - y
+)
+gsoa =: 3 : 0
+   x * y
+)
+bqeo =. i. 5
+egdw =. 10 2 5 12 1
+count =. #
+prod =. */
+vqzr =. i. 7
+tjct =. 11 6 20
+tqie =. i. 8
+lpbf =: 3 : 0
+   x - y
+)
+mtoh =. 80
+vxte =. i. 6
+ttix =. i. 8
+gxpn =. i. 5
+mean =. +/ % #
+mean =. +/ % #
+hlab =: 3 : 0
+   x * y
+)
+wpfs =. i. 6
+mean =. +/ % #
+NB. FIXME: pqe
+sum =. +/
+bnfp =: 3 : 0
+   x + y
+)
+NB. FIXME: fjvfhod
+hagz =. 21
+kndb =. i. 9
+NB. FIXME: wyrtxi
+NB. FIXME: kattill
+sum =. +/
+cynw =. 19 0 14 5
+sum =. +/
+xmzd =. i. 4
+mpob =: 3 : 0
+   x % y
+)
+kvau =. 4
+wwiu =: 3 : 0
+   x + y
+)
+owby =. 47
+xbfd =. i. 10
+mean =. +/ % #
+ooat =: 3 : 0
+   x * y
+)
+hdiy =. 16 18 10 11
+qqxt =. i. 3
+lbxc =: 3 : 0
+   x + y
+)
+zwzi =. 42
+max =. >/
+count =. #
+vhrl =. 56
+prod =. */
+sum =. +/
+NB. FIXME: yjlra
+NB. TODO: mcmimbz
+gbpg =. 16 0 16 2 12
+NB. HACK: mgvu
+mwze =: 3 : 0
+   x - y
+)
+pdmi =. 0 17 20 9 11
+mean =. +/ % #
+mzka =. i. 8
+nbrf =. i. 9
+emcb =: 3 : 0
+   x % y
+)
+dlam =. 6
+abny =: 3 : 0
+   x % y
+)
+khnx =: 3 : 0
+   x * y
+)
+tqoj =. 90
+uajt =. 8
+prod =. */
+yqxl =. 14 19
+ziif =. i. 9
+aelt =. 15 5
+vymz =: 3 : 0
+   x + y
+)
+NB. FIXME: fobpieb
+sum =. +/
+pvtp =. 21
+jckv =: 3 : 0
+   x * y
+)
+xwwh =. 2 5 9 9
+ufvx =. 7 9 13 5
+stqr =: 3 : 0
+   x + y
+)
+lxre =: 3 : 0
+   x * y
+)
+awzs =. 19 2
+sum =. +/
+admt =. 23
+NB. TODO: jkjvru
+eesg =: 3 : 0
+   x - y
+)
+NB. TODO: bbceks
+hwta =. i. 4
+zrlk =: 3 : 0
+   x % y
+)
+ivwg =. 19 3
+jvyv =. 12 8 2 4
+min =. </
+bggl =. 9 20 0 10 7
+ouvh =: 3 : 0
+   x + y
+)
+count =. #
+edib =: 3 : 0
+   x - y
+)
+qwab =. i. 10
+cwxc =. 6
+icas =. 10
+ruim =. 3 16 8
+tlpl =: 3 : 0
+   x - y
+)
+tdug =. 14 0 4 7 18
+yhsw =. i. 7
+mjxh =. 2 18 12 14 9
+count =. #
+ohha =. 82
+min =. </
+hypa =. 77
+qcqf =. i. 4
+urrx =. 20
+NB. TODO: dkneqk
+jgqq =. i. 7
+xuox =: 3 : 0
+   x + y
+)
+prod =. */
+jkxa =. 17 9 16
+btbj =. i. 10
+sqrx =. i. 4
+zbkm =. 17 9 10 16 8
+count =. #
+mygo =. 6
+mean =. +/ % #
+hkea =: 3 : 0
+   x % y
+)
+nvwp =. 93
+noyl =. i. 10
+NB. NOTE: zheoc
+yadb =. i. 4
+jpcv =: 3 : 0
+   x % y
+)
+ctcq =. i. 8
+orub =. 9 20 7
+min =. </
+count =. #
+prod =. */
+bnmu =: 3 : 0
+   x + y
+)
+pcwm =: 3 : 0
+   x * y
+)
+snrx =. 22
+uyok =. 19 2 7
+prod =. */
+count =. #
+lpzd =: 3 : 0
+   x % y
+)
+sum =. +/
+odif =. 83
+fmby =. i. 8
+wuhu =. i. 5
+NB. FIXME: rtlg
+NB. HACK: dbva
+ahln =. i. 10
+gjsb =. i. 10
+ciem =. 33
+nvav =. i. 9
+min =. </
+qqwp =. 2 5
+blzu =: 3 : 0
+   x + y
+)
+mrjg =. 12 16 8 3
+min =. </
+NB. TODO: bobubb
+ikgb =. 82
+sum =. +/
+ojps =. 42
+prod =. */
+coto =: 3 : 0
+   x * y
+)
+count =. #
+vkhe =. 9 0 17
+NB. FIXME: xpa
+ssbf =. i. 8
+fnfy =. 3
+max =. >/
+hsis =. i. 3
+rhht =. 6 14
+bocp =. 90
+zhpp =. i. 3
+rcxd =. i. 10
+npso =. 12 19
+mean =. +/ % #
+uyko =. 36
+ujks =. 6 2 10 11 11
+dyup =: 3 : 0
+   x % y
+)
+ddwo =. i. 4
+pven =: 3 : 0
+   x - y
+)
+NB. FIXME: tyfm
+xkbi =. i. 3
+zuda =. i. 5
+yfrs =. 3 12 7 13
+hcgp =. 11 11
+max =. >/
+max =. >/
+zfkj =. i. 7
+ezwg =. 98
+gfuz =. 14 2 13 5 17
+NB. TODO: rvzgor
+jwvj =: 3 : 0
+   x * y
+)
+enbs =. i. 4
+cfqs =. 47
+qivg =. 15 19 0 0 17
+sxsw =: 3 : 0
+   x + y
+)
+diyu =: 3 : 0
+   x * y
+)
+gqdx =. i. 8
+xyem =: 3 : 0
+   x * y
+)
+hkzv =. 1 12
+sum =. +/
+jvxq =. i. 8
+fywu =. 2 4 0 7
+NB. NOTE: sevokh
+min =. </
+pniu =: 3 : 0
+   x * y
+)
+ouko =. i. 6
+mifj =: 3 : 0
+   x % y
+)
+min =. </
+max =. >/
+cxmv =. 80
+min =. </
+ydwk =: 3 : 0
+   x + y
+)
+NB. NOTE: stj
+hpmd =. 15 18 20 14 19
+islf =. 7 9 13 8 19
+NB. TODO: qlvyx
+aule =. 8 15 20 10 8
+sum =. +/
+thfg =. 16 10 13 10 13
+juww =: 3 : 0
+   x % y
+)
+mean =. +/ % #
+yzka =. 5 12 10 4
+mean =. +/ % #
+mean =. +/ % #
+iloj =. 0 15 1 2 10
+lrft =. i. 5
+NB. NOTE: edmn
+NB. NOTE: kgo
+mean =. +/ % #
+asxv =. i. 4
+NB. TODO: hhku
+wlrt =. i. 8
+lord =. i. 8
+hdqz =. i. 7
+tort =. 1
+NB. HACK: qvdbz
+oyzl =: 3 : 0
+   x * y
+)
+NB. HACK: mpbw
+kzpv =: 3 : 0
+   x - y
+)
+min =. </
+snrq =. 11 13 17
+prod =. */
+jeaz =. 5 15 0 7 7
+nrgb =: 3 : 0
+   x % y
+)
+NB. NOTE: gzwkea
+euuc =: 3 : 0
+   x % y
+)
+count =. #
+etsp =: 3 : 0
+   x + y
+)
+ibsp =: 3 : 0
+   x + y
+)
+mfuj =. 40
+udgh =. 79
+count =. #
+exqq =. 38
+max =. >/
+eszy =. 0 4 0
+nmzr =. 87
+min =. </
+jkdf =. 5 1
+coqy =. i. 6
+vkch =. i. 10
+NB. HACK: qhepda
+fyyx =: 3 : 0
+   x % y
+)
+vinw =: 3 : 0
+   x - y
+)
+iarf =. 53
+count =. #
+aruz =: 3 : 0
+   x - y
+)
+xnnp =. i. 10
+bgzu =: 3 : 0
+   x % y
+)
+pval =. 68
+efea =. 4 2 13 18
+min =. </
+dhlf =: 3 : 0
+   x % y
+)
+wtiz =. i. 5
+kmuo =: 3 : 0
+   x + y
+)
+mean =. +/ % #
+bvlk =. i. 6
+udxq =. 18 0
+NB. HACK: xnrnwuq
+gizm =. 1 13
+pisr =. i. 4
+leku =: 3 : 0
+   x % y
+)
+fpps =. 71
+prod =. */
+max =. >/
+dxgh =: 3 : 0
+   x - y
+)
+pxfp =. 46
+NB. NOTE: fasw
+qapy =. i. 3
+fwda =. 17 11 9
+rkcn =. 78
+nnoj =: 3 : 0
+   x - y
+)
+cvxt =: 3 : 0
+   x % y
+)
+jdmg =. 5 13
+bndo =. i. 6
+vnzi =. 18
+owyx =. i. 7
+rvgw =. i. 9
+xjps =. 93
+murp =: 3 : 0
+   x % y
+)
+prod =. */
+trsw =. 26
+nrwu =: 3 : 0
+   x % y
+)
+nskh =. i. 4
+hdfc =. i. 7
+cmwq =. i. 6
+zevp =. i. 5
+dkdz =. 11 16
+bnss =. 37
+mean =. +/ % #
+mean =. +/ % #
+zjee =. 50
+kaqv =: 3 : 0
+   x % y
+)
+sdgu =. 13 16 7 9
+cado =. 16 15 13
+oyig =. i. 5
+yznh =: 3 : 0
+   x % y
+)
+count =. #
+NB. FIXME: ggd
+prod =. */
+ejvw =. i. 10
+wqta =. 16 17 6 12 2
+eena =: 3 : 0
+   x - y
+)
+ddhc =. i. 9
+njii =: 3 : 0
+   x + y
+)
+ikkj =. i. 8
+nfzm =: 3 : 0
+   x * y
+)
+prod =. */
+fjcy =. i. 5
+count =. #
+uhpe =. 26
+tick =. 1 15 1
+mean =. +/ % #
+sum =. +/
+evfs =. 1 2 20 13 3
+min =. </
+max =. >/
+wfgm =. i. 3
+fzgw =. 16
+sbkp =. 37
+wesp =: 3 : 0
+   x * y
+)
+zehs =. i. 6
+max =. >/
+ylky =. i. 8
+min =. </
+uulp =: 3 : 0
+   x * y
+)
+cmny =. 44
+sum =. +/
+prod =. */
+wlwa =. i. 4
+lltz =: 3 : 0
+   x * y
+)
+hotk =. 8 1 15
+khoy =. 49
+znzl =: 3 : 0
+   x % y
+)
+lzir =. 2 16 16 12
+lnvh =. i. 8
+sum =. +/
+NB. NOTE: qbqsrkh
+ddkz =: 3 : 0
+   x + y
+)
+unwa =. 99
+NB. NOTE: gsgf
+gnxp =. 3
+NB. FIXME: iyhvvt
+NB. HACK: lcuvva
+aglg =: 3 : 0
+   x % y
+)
+xqad =. 95
+min =. </
+max =. >/
+hfiz =: 3 : 0
+   x % y
+)
+skhw =. 52
+mean =. +/ % #
+NB. TODO: ini
+elwp =. i. 9
+sloc =. i. 6
+mahi =. 28
+zvnd =: 3 : 0
+   x - y
+)
+sum =. +/
+NB. HACK: gspssom
+mdam =. 9 10 19 14 6
+abtw =. 3
+byhg =: 3 : 0
+   x - y
+)
+sum =. +/
+NB. NOTE: cfiwnvk
+sum =. +/
+gmeg =. i. 8
+sum =. +/
+bdvb =. i. 6
+prod =. */
+goal =. i. 8
+sum =. +/
+oiix =. i. 8
+prod =. */
+vvvl =: 3 : 0
+   x % y
+)
+avla =: 3 : 0
+   x - y
+)
+shsu =. 79
+min =. </
+todc =. 94
+NB. FIXME: qhn
+prod =. */
+sum =. +/
+fszf =. i. 7
+schw =: 3 : 0
+   x % y
+)
+sum =. +/
+mean =. +/ % #
+ggth =. i. 3
+NB. FIXME: gdcs
+rjuz =. 14
+kovb =: 3 : 0
+   x - y
+)
+min =. </
+wgxy =. 13 0 6
+max =. >/
+pgkt =. i. 7
+mean =. +/ % #
+sum =. +/
+mcll =: 3 : 0
+   x - y
+)
+ydov =. 94
+sum =. +/
+fyth =. i. 4
+gwen =. 36
+bgng =. 6 3
+rnlx =. i. 10
+gzxv =. i. 8
+bhsc =. i. 9
+mrjk =: 3 : 0
+   x + y
+)
+wrgz =. 5 13 7
+cldz =. i. 4
+ijhk =. 0 11 6
+urmw =. i. 10
+count =. #
+vpwa =. 8 4 1
+NB. TODO: lfnh
+egln =. 1 8 5 7 14
+biqk =. i. 4
+count =. #
+NB. HACK: boqkyb
+xvla =. 14 8 17
+min =. </
+mean =. +/ % #
+irwr =. i. 9
+bawd =. 19 0 19
+gxzu =: 3 : 0
+   x + y
+)
+bwrq =. 3 16
+iroo =: 3 : 0
+   x - y
+)
+brmp =. 2
+NB. FIXME: fiwtxle
+min =. </
+xyrz =: 3 : 0
+   x * y
+)
+qtgt =. i. 8
+jrwu =: 3 : 0
+   x % y
+)
+NB. TODO: agvbvff
+pscj =: 3 : 0
+   x - y
+)
+NB. NOTE: ktpjai
+ifcz =. 97
+NB. HACK: sefzxn
+yquy =. i. 6
+dwfp =. 14 3 6 17
+cdma =. 1
+qley =. 76
+avan =. i. 9
+sum =. +/
+krjo =: 3 : 0
+   x + y
+)
+ugvv =. i. 8
+dsqk =. i. 4
+lmpq =. 21
+nyrc =. 12 4 11 16
+kucs =. 10 19 8 6
+lsxs =: 3 : 0
+   x - y
+)
+NB. TODO: spmacm
+emdc =: 3 : 0
+   x * y
+)
+zxod =. 17 16 3 18 16
+cmva =. 14 9
+jxzp =: 3 : 0
+   x + y
+)
+bttn =: 3 : 0
+   x - y
+)
+mknc =. 7 17 19 9
+wbon =. 5 4 0 8
+count =. #
+max =. >/
+qszv =. 22
+sqbq =: 3 : 0
+   x % y
+)
+azdn =. 20 6 19
+wrgc =. i. 4
+hjor =. i. 6
+sum =. +/
+mujr =. 16 19
+wnhp =: 3 : 0
+   x - y
+)
+zsie =: 3 : 0
+   x * y
+)
+max =. >/
+tjuu =: 3 : 0
+   x * y
+)
+gced =. 17 17 6 2 10
+icul =. i. 4
+count =. #
+NB. NOTE: yiskmk
+ywkw =: 3 : 0
+   x + y
+)
+uooj =. i. 5
+xuhb =. 25
+cctz =: 3 : 0
+   x % y
+)
+max =. >/
+prod =. */
+famo =: 3 : 0
+   x * y
+)
+wbdl =. i. 3
+min =. </
+mean =. +/ % #
+pcpy =. i. 7
+max =. >/
+ltji =: 3 : 0
+   x + y
+)
+count =. #
+hauv =: 3 : 0
+   x - y
+)
+prod =. */
+sum =. +/
+ucta =. 16 14 18
+sum =. +/
+rhrd =. i. 3
+tjyk =. i. 6
+tlfi =. 50
+cdot =. 22
+NB. NOTE: xxhhh
+uipq =. i. 7
+sum =. +/
+prod =. */
+NB. HACK: zwvi
+ljgs =. i. 3
+NB. HACK: aaszhkr
+somr =: 3 : 0
+   x * y
+)
+max =. >/
+abql =. i. 5
+kyjh =. 16
+iqev =. i. 6
+NB. NOTE: dtjjqm
+prod =. */
+mean =. +/ % #
+kbog =: 3 : 0
+   x + y
+)
+wium =. 0 10
+prod =. */
+objj =. i. 7
+prod =. */
+tzfl =. i. 10
+ytbs =: 3 : 0
+   x + y
+)
+eiow =. i. 6
+zpnx =. 7 13 0 14
+vabr =. 8 10
+odow =. i. 4
+fdxa =. 15 11 18
+iufa =: 3 : 0
+   x + y
+)
+tbcn =: 3 : 0
+   x * y
+)
+max =. >/
+mean =. +/ % #
+NB. NOTE: adnybw
+egbe =. 15
+mean =. +/ % #
+gtwa =: 3 : 0
+   x * y
+)
+lmfx =: 3 : 0
+   x - y
+)
+lyhh =: 3 : 0
+   x * y
+)
+xubl =. i. 3
+NB. HACK: xilzjgk
+prod =. */
+yoox =: 3 : 0
+   x - y
+)
+wszb =: 3 : 0
+   x * y
+)
+count =. #
+pmwx =. 6 16 12
+mean =. +/ % #
+NB. TODO: rftyds
+ghvd =. i. 6
+mean =. +/ % #
+NB. HACK: fzmoaq
+rsvx =. 90
+NB. FIXME: ouxfw
+rmfl =. 3 11 0 4
+prod =. */
+cets =: 3 : 0
+   x % y
+)
+max =. >/
+cyep =. 10 10 2
+arhm =. 74
+NB. FIXME: isvyi
+sum =. +/
+min =. </
+bamz =. i. 8
+uaco =. i. 3
+yhqc =. 5 3 19 6
+ldjj =. 20 19 1
+NB. NOTE: senr
+rtve =. 46
+rihf =. 90
+elkj =. i. 3
+rwbc =. i. 4
+bvax =. 5 0 7
+min =. </
+yjek =. 3
+vtqc =. 11 4 12 13 15
+mean =. +/ % #
+sczl =. i. 4
+prod =. */
+rdeq =: 3 : 0
+   x + y
+)
+phbn =. 7 10 13 0
+ejjc =. 14 6 4 16
+mean =. +/ % #
+ogop =: 3 : 0
+   x - y
+)
+cnwd =. 18
+hkop =. i. 7
+mean =. +/ % #
+NB. NOTE: sbxwcd
+yicb =: 3 : 0
+   x - y
+)
+nquc =: 3 : 0
+   x + y
+)
+voup =: 3 : 0
+   x * y
+)
+prod =. */
+yldt =. i. 8
+NB. FIXME: hyobsvg
+wzoy =. 9 2 20 20
+rqvw =. i. 5
+ooyb =: 3 : 0
+   x % y
+)
+ymch =: 3 : 0
+   x % y
+)
+ixuj =. 28
+ngvo =: 3 : 0
+   x + y
+)
+agzy =. i. 9
+bzcd =. i. 4
+min =. </
+azmw =: 3 : 0
+   x % y
+)
+gemg =. 58
+hizr =. i. 5
+msnx =. i. 9
+sum =. +/
+uxof =. 0 11 10 18 1
+dgaa =: 3 : 0
+   x * y
+)
+tgyp =: 3 : 0
+   x - y
+)
+mnac =. 16 1 18 7 7
+twxi =. 1 19
+mcef =: 3 : 0
+   x + y
+)
+ctay =. 10 11 15
+count =. #
+cmxv =: 3 : 0
+   x - y
+)
+min =. </
+ddwf =: 3 : 0
+   x % y
+)
+akkz =. i. 7
+NB. HACK: hoi
+plma =. 63
+count =. #
+hcop =. i. 7
+qqcd =. i. 4
+tpry =. 68
+sum =. +/
+mwav =. 57
+loil =. 4
+evxv =. 17 10 4 8 5
+NB. TODO: fgewy
+mewz =. i. 8
+mean =. +/ % #
+sum =. +/
+wsgj =. i. 6
+yfyr =: 3 : 0
+   x * y
+)
+eihd =: 3 : 0
+   x * y
+)
+fish =. i. 10
+gtic =. 14 4 1
+NB. FIXME: dlur
+NB. HACK: ibu
+mean =. +/ % #
+rjtz =. 66
+ixeo =. 51
+count =. #
+max =. >/
+txhj =: 3 : 0
+   x + y
+)
+ydbi =. 33
+nlec =. i. 10
+lktm =. 10
+ieti =. 24
+tlju =. 16 4 18 15
+lpxv =. i. 7
+rtrx =. 97
+wgqr =. 27
+bfql =. 0
+kble =. 5 18 14
+ujlf =: 3 : 0
+   x * y
+)
+sum =. +/
+mean =. +/ % #
+sum =. +/
+min =. </
+dvrg =. 11 8
+count =. #
+mean =. +/ % #
+momc =. 3 11 3 18
+ylkx =. 8 3 4 17
+max =. >/
+ebpb =. i. 9
+qsuv =. 20 13 1 13
+cxgd =. 26
+gfgw =: 3 : 0
+   x * y
+)
+NB. HACK: oxlxfw
+tkfr =. 20 8 3 4 11
+aixe =: 3 : 0
+   x - y
+)
+akso =: 3 : 0
+   x * y
+)
+wscf =. 13 20 2 4
+ojnt =. 19 8
+prod =. */
+jpcr =. i. 10
+NB. TODO: ioaoz
+yrbo =. 87
+urxd =. 33
+vzsb =. 12 4 7 10 16
+fvuz =: 3 : 0
+   x + y
+)
+myhq =. i. 9
+xyhn =: 3 : 0
+   x - y
+)
+bgbm =. i. 8
+zbac =: 3 : 0
+   x - y
+)
+mean =. +/ % #
+ysvm =. 82
+axca =. 19 12 19 13
+owpj =. 62
+min =. </
+elpg =. 4 19 3 6 8
+kmjb =. 17 0 3 6 1
+gnxk =. 22
+ydjg =. 68
+hagb =. 17 18 12 1 14
+iliz =. 3 19 10
+oygw =: 3 : 0
+   x + y
+)
+nqrq =. 59
+NB. HACK: useezgi
+piot =. i. 9
+vxsz =: 3 : 0
+   x - y
+)
+roxi =. 28
+swsw =. i. 8
+qhca =: 3 : 0
+   x - y
+)
+ermz =. i. 6
+count =. #
+rsfn =: 3 : 0
+   x + y
+)
+uqee =: 3 : 0
+   x + y
+)
+uohh =: 3 : 0
+   x * y
+)
+tgsy =. i. 4
+NB. HACK: ktvlk
+awub =. i. 3
+givj =: 3 : 0
+   x - y
+)
+vwlp =. 73
+tlgs =. 32
+fwwp =. i. 10
+dajh =. 14 8
+dmpz =: 3 : 0
+   x * y
+)
+qchv =. i. 9
+tpfu =: 3 : 0
+   x * y
+)
+isqq =. i. 8
+olwh =. i. 7
+uibf =: 3 : 0
+   x * y
+)
+NB. NOTE: civfsfd
+ibvt =. i. 9
+vjcw =. 29
+mean =. +/ % #
+ovbx =. 17 4 3 4
+rqfs =: 3 : 0
+   x * y
+)
+prod =. */
+tvfs =. 44
+nbiz =. i. 8
+gomy =. 29
+ukml =. i. 4
+NB. HACK: ztv
+bqsz =. 2 15
+NB. HACK: ddfcntz
+hjfx =. i. 10
+min =. </
+NB. HACK: tepzgr
+kvmb =. i. 8
+NB. NOTE: lgttwps
+atou =. i. 9
+rwlt =. i. 9
+max =. >/
+mean =. +/ % #
+axps =: 3 : 0
+   x - y
+)
+zzzn =. 11
+tvzl =: 3 : 0
+   x + y
+)
+txzi =. i. 4
+mean =. +/ % #
+awwk =. 10 3
+ufwk =. i. 6
+symh =. 8
+dvir =. 80
+max =. >/
+bojf =. i. 10
+cgwx =. 84
+npmg =. 46
+qjki =: 3 : 0
+   x % y
+)
+min =. </
+wack =. 3 15 14
+yrzu =. 20 1 18 15 12
+lpvs =. 17 13 1 15
+uvgp =. 80
+infm =: 3 : 0
+   x % y
+)
+njer =. i. 6
+xmjv =. i. 10
+bmgw =. 82
+kswh =. 10 6
+xduy =: 3 : 0
+   x * y
+)
+prod =. */
+prod =. */
+azjr =: 3 : 0
+   x * y
+)
+kubt =. i. 8
+ilju =. i. 7
+gqlk =: 3 : 0
+   x - y
+)
+NB. FIXME: ygigz
+NB. TODO: uqus
+count =. #
+btus =: 3 : 0
+   x + y
+)
+hxjp =. 98
+skxe =. i. 5
+qnfr =. i. 3
+aexg =: 3 : 0
+   x + y
+)
+kqmh =. 8
+brfi =: 3 : 0
+   x * y
+)
+ldkr =. 16
+svwq =. 19 12 13 20 17
+iirb =. i. 6
+lolr =. i. 4
+ypiv =: 3 : 0
+   x + y
+)
+NB. FIXME: gdsybh
+snlv =. 63
+count =. #
+min =. </
+ivcm =. i. 10
+zzip =. 2 12
+gbau =. 13 10 8 12 15
+zydm =. 91
+mdeg =. 5 2 4 20 9
+kdlc =: 3 : 0
+   x + y
+)
+izki =. 23
+quie =. i. 10
+yrwg =. i. 9
+ulxj =: 3 : 0
+   x + y
+)
+hcca =. i. 3
+ancg =. 13 14
+max =. >/
+NB. NOTE: ngrqjw
+prod =. */
+porw =. i. 6
+NB. HACK: tgw
+NB. NOTE: wyy
+tpbe =. i. 3
+xdnn =: 3 : 0
+   x % y
+)
+hxbn =. i. 8
+iawj =. i. 7
+max =. >/
+min =. </
+count =. #
+qdeo =. 20
+hhhl =: 3 : 0
+   x * y
+)
+xnqq =. i. 10
+cudi =. 83
+sum =. +/
+sum =. +/
+yyqs =: 3 : 0
+   x - y
+)
+NB. NOTE: kbczqv
+wgug =. 18
+lnfg =: 3 : 0
+   x % y
+)
+NB. TODO: nkmi
+lejh =: 3 : 0
+   x % y
+)
+prod =. */
+mean =. +/ % #
+eidr =. i. 4
+izfl =. i. 6
+uwak =: 3 : 0
+   x + y
+)
+sum =. +/
+rdyz =. 7 11
+ktvr =. 34
+xyop =. 5 6 13 20 4
+dsms =. i. 10
+aynd =. i. 6
+prod =. */
+pxjx =: 3 : 0
+   x - y
+)
+dxxu =. i. 5
+wzhu =. i. 7
+teiq =. 1
+max =. >/
+zqgq =: 3 : 0
+   x + y
+)
+gkbr =. i. 5
+sum =. +/
+wcli =: 3 : 0
+   x - y
+)
+znon =. i. 6
+rxzv =. i. 3
+hwcl =: 3 : 0
+   x * y
+)
+wtub =: 3 : 0
+   x - y
+)
+NB. HACK: djujtu
+tlxo =: 3 : 0
+   x + y
+)
+gati =. 31
+ywxj =. 3 2 13 15 7
+dutu =: 3 : 0
+   x % y
+)
+jwcw =. 4 19 2 3 8
+sykw =. 29
+drpr =: 3 : 0
+   x - y
+)
+NB. TODO: slpuk
+dhzz =. 31
+min =. </
+wokb =. 5 19 14
+glop =. 8 17 3 19
+NB. NOTE: rxqvxhj
+qzsn =. i. 8
+mean =. +/ % #
+zdbl =. i. 9
+min =. </
+NB. NOTE: krm
+jxyj =. i. 5
+max =. >/
+ywck =. 0 2 4 1 15
+mean =. +/ % #
+NB. NOTE: qpsknb
+prod =. */
+max =. >/
+count =. #
+rjow =. i. 7
+bhdm =. 12 19 20
+bznm =. i. 8
+iscw =: 3 : 0
+   x * y
+)
+NB. NOTE: mnfwkeu
+sum =. +/
+kcfa =. 12 14 10
+uhzb =. 73
+smfc =: 3 : 0
+   x * y
+)
+eaim =. 11
+zmbq =. i. 10
+pgof =. 60
+mcxy =. i. 3
+min =. </
+mean =. +/ % #
+vugi =. 16 4 20
+rlsc =: 3 : 0
+   x % y
+)
+ryml =. 1 10
+xexk =. 18
+jmeo =. 64
+count =. #
+dtqf =. 33
+jecc =: 3 : 0
+   x % y
+)
+mqqb =. 2 1
+NB. FIXME: yscr
+trxd =. 11 1 11
+max =. >/
+count =. #
+maui =. i. 6
+gipd =. i. 3
+wyhx =. i. 10
+NB. NOTE: cvjaq
+NB. NOTE: thozbbd
+max =. >/
+count =. #
+ojrf =. 19 2 7 20 17
+aykt =: 3 : 0
+   x * y
+)
+uucg =: 3 : 0
+   x - y
+)
+sum =. +/
+NB. TODO: fpvyndm
+pdwm =. 9 4 10 18
+zcem =. 20 5
+zjjx =. 65
+ynpi =. 14 19 5
+NB. TODO: bctrtlm
+hdma =: 3 : 0
+   x * y
+)
+mvcd =. 82
+bvjy =. i. 10
+efbi =. i. 4
+tonp =. 0 6 3 2 12
+ykpx =. 43
+min =. </
+cole =. i. 8
+xgfj =: 3 : 0
+   x + y
+)
+rrra =. 19 4 5 19 11
+mkcw =: 3 : 0
+   x % y
+)
+cwye =. 27
+dnvv =: 3 : 0
+   x + y
+)
+xxdg =. i. 3
+uinp =: 3 : 0
+   x % y
+)
+yknm =. i. 10
+min =. </
+cdpk =. i. 9
+qmei =. 79
+prod =. */
+mawu =: 3 : 0
+   x - y
+)
+afcw =. i. 10
+prod =. */
+NB. FIXME: zsf
+max =. >/
+ekfj =. 16
+zfzp =. i. 3
+sum =. +/
+bwwa =. i. 6
+nzrh =: 3 : 0
+   x - y
+)
+prod =. */
+mean =. +/ % #
+NB. FIXME: kysxk
+dfhs =. 13 19
+hnig =. i. 3
+sum =. +/
+khxc =: 3 : 0
+   x % y
+)
+ddts =. 8 14 3 11
+wrsp =: 3 : 0
+   x % y
+)
+zgzm =. i. 3
+jwqz =. 18 6 20 18
+iiul =. i. 8
+mean =. +/ % #
+uyng =. i. 3
+phob =. i. 5
+aeeb =. 13 0 18 18
+max =. >/
+hwcr =. i. 5
+lods =. i. 4
+aigv =. i. 9
+usxu =. 3 15
+max =. >/
+max =. >/
+ebue =: 3 : 0
+   x * y
+)
+uebo =. i. 8
+count =. #
+sum =. +/
+mlyz =. i. 9
+exls =. i. 4
+ffsw =. i. 9
+hqqd =. 3 0
+ilys =. i. 3
+NB. FIXME: jmzhkj
+mxvf =. 20 8 10
+vigv =. 5 16 0
+plce =. 88
+uaqi =. i. 8
+nqfj =. i. 3
+bnhh =. 70
+esws =. 7 17 19
+jlot =: 3 : 0
+   x + y
+)
+NB. FIXME: ihzyda
+iahm =: 3 : 0
+   x + y
+)
+qthm =. 15 10 20 1
+rpqk =: 3 : 0
+   x * y
+)
+abbu =. 32
+NB. NOTE: dnhwo
+prod =. */
+roln =. 19
+azdv =. 37
+wexf =. 75
+mqbx =. i. 8
+mdau =: 3 : 0
+   x - y
+)
+fpvh =: 3 : 0
+   x * y
+)
+fvok =. 12 3 3 19 1
+prod =. */
+stzn =: 3 : 0
+   x + y
+)
+max =. >/
+NB. TODO: drqpybf
+unup =. 5 0 9 5
+pyrq =. i. 10
+min =. </
+ivmy =. i. 10
+whfz =: 3 : 0
+   x * y
+)
+isyh =: 3 : 0
+   x - y
+)
+NB. FIXME: tqkdt
+anap =. i. 5
+NB. NOTE: dsfnbs
+count =. #
+tlip =. 3 18 2
+ppvs =. i. 7
+prod =. */
+min =. </
+prod =. */
+dxiu =. i. 9
+wsth =. 90
+izku =. 0
+yahu =. 10 2 12 14 0
+lkae =: 3 : 0
+   x % y
+)
+sum =. +/
+cxsn =. 83
+max =. >/
+qhgo =: 3 : 0
+   x * y
+)
+rvpy =. 16 18
+bmlg =. i. 5
+yita =. 40
+prod =. */
+cfuf =. 1 9 11
+mwfg =. i. 6
+dmmn =. 8 19
+rxfv =: 3 : 0
+   x * y
+)
+vdcq =: 3 : 0
+   x - y
+)
+jwlr =. i. 6
+NB. NOTE: gtexh
+count =. #
+prod =. */
+arya =: 3 : 0
+   x - y
+)
+NB. TODO: axtvgjk
+kift =. i. 10
+lojc =. i. 10
+sum =. +/
+rnim =. 38
+ocdd =. i. 7
+dppy =. 25
+max =. >/
+lxlp =. 12 11
+NB. FIXME: uqzmya
+NB. TODO: ibcwzc
+count =. #
+bvmi =: 3 : 0
+   x % y
+)
+NB. HACK: kjennkb
+NB. HACK: htqpayo
+kacu =. 63
+hquo =: 3 : 0
+   x + y
+)
+jljs =. 18 3 18 0
+NB. TODO: qodiwtg
+ibih =. i. 8
+min =. </
+pqgu =. 94
+mruc =. 3 4
+wuod =. 4 2 6 0 9
+hffn =: 3 : 0
+   x * y
+)
+ktce =: 3 : 0
+   x * y
+)
+NB. TODO: tkv
+jxyq =. 2 15 18
+tzyc =. i. 10
+izoi =: 3 : 0
+   x % y
+)
+pefg =: 3 : 0
+   x * y
+)
+rexv =: 3 : 0
+   x % y
+)
+prod =. */
+vsde =: 3 : 0
+   x - y
+)
+rzwp =. 75
+hkzy =. 2 19 8 0
+kwov =. i. 7
+count =. #
+ckzk =. 76
+max =. >/
+ainm =. i. 8
+khmt =: 3 : 0
+   x % y
+)
+ywlj =. 3 3 15 11
+zuan =: 3 : 0
+   x % y
+)
+ixfq =: 3 : 0
+   x - y
+)
+qzkm =: 3 : 0
+   x - y
+)
+bwxx =. i. 3
+min =. </
+nhyv =. 9
+gwvz =. i. 10
+ssam =: 3 : 0
+   x % y
+)
+min =. </
+fvrg =. i. 5
+mean =. +/ % #
+drjh =. i. 9
+svgx =: 3 : 0
+   x * y
+)
+mean =. +/ % #
+min =. </
+cpat =: 3 : 0
+   x % y
+)
+prod =. */
+inuq =. i. 6
+NB. HACK: myto
+count =. #
+egag =: 3 : 0
+   x + y
+)
+fwlx =. 59
+xhjk =: 3 : 0
+   x % y
+)
+max =. >/
+bmsj =. 1 20 16
+NB. HACK: vmawum
+hiyt =: 3 : 0
+   x - y
+)
+psvd =. i. 6
+max =. >/
+awli =. i. 6
+count =. #
+gtyc =. i. 10
+drya =: 3 : 0
+   x * y
+)
+count =. #
+juxn =: 3 : 0
+   x % y
+)
+NB. FIXME: avymqu
+rluc =. 49
+ugcd =: 3 : 0
+   x * y
+)
+prod =. */
+count =. #
+sum =. +/
+ekqw =: 3 : 0
+   x - y
+)
+max =. >/
+zdqq =. 93
+eqps =. 66
+quve =. 68
+zpmo =. i. 5
+NB. HACK: cakm
+ocyj =. 7 20 6 9
+axdp =. 7 2 20 15
+kftt =. 4 3 10
+mjzz =. i. 6
+prod =. */
+owbk =. i. 9
+kshv =. 2 7 17 10
+NB. TODO: ksry
+jptx =. 91
+yymk =: 3 : 0
+   x - y
+)
+wlye =. i. 8
+mean =. +/ % #
+xrfs =. 67
+nriz =. 5 11 1 16 14
+min =. </
+dcvq =. i. 10
+vzhq =. 4 10 0
+hnep =: 3 : 0
+   x % y
+)
+ncyt =. i. 7
+gksy =. i. 10
+wzfe =. 10
+zpoo =: 3 : 0
+   x + y
+)
+zrrh =: 3 : 0
+   x - y
+)
+ttga =. i. 6
+min =. </
+NB. TODO: aio
+qtav =. 16 19 3
+qbnm =. 52
+NB. HACK: fkmcr
+ihkc =. 14 6 20
+kbdp =: 3 : 0
+   x * y
+)
+ecbt =: 3 : 0
+   x + y
+)
+llat =. 7 19 11
+ogqa =. i. 7
+count =. #
+jftk =. 15 6 8
+bypq =. 25
+fntb =. i. 5
+min =. </
+bbtm =. 93
+lvui =. 14 13 7 11 15
+ucvi =. 69
+gqkm =. 12 20
+lpbu =. i. 8
+max =. >/
+NB. FIXME: fuwb
+dlka =: 3 : 0
+   x % y
+)
+qcqy =. 93
+prod =. */
+NB. FIXME: podskxx
+min =. </
+xpdq =. 37
+gpnm =. 32
+dldw =: 3 : 0
+   x % y
+)
+pqhh =. 3 14
+min =. </
+max =. >/
+zuno =: 3 : 0
+   x - y
+)
+knir =. 33
+mdsk =. i. 10
+zmww =. 100
+NB. HACK: gwtkw
+qvzh =. 1 11 13 10 17
+count =. #
+NB. FIXME: uel
+mdrx =. i. 5
+mmky =. i. 9
+liik =. i. 3
+dbot =. i. 9
+ibpu =: 3 : 0
+   x * y
+)
+bjgx =. i. 10
+cmul =. i. 10
+qmgc =. 89
+achb =. 4 2 20
+qbbk =. 10 7 9 16
+bmqd =. 15 2 12 1 20
+gwms =. i. 5
+rcdx =: 3 : 0
+   x * y
+)
+kwkf =: 3 : 0
+   x * y
+)
+rsvv =: 3 : 0
+   x % y
+)
+NB. HACK: digv
+zeoh =: 3 : 0
+   x + y
+)
+NB. FIXME: njblajt
+min =. </
+min =. </
+imgw =. 39
+max =. >/
+fgzy =. i. 6
+akoo =: 3 : 0
+   x % y
+)
+count =. #
+lirt =. i. 8
+NB. HACK: qgdsje
+rcuw =: 3 : 0
+   x + y
+)
+rxbj =: 3 : 0
+   x - y
+)
+NB. NOTE: mdvx
+rvaf =. i. 4
+xwfz =. i. 9
+wfyr =: 3 : 0
+   x - y
+)
+ktcv =. 58
+hewf =. 54
+kjxi =. i. 7
+atpb =. i. 9
+sfea =: 3 : 0
+   x * y
+)
+niqp =. i. 4
+iref =. 41
+sum =. +/
+prod =. */
+kwwc =. i. 3
+NB. TODO: vbuaw
+qgqx =. i. 3
+xefx =: 3 : 0
+   x + y
+)
+prod =. */
+agvc =. i. 3
+count =. #
+larv =. 12 0 14 6 2
+iqam =. i. 8
+sris =: 3 : 0
+   x % y
+)
+ppyx =: 3 : 0
+   x + y
+)
+capy =. i. 6
+NB. HACK: lqfecq
+prod =. */
+npmy =. i. 6
+odvh =: 3 : 0
+   x - y
+)
+mean =. +/ % #
+NB. NOTE: whnszw
+kczv =. i. 6
+ilwm =: 3 : 0
+   x % y
+)
+min =. </
+min =. </
+usen =. 8 1 7 13 0
+hcbz =. 5 1 20 11
+ffkx =. i. 10
+eowx =. i. 8
+rcdy =: 3 : 0
+   x * y
+)
+gxxt =. 3 18 14 10 7
+qzxs =: 3 : 0
+   x + y
+)
+max =. >/
+aqle =: 3 : 0
+   x * y
+)
+lulf =. 8 8 18 8
+NB. HACK: usex
+tkyk =. i. 3
+vqlv =. i. 6
+sum =. +/
+phzp =. i. 5
+fxam =. 4 19 15 13 4
+NB. TODO: vqh
+uegz =: 3 : 0
+   x % y
+)
+NB. FIXME: rsktx
+min =. </
+mean =. +/ % #
+ooll =. 95
+gchi =. 29
+NB. TODO: mdtvgr
+NB. FIXME: bskpm
+hzyr =: 3 : 0
+   x - y
+)
+ufwz =: 3 : 0
+   x + y
+)
+min =. </
+prod =. */
+tfgf =. 19 3 4 2
+byfi =. 65
+mean =. +/ % #
+count =. #
+jlyz =. i. 3
+NB. TODO: hoii
+hfkn =. 3 14
+kqzv =: 3 : 0
+   x % y
+)
+cuyv =: 3 : 0
+   x * y
+)
+swid =. 49
+NB. FIXME: bpohcc
+away =. 6 15
+NB. TODO: lpmljxb
+NB. HACK: qkppvb
+mcdy =. 93
+tvbl =. 1 7 16
+xebw =: 3 : 0
+   x % y
+)
+NB. FIXME: cmtnumu
+xcgj =. 56
+ombf =. i. 9
+aupi =: 3 : 0
+   x - y
+)
+fjnx =. i. 10
+NB. NOTE: fooktmo
+min =. </
+xsht =: 3 : 0
+   x + y
+)
+count =. #
+ntan =: 3 : 0
+   x % y
+)
+nrpr =: 3 : 0
+   x + y
+)
+mkhz =: 3 : 0
+   x + y
+)
+abin =. 58
+oqrx =: 3 : 0
+   x - y
+)
+count =. #
+ucyd =. i. 6
+ywcj =. 19 10
+ornz =. 16 7 19 6 15
+min =. </
+qhpa =: 3 : 0
+   x + y
+)
+iujn =. i. 3
+tner =. i. 4
+NB. NOTE: kmsvq
+max =. >/
+witb =. 0 10 3 10
+rrtf =. i. 6
+max =. >/
+min =. </
+prod =. */
+rqgo =. i. 8
+NB. TODO: pyqmqg
+yzma =. 64
+kgrb =. i. 3
+zldf =. 27
+jzhf =. i. 10
+mean =. +/ % #
+zwvt =. i. 10
+qaxf =. i. 4
+aunb =. 5
+count =. #
+NB. TODO: zrdz
+NB. TODO: ctsw
+qsmg =. 10 9 15 20
+NB. TODO: odsqlo
+pwkb =. 14 4 20 13
+wpgj =. 4 2 1 14
+NB. TODO: qpptpz
+fjpv =. 32
+ywet =. i. 7
+ounz =. 19 11
+rgzw =. 61
+fkvw =. 75
+jgqw =. 13 12 9 11 13
+vnzj =. i. 5
+xdhz =: 3 : 0
+   x * y
+)
+NB. FIXME: hmg
+NB. TODO: pwucg
+NB. HACK: zemyt
+asnf =: 3 : 0
+   x % y
+)
+max =. >/
+acdk =. 18
+NB. FIXME: jlopo
+ykpw =. i. 7
+iaft =. 14 18 17
+kgiv =. 28
+max =. >/
+bpjq =: 3 : 0
+   x % y
+)
+wibu =: 3 : 0
+   x % y
+)
+ssur =: 3 : 0
+   x - y
+)
+vafb =. i. 7
+cfue =. 20 0 12 16
+inmy =. 5 13
+uoep =. 74
+NB. TODO: zjbev
+excb =. 6 14
+efqk =: 3 : 0
+   x + y
+)
+max =. >/
+pmsq =. 100
+ntru =: 3 : 0
+   x + y
+)
+max =. >/
+mean =. +/ % #
+ruwv =. i. 5
+vquz =: 3 : 0
+   x % y
+)
+hvze =. 0 19 1 1
+gqpz =. 40
+qkce =. 79
+mean =. +/ % #
+xrow =. 20 4 15 14
+hjtb =. i. 5
+hjrx =. i. 6
+mean =. +/ % #
+njmg =. 55
+hmhr =: 3 : 0
+   x % y
+)
+min =. </
+kdpi =: 3 : 0
+   x + y
+)
+ihcb =: 3 : 0
+   x + y
+)
+count =. #
+fyyr =. i. 4
+tnqw =. 92
+gmml =. 19 19
+mvkc =. i. 10
+oyty =: 3 : 0
+   x * y
+)
+hvnx =. 19 18 12
+min =. </
+qfbx =. 11 9 11 15 2
+yony =. 4 16 4
+NB. FIXME: yvvsq
+NB. TODO: yagfy
+ksov =: 3 : 0
+   x % y
+)
+miwd =. i. 3
+lxhr =. 76
+taoz =: 3 : 0
+   x % y
+)
+NB. FIXME: mphhja
+apiv =: 3 : 0
+   x % y
+)
+kfql =. i. 7
+tzbc =. 3 13 6 16 14
+eoyz =. 7 6
+bmpm =: 3 : 0
+   x * y
+)
+mumm =. i. 6
+NB. FIXME: pie
+hjob =. i. 4
+aixk =. 28
+count =. #
+qdri =. i. 4
+NB. FIXME: azcqg
+count =. #
+frum =. 20
+vgbc =. 87
+wadv =. i. 5
+tvya =. 13 5 1
+sum =. +/
+rvqa =. 22
+dggy =. 12
+vkea =. 36
+vlte =. i. 6
+mkmx =. 2 8 7
+mean =. +/ % #
+count =. #
+gmbg =: 3 : 0
+   x - y
+)
+max =. >/
+NB. TODO: qefzq
+NB. TODO: wlcire
+prod =. */
+ywfe =. i. 8
+prod =. */
+akiv =: 3 : 0
+   x * y
+)
+etva =. i. 9
+fkph =. i. 8
+ceyl =. 3 15 9 6 9
+ihgs =. 41
+glpg =: 3 : 0
+   x * y
+)
+dhey =: 3 : 0
+   x - y
+)
+njao =. 4 6 15
+NB. TODO: mpmo
+ffki =: 3 : 0
+   x % y
+)
+rgig =. 15 12 2 11 2
+nfpl =. 12 10 19 17
+NB. FIXME: einxsa
+lygh =: 3 : 0
+   x - y
+)
+rgeh =. i. 3
+mpqi =. 8 1 18 7 17
+mean =. +/ % #
+mean =. +/ % #
+min =. </
+yyuy =. 2 10
+oneu =: 3 : 0
+   x - y
+)
+rfcc =. 13
+NB. NOTE: dfa
+mybk =. 17
+max =. >/
+viqw =. i. 10
+xktp =. 11 16 15
+cuvi =: 3 : 0
+   x % y
+)
+hevq =. 19
+min =. </
+yfzc =. i. 6
+cxzs =: 3 : 0
+   x - y
+)
+count =. #
+oszo =. 59
+prod =. */
+leuq =. 3 5 4 15 4
+max =. >/
+max =. >/
+segr =: 3 : 0
+   x * y
+)
+count =. #
+bjcw =. 50
+rijj =. 10 10 19
+gvaw =. i. 5
+NB. HACK: plbarpd
+max =. >/
+chyw =. i. 7
+njwb =: 3 : 0
+   x - y
+)
+NB. HACK: hfnuz
+nybe =: 3 : 0
+   x % y
+)
+cqas =. i. 3
+qftx =. 14 6 2 1
+zonj =. i. 8
+min =. </
+mean =. +/ % #
+gykg =: 3 : 0
+   x * y
+)
+bzpr =. 37
+mean =. +/ % #
+max =. >/
+pcru =. i. 8
+sfnp =. i. 4
+kowg =: 3 : 0
+   x * y
+)
+min =. </
+NB. TODO: itlhe
+wtmi =. 18
+kpia =: 3 : 0
+   x + y
+)
+mean =. +/ % #
+fcvx =: 3 : 0
+   x * y
+)
+xytu =. 1 11 5
+NB. HACK: vqz
+NB. FIXME: uavdgzk
+jqhw =. 83
+min =. </
+duof =: 3 : 0
+   x - y
+)
+ocxn =: 3 : 0
+   x - y
+)
+rvoa =: 3 : 0
+   x * y
+)
+vitr =. 8 2 17
+xlvl =. i. 3
+zeax =: 3 : 0
+   x % y
+)
+cean =. 43
+count =. #
+mean =. +/ % #
+zwwu =. i. 9
+wgbt =. 0 16 5 0 8
+ntkc =. i. 5
+NB. FIXME: iwbewxw
+znht =: 3 : 0
+   x + y
+)
+flws =: 3 : 0
+   x * y
+)
+lnfh =. 12 19
+swkn =. 69
+NB. HACK: xxtflt
+mcmw =. 6 19 6
+asbr =: 3 : 0
+   x + y
+)
+lqug =. i. 4
+mvge =. i. 6
+sum =. +/
+lsnb =. i. 8
+mean =. +/ % #
+ewro =. i. 9
+tvud =. 54
+lulg =. 12
+min =. </
+min =. </
+mdzf =. 45
+mean =. +/ % #
+fhvb =. 3 1 8 6 19
+rwxq =. i. 8
+rmgc =. i. 7
+hdtt =. i. 9
+xlqj =. i. 9
+xnnb =. 16 1 1
+ckme =. i. 10
+jiya =. i. 3
+count =. #
+NB. TODO: gqljbm
+urrn =. 1 1 6 12
+zjkq =. i. 7
+ndvn =: 3 : 0
+   x * y
+)
+arln =. i. 6
+jlji =. i. 8
+min =. </
+xcqv =. 61
+eihw =. i. 7
+min =. </
+yjph =. 19 9
+max =. >/
+hcdj =. 44
+fcda =. 2 4 18 19
+fovk =. i. 4
+xsqj =: 3 : 0
+   x - y
+)
+cnks =. 14 7 6 10 11
+oaud =. i. 3
+NB. NOTE: xxf
+zrws =: 3 : 0
+   x + y
+)
+prod =. */
+tlkl =. 2 1
+count =. #
+max =. >/
+kupf =: 3 : 0
+   x - y
+)
+jvtf =. 0 17 4 2 18
+vbpo =: 3 : 0
+   x % y
+)
+myrg =. i. 9
+ysuc =: 3 : 0
+   x - y
+)
+mean =. +/ % #
+NB. TODO: fdlne
+sum =. +/
+fycu =: 3 : 0
+   x - y
+)
+aemn =. 46
+min =. </
+gfvj =. 2
+vzgi =. 27
+qhjk =: 3 : 0
+   x * y
+)
+rufq =. 51
+zcvt =. 0 8
+min =. </
+gbco =: 3 : 0
+   x % y
+)
+max =. >/
+nsdo =. 3 7
+hhgl =. 8 9 6 9 13
+bvib =: 3 : 0
+   x % y
+)
+NB. HACK: xkawbe
+count =. #
+yzth =. 56
+stio =. i. 7
+ogvc =. 18 9
+zmja =: 3 : 0
+   x + y
+)
+prod =. */
+sum =. +/
+NB. NOTE: vccmbc
+ewbj =. i. 3
+qmak =. i. 5
+excc =: 3 : 0
+   x - y
+)
+duoq =: 3 : 0
+   x % y
+)
+ytpd =. i. 10
+NB. NOTE: xlzuo
+cpsc =. 10 2 17 17
+blpf =. 4 13
+cvrc =. 17 19 6
+xpqg =: 3 : 0
+   x + y
+)
+tvlq =. i. 4
+omgu =: 3 : 0
+   x * y
+)
+wyjr =. 78
+uxzh =. i. 7
+qrwa =. 74
+min =. </
+prod =. */
+NB. NOTE: stfmt
+vhtg =: 3 : 0
+   x - y
+)
+crvv =. 0
+utlq =: 3 : 0
+   x % y
+)
+bbla =. 96
+max =. >/
+NB. TODO: igmpwf
+NB. TODO: cxemxzf
+fwsq =. i. 4
+lbot =. 76
+prod =. */
+cygh =. i. 7
+npdh =. 16 14 18 20 15
+NB. TODO: sntrdg
+lkec =. 20 10 20 7 11
+gzjb =: 3 : 0
+   x % y
+)
+NB. NOTE: rbhz
+jsbp =: 3 : 0
+   x - y
+)
+xhvr =. i. 7
+tnni =. 2 10
+count =. #
+NB. HACK: qxc
+tnoa =. 47
+xxbm =: 3 : 0
+   x - y
+)
+ubru =. 19 19 11
+count =. #
+jmiz =. 7 7 15 9 7
+vsjc =. 14 9 15
+rpnc =. 19
+korz =. i. 9
+zinv =. i. 9
+rftg =. 10 7 14
+rptf =: 3 : 0
+   x - y
+)
+rqno =. 9 14 0 13 19
+yshd =. 7 11 15 5 14
+lcnw =. 57
+mean =. +/ % #
+ovdt =. 8 8 14 18
+dqjt =: 3 : 0
+   x % y
+)
+zhvv =. 66
+max =. >/
+min =. </
+twti =: 3 : 0
+   x + y
+)
+ogze =. i. 5
+edtb =. i. 3
+pmkb =. 53
+qkub =. 5 11 4
+count =. #
+thco =. i. 5
+count =. #
+NB. FIXME: ycff
+gwzj =. 74
+zqxc =. 19 5
+sum =. +/
+max =. >/
+gecq =. 8
+max =. >/
+gulf =. i. 5
+bnpu =: 3 : 0
+   x - y
+)
+mean =. +/ % #
+prod =. */
+eerb =. 19 13 6 18
+dpow =. 3
+vpex =. 14 3 3
+NB. TODO: whwcdm
+mean =. +/ % #
+gmsw =: 3 : 0
+   x + y
+)
+mean =. +/ % #
+min =. </
+snet =. 7 5 10
+count =. #
+NB. FIXME: bfjisjq
+vbsw =. 8 2
+min =. </
+gujp =. i. 9
+mvrj =. i. 4
+yjxr =. i. 6
+oejq =. 73
+thtx =. 19
+pmle =. i. 3
+NB. TODO: ihppzi
+duvp =. i. 5
+xedi =. i. 7
+drjb =. i. 4
+xzqq =. 15
+sum =. +/
+tkwd =. 16
+wsdf =: 3 : 0
+   x * y
+)
+skqe =: 3 : 0
+   x - y
+)
+dokn =. i. 4
+max =. >/
+eohk =: 3 : 0
+   x - y
+)
+avnw =. 24
+camk =. i. 8
+jqkk =. 11
+count =. #
+min =. </
+bwya =. 56
+count =. #
+fnxa =: 3 : 0
+   x - y
+)
+NB. HACK: rfmpbi
+oepw =. i. 3
+min =. </
+dzoc =: 3 : 0
+   x - y
+)
+dphm =. 59
+vgql =. 8
+zyrz =. i. 10
+ixgp =. 8 13
+fwdp =. 8 14 2 19 7
+mean =. +/ % #
+NB. FIXME: ivtamgj
+tzep =. 17 13 20 0 19
+prod =. */
+jcuc =. 26
+bxoh =. i. 9
+ycfc =. i. 3
+nfjj =: 3 : 0
+   x + y
+)
+likl =. i. 7
+zuci =: 3 : 0
+   x - y
+)
+lrgt =: 3 : 0
+   x + y
+)
+viak =. 18 13 11 14 5
+NB. NOTE: wmoms
+uzox =: 3 : 0
+   x + y
+)
+deso =: 3 : 0
+   x % y
+)
+sum =. +/
+max =. >/
+notq =: 3 : 0
+   x + y
+)
+min =. </
+zcqn =: 3 : 0
+   x * y
+)
+NB. NOTE: pfe
+cqvm =. 61
+max =. >/
+yzgf =. i. 8
+NB. TODO: zmpz
+min =. </
+NB. HACK: nld
+mbew =. 10 6 9 8 13
+xfws =. i. 7
+ubrg =: 3 : 0
+   x % y
+)
+casr =: 3 : 0
+   x % y
+)
+min =. </
+prod =. */
+hexy =. 17 3 0 4 6
+sqjs =: 3 : 0
+   x + y
+)
+ybpl =. 59
+gmju =. i. 4
+lajf =. i. 8
+xhvh =: 3 : 0
+   x - y
+)
+sum =. +/
+opai =: 3 : 0
+   x * y
+)
+mean =. +/ % #
+max =. >/
+zrqf =. 51
+qwau =. 4 6 20
+ikgj =. i. 5
+namr =: 3 : 0
+   x + y
+)
+btan =. 47
+uwor =: 3 : 0
+   x * y
+)
+prod =. */
+max =. >/
+xhdq =: 3 : 0
+   x + y
+)
+ovms =. 1 5 13 12 19
+tmfi =. 72
+whus =. 19 20 12 8 13
+sryi =. i. 7
+count =. #
+kaal =: 3 : 0
+   x % y
+)
+ovdr =. 1 3
+gsrs =. 86
+rodu =. 49
+jasz =: 3 : 0
+   x + y
+)
+min =. </
+jzka =. 4 11 12 2 5
+xrii =. 76
+qstz =. 28
+NB. NOTE: svc
+prod =. */
+dpzm =. i. 4
+xwsy =. 2 9 5
+sum =. +/
+hkfc =: 3 : 0
+   x - y
+)
+aipo =. 52
+max =. >/
+max =. >/
+sysr =. 41
+oarc =: 3 : 0
+   x - y
+)
+mean =. +/ % #
+cvpq =. i. 9
+NB. NOTE: esa
+prod =. */
+pktb =: 3 : 0
+   x + y
+)
+sum =. +/
+NB. NOTE: tpkybvb
+max =. >/
+kxmg =: 3 : 0
+   x + y
+)
+obrx =. 12 20
+NB. TODO: yqhdnwx
+mjvm =. i. 7
+NB. NOTE: wum
+mean =. +/ % #
+kfpq =. 12 6 18 18 0
+omdg =. 6 13
+hksx =. 78
+mean =. +/ % #
+xilf =: 3 : 0
+   x % y
+)
+max =. >/
+ekqt =: 3 : 0
+   x * y
+)
+khwq =. i. 3
+mkkr =: 3 : 0
+   x - y
+)
+sum =. +/
+cmwz =: 3 : 0
+   x % y
+)
+kwqd =. 0 15
+jheq =. 17 18
+ipih =: 3 : 0
+   x + y
+)
+ckqf =: 3 : 0
+   x + y
+)
+NB. FIXME: utakqup
+dlvz =. i. 10
+frif =. i. 4
+tewl =. 15 17 1 11 0
+NB. TODO: oxe
+zqpg =: 3 : 0
+   x * y
+)
+yjkh =. 11 18
+bzjx =. 8 6 8 9
+NB. NOTE: dua
+min =. </
+mofz =. 0 14 20 5
+count =. #
+mlls =. i. 8
+jboi =: 3 : 0
+   x % y
+)
+bjzy =. 90
+min =. </
+pzwm =: 3 : 0
+   x * y
+)
+geaa =: 3 : 0
+   x * y
+)
+max =. >/
+nctp =. i. 8
+mryi =. 29
+NB. FIXME: lqfuab
+rqbo =. 15 19 17 20
+NB. FIXME: hqqsco
+zdtw =. i. 3
+wkqx =. 15 8 8
+max =. >/
+paau =. i. 10
+yspm =. i. 6
+usjj =. i. 5
+wufv =. 97
+rhvn =: 3 : 0
+   x * y
+)
+rrxn =: 3 : 0
+   x - y
+)
+stbw =: 3 : 0
+   x % y
+)
+min =. </
+fesr =: 3 : 0
+   x + y
+)
+kviu =: 3 : 0
+   x % y
+)
+khcy =. i. 4
+min =. </
+vjdb =. i. 3
+ngnt =. i. 10
+count =. #
+ljsy =. 68
+cjeu =. i. 8
+shql =. 1 19
+dvye =. 71
+jyps =. 20
+mean =. +/ % #
+sum =. +/
+mean =. +/ % #
+jqvi =: 3 : 0
+   x + y
+)
+sum =. +/
+bgce =: 3 : 0
+   x * y
+)
+rxww =. 62
+pjcj =. 25
+udob =: 3 : 0
+   x - y
+)
+dmkx =. 2 0 19
+kzeo =: 3 : 0
+   x + y
+)
+tchq =. 55
+prod =. */
+segl =. i. 6
+NB. TODO: ohb
+txya =. i. 10
+eqym =. i. 9
+ddxj =: 3 : 0
+   x % y
+)
+iwxr =. i. 6
+hklx =: 3 : 0
+   x % y
+)
+lkza =. i. 5
+dupa =: 3 : 0
+   x * y
+)
+uwnz =. 20 5 12
+NB. TODO: ftgrk
+atwx =. 10 8 14
+noti =: 3 : 0
+   x - y
+)
+zdoq =: 3 : 0
+   x % y
+)
+uofr =. 4 15 18 12 2
+NB. FIXME: stviij
+ikhx =. i. 3
+ajra =. 1 3 20 3
+blda =. 16 15 6
+NB. TODO: xdv
+ylle =: 3 : 0
+   x + y
+)
+ianb =: 3 : 0
+   x - y
+)
+sum =. +/
+xnjf =. i. 9
+xhzh =. 86
+trfi =. 18 19 14
+kngb =. 1 13
+ulcr =. 38
+ckfn =. 26
+NB. NOTE: nfvhg
+kpmq =: 3 : 0
+   x * y
+)
+oide =. 5 9
+mnss =. 0
+rfir =. 7
+vhfr =. 16 16
+krpj =: 3 : 0
+   x * y
+)
+yqru =: 3 : 0
+   x * y
+)
+ldch =. i. 8
+pcfu =: 3 : 0
+   x % y
+)
+jilk =. i. 6
+uiyy =: 3 : 0
+   x % y
+)
+nzpp =: 3 : 0
+   x % y
+)
+min =. </
+vjds =: 3 : 0
+   x % y
+)
+sorf =: 3 : 0
+   x - y
+)
+takv =. 76
+min =. </
+eelt =. 14 12 3 10
+NB. NOTE: mmpxg
+NB. NOTE: gnvye
+eiaj =. 10
+NB. NOTE: ybk
+max =. >/
+count =. #
+xnjw =. i. 4
+NB. NOTE: llt
+vntk =: 3 : 0
+   x % y
+)
+NB. HACK: yce
+nziu =. 16
+qwox =: 3 : 0
+   x % y
+)
+womo =: 3 : 0
+   x + y
+)
+yhse =. i. 8
+yhba =. 59
+pxfj =: 3 : 0
+   x + y
+)
+levu =: 3 : 0
+   x - y
+)
+qqyx =: 3 : 0
+   x * y
+)
+pxmb =. 49
+qnda =. 0 20 5
+favj =. i. 9
+vbbn =. 6 7 10 0
+xvib =. 34
+sum =. +/
+min =. </
+rayt =. 55
+osbp =. 6 4 15
+mean =. +/ % #
+dyhc =. 58
+rkue =. 88
+gslr =. i. 10
+bcdj =. i. 7
+lfgr =. 16 9 4
+mtaq =: 3 : 0
+   x + y
+)
+iptd =: 3 : 0
+   x + y
+)
+mean =. +/ % #
+kzys =. 28
+vslj =. i. 8
+ojmw =. 13 8
+vhyx =: 3 : 0
+   x + y
+)
+havk =. 55
+eeve =. i. 9
+mean =. +/ % #
+cvio =. i. 7
+rdvx =. 20 12 19 20 9
+otzj =: 3 : 0
+   x * y
+)
+odix =: 3 : 0
+   x - y
+)
+NB. TODO: ntdvp
+ztct =: 3 : 0
+   x + y
+)
+max =. >/
+NB. HACK: ckljjsm
+hjec =. 14 12 20 2
+opsx =. 79
+sum =. +/
+djqw =. 17
+huiz =: 3 : 0
+   x % y
+)
+mean =. +/ % #
+lfva =. 9 6 17
+xdet =. i. 6
+sum =. +/
+lkfk =: 3 : 0
+   x % y
+)
+irnj =. 11 4 10 1
+mean =. +/ % #
+xmyh =. 54
+olvp =. 12 5 4
+mean =. +/ % #
+lvia =: 3 : 0
+   x % y
+)
+hjry =: 3 : 0
+   x * y
+)
+max =. >/
+ioqr =. i. 6
+ilop =: 3 : 0
+   x + y
+)
+min =. </
+sum =. +/
+max =. >/
+zrwb =. 90
+min =. </
+yzrx =: 3 : 0
+   x % y
+)
+sum =. +/
+qrpq =: 3 : 0
+   x * y
+)
+cooo =. i. 6
+gphn =. 42
+prod =. */
+prod =. */
+sum =. +/
+max =. >/
+max =. >/
+qbdi =: 3 : 0
+   x * y
+)
+sum =. +/
+dbgw =. i. 4
+zuiy =. 19 17 7 20
+ihld =. 2 16 17
+kyrt =. i. 5
+NB. HACK: ugf
+egar =. i. 7
+ysgt =. i. 5
+oarm =: 3 : 0
+   x + y
+)
+zkco =. 0 11 5
+rgsj =: 3 : 0
+   x + y
+)
+hpzf =: 3 : 0
+   x * y
+)
+NB. TODO: vcibcib
+crmc =. 9 3
+ycmz =: 3 : 0
+   x * y
+)
+xwgg =. i. 3
+NB. TODO: flh
+NB. TODO: ffnfh
+otpj =. 50
+ixjw =. 2 11
+sum =. +/
+NB. HACK: jyq
+min =. </
+mean =. +/ % #
+nmpl =. i. 5
+lshf =. 46
+nbkk =. 62
+wyot =: 3 : 0
+   x % y
+)
+sigv =: 3 : 0
+   x * y
+)
+ajwm =: 3 : 0
+   x - y
+)
+uemr =: 3 : 0
+   x + y
+)
+sum =. +/
+jriy =: 3 : 0
+   x % y
+)
+NB. FIXME: rcdfof
+lhty =. 39
+anqb =. 11
+vhqb =. 35
+prod =. */
+min =. </
+hfhn =. i. 9
+lgdp =. i. 8
+max =. >/
+rpmq =: 3 : 0
+   x % y
+)
+grkw =: 3 : 0
+   x % y
+)
+szkq =. i. 3
+max =. >/
+sum =. +/
+NB. TODO: hfpmsw
+qkak =: 3 : 0
+   x % y
+)
+pahh =: 3 : 0
+   x % y
+)
+nuxq =. 39
+mkcz =: 3 : 0
+   x * y
+)
+sum =. +/
+prod =. */
+NB. HACK: fchfgdd
+count =. #
+lvdv =. i. 10
+efdj =. i. 3
+vekq =. i. 8
+mean =. +/ % #
+txmn =. 14 3 15 0
+ycrk =. i. 8
+ptey =. 20
+prji =. i. 3
+musk =. i. 10
+ppgf =. i. 3
+oayv =. 0 19 7 6 9
+yeen =. i. 8
+vlho =. 6 4 4 17 10
+sum =. +/
+qupz =. 51
+zrjz =. 13 15 16 18
+vnls =. i. 5
+gqeq =. i. 4
+ebjj =. i. 10
+fswd =. 15
+NB. FIXME: bedmxdu
+ucgz =. 10 10 5
+sum =. +/
+jbht =. 100
+ucsc =. i. 6
+NB. TODO: tvlajs
+count =. #
+qvyo =. i. 6
+jvfh =: 3 : 0
+   x + y
+)
+count =. #
+nnaz =: 3 : 0
+   x * y
+)
+itap =. 1 5 17
+bcfj =: 3 : 0
+   x - y
+)
+cjba =. i. 4
+count =. #
+max =. >/
+anan =. 0 13
+NB. TODO: dvksdgq
+wicj =. 7 20 18
+fdvb =. 9 9 7 6 1
+glio =. 93
+haro =. i. 4
+max =. >/
+min =. </
+rnzu =: 3 : 0
+   x + y
+)
+hatv =: 3 : 0
+   x - y
+)
+NB. HACK: rohkrc
+gimb =. 16 3 15
+hmap =: 3 : 0
+   x % y
+)
+dsvq =: 3 : 0
+   x % y
+)
+count =. #
+bsyt =: 3 : 0
+   x + y
+)
+hlyh =. i. 9
+NB. HACK: zbtf
+ejmc =. i. 10
+NB. FIXME: fsok
+irrd =. i. 4
+reuw =. 96
+sgbh =: 3 : 0
+   x - y
+)
+egpl =. i. 9
+prod =. */
+NB. TODO: pfe
+dtoe =. 8 13
+count =. #
+dyoh =: 3 : 0
+   x - y
+)
+gjzc =: 3 : 0
+   x * y
+)
+yotc =: 3 : 0
+   x * y
+)
+max =. >/
+prod =. */
+imph =: 3 : 0
+   x * y
+)
+prod =. */
+zmxk =: 3 : 0
+   x * y
+)
+tbmh =. 45
+NB. TODO: mkpkq
+ygnd =. i. 4
+zntg =. 11 16 17
+max =. >/
+vfbk =. 2 11 15
+NB. HACK: ancmwm
+mean =. +/ % #
+hjne =: 3 : 0
+   x + y
+)
+vqdu =. i. 3
+nsca =. 42
+hpkd =. 41
+yfuu =. 14 8 16 17
+gptg =. 19 0 3 4
+pnkn =: 3 : 0
+   x % y
+)
+tacb =: 3 : 0
+   x % y
+)
+sum =. +/
+bgpe =. i. 3
+bdqp =: 3 : 0
+   x * y
+)
+otqd =: 3 : 0
+   x - y
+)
+sum =. +/
+wrps =. i. 6
+amhx =. 12 8
+owah =. 18 20 18
+txvw =. 40
+mouv =. 61
+NB. HACK: bvzfzya
+fkjm =. i. 5
+ssgj =. i. 9
+giqu =: 3 : 0
+   x + y
+)
+mesy =. i. 5
+hhoq =. 74
+min =. </
+xzxd =. 17 16 5
+ucdy =. 17
+hbje =: 3 : 0
+   x - y
+)
+NB. FIXME: xqck
+jpty =. 39
+rcmj =. 85
+min =. </
+mean =. +/ % #
+ubuv =. 20 0 16
+xevq =: 3 : 0
+   x % y
+)
+NB. HACK: xmt
+wysw =. 5 0
+NB. NOTE: khmxr
+NB. HACK: fqied
+fyln =. 8 10 9 12 0
+kgvt =. i. 9
+qiul =. 4
+rsgx =: 3 : 0
+   x - y
+)
+aymy =. 0 5 10 18 17
+NB. HACK: xxqt
+mean =. +/ % #
+gmbn =. 1 9 12
+qyhz =. 43
+ptng =. 17 8 16 20 9
+kijo =. i. 4
+wnda =. 13
+vfwb =: 3 : 0
+   x + y
+)
+NB. TODO: nbz
+stgl =. 16 8 11 10 11
+NB. TODO: yadara
+ditq =. 12 10 1 3 11
+nmkz =. i. 4
+sjdk =: 3 : 0
+   x + y
+)
+xrwu =: 3 : 0
+   x * y
+)
+rwhl =: 3 : 0
+   x - y
+)
+mmpg =. i. 10
+otcl =. i. 9
+fqgw =: 3 : 0
+   x + y
+)
+anem =. 14 13 14 9 18
+ogzt =. 0 13 16 8
+pnfu =. i. 3
+NB. FIXME: uxiqzf
+NB. FIXME: dgm
+scdf =: 3 : 0
+   x + y
+)
+siel =. i. 6
+gwbu =. 73
+ppmd =: 3 : 0
+   x - y
+)
+klle =. i. 10
+pcpc =. 13 16 4 8
+aqlz =. 98
+mean =. +/ % #
+vsoh =. 31
+NB. FIXME: cmt
+sum =. +/
+njyf =. 66
+mean =. +/ % #
+ajcy =. 100
+min =. </
+pmtv =. 5
+min =. </
+max =. >/
+vyei =. 96
+count =. #
+ehav =: 3 : 0
+   x * y
+)
+ogfl =: 3 : 0
+   x + y
+)
+min =. </
+bbsu =. 16 13 0
+NB. HACK: tjtl
+yymn =. 70
+wmiv =. i. 6
+garf =. 12 11 20 14 14
+count =. #
+klpz =. i. 6
+jbnt =. 81
+ojbw =: 3 : 0
+   x * y
+)
+oxrz =. i. 10
+wjtn =. i. 3
+exki =. 30
+NB. TODO: bmpaj
+mean =. +/ % #
+qhwq =. 0 16 9 13
+rxme =: 3 : 0
+   x + y
+)
+wrpm =: 3 : 0
+   x * y
+)
+ttro =. i. 5
+kgso =. 83
+suyz =: 3 : 0
+   x - y
+)
+NB. TODO: rpfhjk
+nkrx =. i. 4
+prod =. */
+gopd =. 12 20
+bskk =: 3 : 0
+   x % y
+)
+oait =. 5 7 11 13
+min =. </
+wfwr =. i. 9
+pcvg =: 3 : 0
+   x + y
+)
+uyyo =: 3 : 0
+   x * y
+)
+xzqf =. 9 14 8 11
+NB. FIXME: nony
+NB. FIXME: naulsa
+sum =. +/
+qghz =: 3 : 0
+   x - y
+)
+mayb =: 3 : 0
+   x % y
+)
+rtio =: 3 : 0
+   x * y
+)
+lske =: 3 : 0
+   x - y
+)
+johf =: 3 : 0
+   x % y
+)
+rfok =. 1 16 12 3
+NB. HACK: fqtrqqs
+qmsf =: 3 : 0
+   x + y
+)
+count =. #
+feiu =: 3 : 0
+   x % y
+)
+sum =. +/
+count =. #
+ddkx =. 38
+jmbq =. 16 14 1 19
+gqzi =. 3
+etjo =. 16 11 9
+yxbz =: 3 : 0
+   x - y
+)
+lipg =. 4 15 2 11 7
+sum =. +/
+uhcd =: 3 : 0
+   x % y
+)
+syul =. 6 17 6 16 9
+mean =. +/ % #
+zvmx =: 3 : 0
+   x % y
+)
+yphd =. 11 5
+NB. FIXME: hndv
+mean =. +/ % #
+xxtb =. 18 18 13 5
+ekka =. i. 10
+bbku =: 3 : 0
+   x % y
+)
+NB. NOTE: vwsqb
+mean =. +/ % #
+tqmh =. 100
+NB. FIXME: cxzl
+azxa =. 4 7
+eaqa =: 3 : 0
+   x - y
+)
+wmdg =: 3 : 0
+   x + y
+)
+NB. FIXME: foqhuz
+prod =. */
+djgn =: 3 : 0
+   x * y
+)
+kkfo =. i. 7
+yygn =: 3 : 0
+   x * y
+)
+ndrr =: 3 : 0
+   x - y
+)
+NB. NOTE: qmobhte
+hrhi =. 94
+NB. FIXME: kynds
+tevk =. 2 13
+pamq =. 16 1 19 13 0
+sgjy =: 3 : 0
+   x - y
+)
+toul =. i. 9
+iktb =. 4 14
+yinf =. i. 3
+count =. #
+svpd =. i. 10
+cicr =. 5
+fkxj =: 3 : 0
+   x - y
+)
+tlmq =. 91
+mean =. +/ % #
+mean =. +/ % #
+NB. FIXME: iyj
+NB. NOTE: xwsrtoc
+tkcr =. 11
+gogo =. 90
+ieua =: 3 : 0
+   x * y
+)
+NB. NOTE: bogbf
+NB. FIXME: tkc
+wlqv =: 3 : 0
+   x + y
+)
+hqxw =. i. 4
+osse =. i. 8
+syjt =: 3 : 0
+   x + y
+)
+alsx =. 65
+max =. >/
+NB. TODO: lshsq
+mean =. +/ % #
+edoq =: 3 : 0
+   x - y
+)
+sum =. +/
+erqu =: 3 : 0
+   x + y
+)
+wkzv =. 71
+free =. 18
+votp =: 3 : 0
+   x % y
+)
+mvzo =: 3 : 0
+   x * y
+)
+hsbm =. i. 3
+max =. >/
+NB. NOTE: jpv
+min =. </
+sum =. +/
+tcxw =. 4 14 8
+pqlr =: 3 : 0
+   x % y
+)
+NB. NOTE: rbs
+vdqv =. i. 6
+mean =. +/ % #
+pdmh =. i. 6
+pfna =. 6 7 8
+tvez =. 8 13 14
+max =. >/
+qrdv =: 3 : 0
+   x * y
+)
+NB. HACK: rsgkgo
+NB. NOTE: lcia
+gflv =. 51
+NB. FIXME: mpef
+rhyy =. 5 8 6 11 3
+min =. </
+pimk =. 16 20
+prod =. */
+NB. FIXME: wxowfo
+xmac =. 6 6 15 9
+tvec =. i. 10
+epha =. 9 16
+guhu =. i. 3
+wjdu =. 81
+bmee =. i. 10
+mean =. +/ % #
+prod =. */
+rufe =: 3 : 0
+   x * y
+)
+jxxo =. 17 2 20
+agmv =. 19 19
+tkbd =: 3 : 0
+   x + y
+)
+mean =. +/ % #
+ghrt =: 3 : 0
+   x - y
+)
+fgiv =. i. 9
+wdjb =: 3 : 0
+   x + y
+)
+hxqy =: 3 : 0
+   x + y
+)
+ufqe =. 15 13 15
+wnpv =: 3 : 0
+   x - y
+)
+jyiy =. 87
+prod =. */
+voqq =. 6 11
+rado =. i. 8
+stvm =. 48
+prqs =. 65
+svko =: 3 : 0
+   x % y
+)
+erul =: 3 : 0
+   x + y
+)
+ynrq =: 3 : 0
+   x - y
+)
+bfxj =. 19 4 14 7
+xidz =. 12 4 16
+prod =. */
+bwbt =. i. 8
+NB. HACK: smrwan
+NB. TODO: dnvwp
+uydf =. i. 5
+NB. FIXME: slue
+tmao =. i. 3
+NB. FIXME: kdz
+szns =. 18 1 14
+auoe =. 11 13 11 4 2
+yikn =: 3 : 0
+   x + y
+)
+NB. FIXME: vruypm
+vbzp =. i. 7
+lfvt =. 71
+sum =. +/
+NB. HACK: bigzjx
+saeo =: 3 : 0
+   x - y
+)
+sum =. +/
+wkjg =. i. 5
+jbgp =. 51
+dtda =: 3 : 0
+   x % y
+)
+gwne =. 17
+sum =. +/
+NB. FIXME: uyqbtz
+prod =. */
+ithg =. i. 10
+suhz =. i. 8
+NB. FIXME: vrj
+azqo =. 43
+obtj =. 9 8 19 4
+gmiq =: 3 : 0
+   x - y
+)
+iwms =. i. 4
+bytv =. 0 19 10
+rztn =. 11 14 17 17 15
+prod =. */
+jtyk =. 33
+ullj =. 94
+jstl =. i. 6
+pfzz =. i. 3
+sum =. +/
+min =. </
+crub =. 95
+prod =. */
+srmc =. i. 5
+NB. HACK: vspovhm
+NB. HACK: yopbp
+min =. </
+NB. TODO: ozsks
+vbhy =. 7
+nmza =: 3 : 0
+   x * y
+)
+gbej =. i. 10
+rlmu =. i. 9
+lgco =. 9 15 4
+gppt =: 3 : 0
+   x - y
+)
+prod =. */
+ztgq =: 3 : 0
+   x + y
+)
+owaf =. i. 9
+gqrq =. i. 10
+hszg =: 3 : 0
+   x * y
+)
+oimx =. 19 3 2 15 20
+selk =. i. 6
+hltr =. 89
+mbma =. i. 10
+iktj =. 20 14 20 4
+pnhh =. 75
+cvzc =: 3 : 0
+   x - y
+)
+zxia =. 85
+yjaq =. 4 2 18 0
+kxyi =. 17 20 17 18
+zboj =: 3 : 0
+   x * y
+)
+ciqq =. 10 6 9 7 4
+NB. TODO: arjbxdz
+iyav =: 3 : 0
+   x * y
+)
+fths =: 3 : 0
+   x % y
+)
+ephj =. 10 5 5
+vatv =: 3 : 0
+   x % y
+)
+kaje =: 3 : 0
+   x - y
+)
+dpij =. i. 5
+nuti =: 3 : 0
+   x - y
+)
+ugul =. 9
+qwht =: 3 : 0
+   x * y
+)
+kzdb =. i. 3
+NB. FIXME: bqm
+eajj =. i. 8
+qrix =. 8
+count =. #
+gsyq =. 27
+hzqb =. 98
+ycxo =. i. 4
+jkzc =. 1 8 20 3 8
+ftqu =. 20 18 12 4 14
+einw =. 20
+prod =. */
+cubi =. i. 4
+fqrv =. 71
+hkel =. 71
+ejmu =. 13
+dxsf =: 3 : 0
+   x + y
+)
+min =. </
+hmgq =: 3 : 0
+   x - y
+)
+fxqv =. i. 7
+btri =. 15 15 7
+kjxw =. i. 4
+yzkq =. 14 14
+fjuc =. i. 6
+max =. >/
+nifb =. 0 5 7
+cbcj =. i. 3
+kkia =. 4
+prod =. */
+prod =. */
+faqz =. 15 7 20 18 12
+cnlo =: 3 : 0
+   x + y
+)
+NB. FIXME: tfq
+qwnj =. 6 17 9
+kvle =. i. 5
+zrcs =: 3 : 0
+   x * y
+)
+mean =. +/ % #
+mean =. +/ % #
+ntrg =. i. 9
+lalv =. i. 7
+NB. FIXME: gukyrcr
+wqcg =: 3 : 0
+   x % y
+)
+kygg =. 20
+yycw =. 18 2 2
+NB. NOTE: wxzq
+jvmz =. i. 5
+xggt =. 14 5 9 15 2
+max =. >/
+vlbo =. 14 11 5 15 16
+max =. >/
+bltp =. i. 4
+tvwq =. 78
+prod =. */
+NB. NOTE: xhwl
+bcux =: 3 : 0
+   x % y
+)
+NB. TODO: mts
+vqda =. 66
+NB. FIXME: pxfb
+count =. #
+max =. >/
+NB. TODO: tpfnt
+tpds =. 48
+jyxo =. 12 17 0 4
+NB. FIXME: wzd
+hasp =: 3 : 0
+   x % y
+)
+NB. FIXME: pdi
+mten =. i. 7
+mjmo =. i. 7
+fmbc =. i. 10
+cajd =: 3 : 0
+   x + y
+)
+yjvp =. 31
+uspt =: 3 : 0
+   x * y
+)
+turl =. i. 3
+eydz =. 13 10 17 13
+oehv =. 6 16 2 9
+ghya =. 81
+NB. HACK: mozgf
+min =. </
+trhp =: 3 : 0
+   x - y
+)
+fxwb =. i. 4
+min =. </
+mean =. +/ % #
+ogxl =. 13 10 16 1
+zuai =. i. 5
+ifmh =: 3 : 0
+   x + y
+)
+nzqb =. 10 20 15 12
+min =. </
+dexp =. i. 3
+witm =: 3 : 0
+   x * y
+)
+min =. </
+vuxo =. i. 3
+NB. HACK: uamojh
+rier =. 38
+NB. NOTE: all
+NB. HACK: aszrzpo
+NB. NOTE: ckikbzy
+min =. </
+sjlb =. 15
+fgwf =. 42
+crbf =. 15
+zute =: 3 : 0
+   x - y
+)
+lxba =: 3 : 0
+   x - y
+)
+hjoe =. 8
+uhcf =. 0
+aqgk =. 14 14 19 8 6
+kwbg =. i. 5
+prod =. */
+xeju =. i. 5
+liqv =. 91
+min =. </
+NB. HACK: znzwonz
+lfhq =. i. 4
+xeri =. i. 5
+szxg =. i. 5
+erwo =: 3 : 0
+   x * y
+)
+momg =. 11
+hyfm =. 4 3 18 7
+apbd =. 4 13
+hjaw =. 18 8
+NB. HACK: hxd
+wzud =. 10 0
+qmnr =. 10 10
+qmfl =. 4 10 10 0
+gduj =. i. 9
+sxjf =: 3 : 0
+   x + y
+)
+ixoz =. 52
+rlio =. 0 9
+prod =. */
+cbwk =. i. 5
+psvq =. 14 9 17
+fgls =: 3 : 0
+   x % y
+)
+vyct =. i. 7
+utct =: 3 : 0
+   x - y
+)
+slbl =: 3 : 0
+   x % y
+)
+hddc =: 3 : 0
+   x + y
+)
+kcpj =. 59
+modu =. 4 16 19
+NB. TODO: teq
+NB. NOTE: pyzutxo
+ebxa =. i. 8
+nqpa =. i. 5
+xzxk =. 66
+kema =. 94
+eeig =: 3 : 0
+   x % y
+)
+nojj =. 19 8 14 0
+labl =: 3 : 0
+   x + y
+)
+woyx =. 20 9 7 20 6
+iyzl =: 3 : 0
+   x % y
+)
+crye =: 3 : 0
+   x * y
+)
+occu =. 13 15 3 3
+qzgl =. i. 5
+min =. </
+NB. FIXME: iinjav
+zdjv =. i. 7
+ylsz =. 6 12
+count =. #
+cgep =: 3 : 0
+   x % y
+)
+iiuc =. 7 3
+dvwf =: 3 : 0
+   x % y
+)
+ayle =: 3 : 0
+   x + y
+)
+max =. >/
+wisf =. 53
+onvu =. 20 0 15
+sum =. +/
+srqe =: 3 : 0
+   x * y
+)
+min =. </
+lqtb =: 3 : 0
+   x * y
+)
+boys =. i. 6
+mhxi =. 72
+qvvj =. 19 4 6 17
+mhhj =: 3 : 0
+   x + y
+)
+prod =. */
+bhdo =. i. 9
+vzuu =. 16 11 2 13 3
+mean =. +/ % #
+mean =. +/ % #
+uckz =. i. 5
+NB. TODO: ewodxi
+myvi =. 8
+sum =. +/
+kwih =. 5 12 5
+yuva =: 3 : 0
+   x - y
+)
+mtxt =. 21
+NB. HACK: syabua
+wyfl =. 12 4 15
+count =. #
+mean =. +/ % #
+efyg =. 2 18 13 6 4
+nhdx =. 96
+brar =. 65
+dgeb =. i. 7
+sztm =. i. 7
+hfgb =. 17
+bxpo =. i. 10
+dfgm =. i. 3
+NB. FIXME: ihnutl
+kudv =: 3 : 0
+   x % y
+)
+count =. #
+cqvv =. i. 10
+fzri =: 3 : 0
+   x % y
+)
+sum =. +/
+min =. </
+zcob =. 9 18 9 14
+sum =. +/
+anff =: 3 : 0
+   x * y
+)
+mzac =: 3 : 0
+   x % y
+)
+vkhj =. i. 8
+NB. HACK: mrbs
+min =. </
+count =. #
+vsva =: 3 : 0
+   x * y
+)
+qarg =. 78
+mfur =. i. 4
+etcu =: 3 : 0
+   x - y
+)
+slaw =. 66
+prod =. */
+scpe =. 70
+min =. </
+yzht =: 3 : 0
+   x % y
+)
+lmjs =. 79
+sgvz =. 62
+NB. NOTE: fpxtgof
+hffr =: 3 : 0
+   x - y
+)
+ymfz =. i. 7
+xujo =: 3 : 0
+   x + y
+)
+dnuq =. 9 19 13
+yzcd =: 3 : 0
+   x % y
+)
+vkot =. 0 3 15 19
+umza =: 3 : 0
+   x - y
+)
+zvpd =. 16 0
+sum =. +/
+gxew =. 7 1 7
+prod =. */
+xdqq =: 3 : 0
+   x + y
+)
+eywj =. i. 10
+svpk =. 18 7 2 20
+NB. NOTE: izdem
+dsui =. i. 8
+xwwv =. 51
+esvj =. 97
+cdkq =. i. 4
+lssx =. 34
+omdw =. i. 9
+znbu =. 10
+fdrk =. i. 8
+ahou =. 6 15 17 1
+njel =: 3 : 0
+   x - y
+)
+dixm =. i. 6
+hibc =. 6 16 16 0
+max =. >/
+mean =. +/ % #
+count =. #
+NB. HACK: bugnygq
+nezn =. i. 9
+mean =. +/ % #
+jqea =. i. 10
+dgmc =. 34
+kedy =. 16 10 8 3 16
+count =. #
+hhnr =. 16 4 11
+yqiv =. 9
+kdqw =. i. 7
+count =. #
+NB. NOTE: frzr
+ahgz =. i. 10
+tpxy =. 13 12 10
+zufv =: 3 : 0
+   x + y
+)
+prod =. */
+lzbu =. 11
+tknk =: 3 : 0
+   x * y
+)
+zutk =: 3 : 0
+   x + y
+)
+vdtn =. i. 3
+jhmi =. 7 15 4
+vpgg =: 3 : 0
+   x + y
+)
+atyk =. 66
+dxoz =. i. 5
+qiik =. i. 4
+mean =. +/ % #
+jyob =: 3 : 0
+   x % y
+)
+NB. TODO: uwp
+rdxt =: 3 : 0
+   x * y
+)
+sum =. +/
+gkjl =. i. 5
+dtyt =: 3 : 0
+   x + y
+)
+vzff =. 10 2 16
+xydg =: 3 : 0
+   x * y
+)
+ucit =. i. 6
+gqrk =. i. 7
+tqdi =. i. 6
+epkg =. 57
+napv =. i. 10
+prod =. */
+bqsp =. i. 3
+zqru =. 52
+min =. </
+tcww =: 3 : 0
+   x * y
+)
+nllv =: 3 : 0
+   x % y
+)
+dumi =. 65
+wuof =. i. 5
+count =. #
+max =. >/
+fwyn =. 26
+xbps =. 35
+mean =. +/ % #
+szfh =: 3 : 0
+   x % y
+)
+elab =: 3 : 0
+   x * y
+)
+eveu =: 3 : 0
+   x + y
+)
+ehmq =. i. 4
+NB. FIXME: izyib
+bafc =. i. 10
+prod =. */
+dysb =. i. 7
+iqbn =. i. 5
+icmp =: 3 : 0
+   x * y
+)
+tyov =: 3 : 0
+   x - y
+)
+eadw =. 9 2 15 3
+ldgv =. i. 3
+igwy =. 20 16 12 7 19
+xmle =. 26
+jlxi =. 7 17 12
+max =. >/
+nnyv =: 3 : 0
+   x % y
+)
+hgfx =: 3 : 0
+   x * y
+)
+lmej =. 15 10
+fmmq =. i. 8
+bmih =. i. 7
+hixr =: 3 : 0
+   x * y
+)
+count =. #
+rrlh =: 3 : 0
+   x + y
+)
+qunf =. 5 15 18 19 6
+NB. HACK: whl
+qoyh =. 10 19 6 5
+lvqe =. i. 9
+NB. HACK: nuq
+olcp =. 9
+fgmi =: 3 : 0
+   x * y
+)
+min =. </
+ezpy =. 7 20 0 13 0
+xtpy =. 2 2 15 17 0
+sapu =: 3 : 0
+   x - y
+)
+cmfa =. 34
+qrzq =. i. 7
+min =. </
+oita =. 18 20 6 9 3
+bvkh =. 19 1 11
+ntgc =. i. 4
+jrny =. 10 8
+zife =. 70
+qyrz =. 43
+icrs =: 3 : 0
+   x - y
+)
+farm =. 91
+kucy =. 54
+hlzw =. 18 8 15 6 4
+eqgd =: 3 : 0
+   x % y
+)
+jvmd =: 3 : 0
+   x + y
+)
+hrsj =: 3 : 0
+   x - y
+)
+ruum =. i. 8
+fahj =. 3 3
+min =. </
+sbws =. 52
+qrev =: 3 : 0
+   x - y
+)
+NB. HACK: qrxmhzq
+min =. </
+rhfb =. 19 8
+max =. >/
+snrh =. i. 3
+qzjn =. i. 5
+iuvu =. 5 13
+qrzx =. 40
+prod =. */
+hmwd =. i. 9
+zqiy =: 3 : 0
+   x % y
+)
+rinv =. 7 15 2 6
+acnd =. 4 20 0
+xfbe =: 3 : 0
+   x * y
+)
+zhxn =. i. 4
+eayt =. 16 20
+bgft =. 6 1
+NB. FIXME: gnmy
+prod =. */
+wdgt =. 11 17 9 3
+huks =: 3 : 0
+   x + y
+)
+NB. FIXME: noiizw
+vohl =. i. 3
+prod =. */
+max =. >/
+otms =. 6
+mean =. +/ % #
+rdjr =: 3 : 0
+   x - y
+)
+NB. HACK: xsqy
+ueid =. 2 14 14 2 3
+ptuu =: 3 : 0
+   x - y
+)
+sum =. +/
+evxn =. i. 3
+count =. #
+adqz =. 69
+mzgl =: 3 : 0
+   x + y
+)
+qpdh =. i. 4
+mean =. +/ % #
+ernz =: 3 : 0
+   x - y
+)
+omtd =: 3 : 0
+   x + y
+)
+waey =. i. 3
+qjxl =: 3 : 0
+   x % y
+)
+forp =. i. 4
+auhg =. i. 8
+max =. >/
+rqop =. 22
+mubt =: 3 : 0
+   x + y
+)
+dfyb =. 5
+soiz =: 3 : 0
+   x + y
+)
+cfni =: 3 : 0
+   x * y
+)
+pvxp =. i. 6
+oelf =. 10 7 0 9 17
+max =. >/
+cjpb =: 3 : 0
+   x * y
+)
+ubab =. 24
+ofwn =: 3 : 0
+   x + y
+)
+sfmc =: 3 : 0
+   x * y
+)
+prod =. */
+NB. TODO: taru
+lztg =. 69
+uixc =. 8 2 12 9
+min =. </
+ejsq =: 3 : 0
+   x * y
+)
+ekas =: 3 : 0
+   x * y
+)
+chln =. 2 12 12 12
+nqnj =. 50
+stkn =. i. 8
+count =. #
+vegl =. i. 9
+cshq =. 80
+mrmw =. i. 3
+crjf =. 92
+sum =. +/
+mlib =. 3 8 12
+luou =: 3 : 0
+   x - y
+)
+tbep =. i. 3
+otae =. i. 4
+min =. </
+wljf =: 3 : 0
+   x + y
+)
+zqlg =. 99
+jrvt =. 5 4
+odjx =. 15 1 15 9
+fhou =. 5 16 1
+min =. </
+visn =: 3 : 0
+   x % y
+)
+ngxy =. i. 6
+fecu =: 3 : 0
+   x * y
+)
+max =. >/
+wpry =. 12
+ecut =: 3 : 0
+   x % y
+)
+count =. #
+oaqq =. i. 9
+NB. FIXME: eglbvdt
+vqsg =. i. 7
+axua =. i. 5
+yara =. i. 3
+uffk =: 3 : 0
+   x - y
+)
+prod =. */
+dwxi =: 3 : 0
+   x * y
+)
+ohwl =: 3 : 0
+   x + y
+)
+ggpt =: 3 : 0
+   x % y
+)
+ohqq =. 12 13
+max =. >/
+ikzr =. 59
+NB. HACK: ybihlj
+min =. </
+NB. HACK: yxp
+jmko =. 80
+kkkt =: 3 : 0
+   x - y
+)
+qetg =. 8 10 6 10
+prod =. */
+NB. TODO: udeymj
+sum =. +/
+ptrt =: 3 : 0
+   x + y
+)
+xixy =. i. 6
+itib =. 61
+min =. </
+NB. NOTE: pmom
+prod =. */
+NB. NOTE: adngg
+prod =. */
+mean =. +/ % #
+ejpr =. 11 8 10
+sum =. +/
+sum =. +/
+max =. >/
+mjeu =. i. 7
+nbud =: 3 : 0
+   x % y
+)
+NB. HACK: kjo
+jeeh =. 16 13 15 6 20
+zlik =. i. 7
+gpaq =. 5 13 10 10 0
+NB. HACK: wshcrc
+oonp =. i. 8
+cgku =. i. 10
+max =. >/
+min =. </
+ziuh =. i. 3
+sum =. +/
+min =. </
+NB. FIXME: ddxsegb
+itnu =. i. 6
+NB. HACK: olokxo
+yglc =. 11 2 1
+sbgc =. 18 8 8 18
+ospr =. 16 16 5 6 1
+NB. NOTE: lnyqg
+bmmp =. 23
+max =. >/
+spij =: 3 : 0
+   x % y
+)
+xyar =: 3 : 0
+   x - y
+)
+clvz =. 59
+ldwr =: 3 : 0
+   x + y
+)
+NB. NOTE: wfqreb
+azvf =. 43
+min =. </
+NB. HACK: djge
+count =. #
+bvmf =. i. 10
+count =. #
+shas =: 3 : 0
+   x * y
+)
+sum =. +/
+min =. </
+ndvu =: 3 : 0
+   x * y
+)
+hcpl =. 94
+zxjw =. i. 9
+lyej =. i. 3
+sfaw =: 3 : 0
+   x % y
+)
+veyy =. i. 9
+max =. >/
+NB. NOTE: drd
+itoc =. i. 9
+okmy =. i. 9
+opam =: 3 : 0
+   x + y
+)
+kzra =. 20 2 9 0 0
+bjka =. i. 6
+mrup =: 3 : 0
+   x * y
+)
+nzoy =: 3 : 0
+   x % y
+)
+fqtz =: 3 : 0
+   x % y
+)
+hgkc =. i. 4
+prod =. */
+ejay =. 17 7 13
+exrs =. i. 5
+khpa =: 3 : 0
+   x + y
+)
+max =. >/
+NB. HACK: nnay
+epjy =. i. 9
+prod =. */
+vbni =: 3 : 0
+   x - y
+)
+xdhg =: 3 : 0
+   x + y
+)
+xktj =: 3 : 0
+   x + y
+)
+min =. </
+dxow =: 3 : 0
+   x * y
+)
+xjdb =: 3 : 0
+   x % y
+)
+yckq =: 3 : 0
+   x + y
+)
+min =. </
+odxh =. i. 3
+scdu =: 3 : 0
+   x - y
+)
+max =. >/
+rlnk =. i. 5
+zxtf =. i. 4
+hegx =. i. 10
+phuh =: 3 : 0
+   x - y
+)
+psry =. 2 1 4
+nfay =. 1 9 16 11
+NB. NOTE: gjwtprv
+dcjz =. i. 3
+qeyt =: 3 : 0
+   x * y
+)
+sfut =. 81
+rdwx =. 14 10
+jair =: 3 : 0
+   x % y
+)
+sum =. +/
+pvmw =: 3 : 0
+   x + y
+)
+count =. #
+zmvb =: 3 : 0
+   x % y
+)
+izmy =. i. 6
+qabt =. i. 9
+jkoe =. 43
+sum =. +/
+snzl =. 2
+khhb =. i. 5
+cdvg =. i. 5
+uyvm =: 3 : 0
+   x - y
+)
+max =. >/
+rgxd =: 3 : 0
+   x + y
+)
+NB. NOTE: npgw
+qnwn =: 3 : 0
+   x - y
+)
+lafb =. 23
+nrkb =. 87
+min =. </
+yqam =. 15 13 17 8 14
+pqpi =. 2 11
+usft =. 2 18 10 2 16
+ufhi =: 3 : 0
+   x + y
+)
+dbsf =. 11 14 7 7
+NB. TODO: frrj
+npug =. 86
+mean =. +/ % #
+wxis =. 14 7 13
+mrax =. 3 13 18
+pdvu =. 6 6
+wgew =. 5 19 11
+NB. NOTE: aijwxkk
+yikr =. i. 6
+wllg =. 7
+prod =. */
+wgax =. i. 7
+pmfy =. i. 4
+pvxa =. 80
+prod =. */
+mean =. +/ % #
+prod =. */
+pkvl =. 2 6
+sum =. +/
+wztj =: 3 : 0
+   x * y
+)
+NB. HACK: wwp
+whjc =. 9 17 13 12 20
+fpqo =. i. 7
+sqxp =. 22
+qdqq =. 16 17
+prod =. */
+hsab =. 98
+wnbj =. i. 9
+ksot =: 3 : 0
+   x + y
+)
+qaqx =. i. 7
+NB. FIXME: vfmb
+rwco =: 3 : 0
+   x * y
+)
+prod =. */
+rrdz =. 5 13 18 6
+NB. TODO: lby
+izoh =. 9 11 17 7 16
+ucht =. 21
+mean =. +/ % #
+sum =. +/
+sum =. +/
+arpm =: 3 : 0
+   x % y
+)
+wjip =: 3 : 0
+   x + y
+)
+qfrh =. 20 8
+vjug =: 3 : 0
+   x % y
+)
+count =. #
+iaeo =. 11 14 16 13 18
+utfj =: 3 : 0
+   x - y
+)
+krsj =. 12
+djul =. i. 10
+wfda =. 3 0 9
+pffr =. i. 3
+tpqr =. i. 6
+count =. #
+yfvq =: 3 : 0
+   x % y
+)
+nlve =: 3 : 0
+   x - y
+)
+omaw =: 3 : 0
+   x + y
+)
+mkpp =: 3 : 0
+   x % y
+)
+mean =. +/ % #
+min =. </
+NB. NOTE: cql
+irgh =. 10
+qlbc =. 29
+jhud =. 8
+tagm =: 3 : 0
+   x + y
+)
+klpu =. i. 7
+mean =. +/ % #
+defe =. i. 3
+yydt =. i. 10
+yxwv =. i. 5
+vnwu =: 3 : 0
+   x % y
+)
+nxpm =. i. 3
+qbaz =. i. 8
+min =. </
+vrtl =. i. 3
+mrve =: 3 : 0
+   x * y
+)
+fbnb =. 1 5 13
+mean =. +/ % #
+count =. #
+NB. TODO: ccjf
+NB. TODO: fgtngyi
+prfm =. i. 4
+iqgi =. i. 9
+lgzx =. 17 8 8
+NB. NOTE: yfeuy
+wkmk =: 3 : 0
+   x + y
+)
+rfnq =: 3 : 0
+   x * y
+)
+count =. #
+ijfb =. 9 20 4 20
+lvyo =. i. 7
+prod =. */
+zcky =. 42
+mean =. +/ % #
+count =. #
+zqgw =. 11 2 5 1 19
+yzdv =: 3 : 0
+   x + y
+)
+NB. FIXME: mgtjuvg
+scip =. i. 6
+pthh =. i. 3
+arbf =: 3 : 0
+   x * y
+)
+ltvz =. 66
+cwpm =: 3 : 0
+   x * y
+)
+prod =. */
+kjhu =. i. 9
+yvtw =. 75
+xtgd =. i. 5
+zqge =. 8 1
+jgyv =: 3 : 0
+   x * y
+)
+uebb =: 3 : 0
+   x % y
+)
+afhw =. i. 5
+NB. FIXME: vlazo
+odpv =. 39
+prod =. */
+zipl =: 3 : 0
+   x * y
+)
